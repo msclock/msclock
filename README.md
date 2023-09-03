@@ -4,8 +4,8 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
+- [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (today)
 - [msclock/cpp-project-template](https://github.com/msclock/cpp-project-template) - Cpp Project Template (today)
-- [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (2 days ago)
 - [msclock/yolov5-utils](https://github.com/msclock/yolov5-utils) - Yolov5 Installable Package (1 week ago)
 - [msclock/features](https://github.com/msclock/features) - Some features for dev container (1 week ago)
 - [devcontainers-community/features-vcpkg](https://github.com/devcontainers-community/features-vcpkg) - 📦 Installs vcpkg (1 week ago)
