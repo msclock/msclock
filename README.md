@@ -51,6 +51,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### ⭐ Recent Stars
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. (today)
 - [JakubAndrysek/MkDoxy](https://github.com/JakubAndrysek/MkDoxy) - 📖 Automatically generates API documentation for your project based on Doxygen comments and code snippets in your markdown files. (1 week ago)
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. (1 week ago)
 - [SeldonIO/MLServer](https://github.com/SeldonIO/MLServer) - An inference server for your machine learning models, including support for multiple frameworks, multi-model serving and more (1 month ago)
@@ -60,7 +61,6 @@ I’m msclock, a software engineer and opensource enthusiast.
 - [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Multimodal AI services &amp; pipelines with cloud-native stack: gRPC, Kubernetes, Docker, OpenTelemetry, Prometheus, Jaeger, etc. (1 month ago)
 - [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain  (2 months ago)
 - [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型 (2 months ago)
-- [w1770946466/Auto_proxy](https://github.com/w1770946466/Auto_proxy) - Automatic acquisition of TG channel proxy information (2 months ago)
 
 #### 💬 Feedback
 
