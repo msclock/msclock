@@ -4,8 +4,8 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (1 day ago)
-- [msclock/cpp-project-template](https://github.com/msclock/cpp-project-template) - Cpp Project Template (1 day ago)
+- [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (2 days ago)
+- [msclock/cpp-project-template](https://github.com/msclock/cpp-project-template) - Cpp Project Template (2 days ago)
 - [msclock/yolov5-utils](https://github.com/msclock/yolov5-utils) - Yolov5 Installable Package (2 weeks ago)
 - [msclock/features](https://github.com/msclock/features) - Some features for dev container (2 weeks ago)
 - [devcontainers-community/features-vcpkg](https://github.com/devcontainers-community/features-vcpkg) - 📦 Installs vcpkg (2 weeks ago)
@@ -51,7 +51,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### ⭐ Recent Stars
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. (2 days ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. (3 days ago)
 - [JakubAndrysek/MkDoxy](https://github.com/JakubAndrysek/MkDoxy) - 📖 Automatically generates API documentation for your project based on Doxygen comments and code snippets in your markdown files. (1 week ago)
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. (2 weeks ago)
 - [SeldonIO/MLServer](https://github.com/SeldonIO/MLServer) - An inference server for your machine learning models, including support for multiple frameworks, multi-model serving and more (1 month ago)
