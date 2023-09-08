@@ -5,7 +5,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 #### 👷 Check out what I'm currently working on
 
 - [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (1 day ago)
-- [msclock/cpp-project-template](https://github.com/msclock/cpp-project-template) - Cpp Project Template (3 days ago)
+- [msclock/cpp-project-template](https://github.com/msclock/cpp-project-template) - Cpp Project Template (4 days ago)
 - [msclock/yolov5-utils](https://github.com/msclock/yolov5-utils) - Yolov5 Installable Package (2 weeks ago)
 - [msclock/features](https://github.com/msclock/features) - Some features for dev container (2 weeks ago)
 - [devcontainers-community/features-vcpkg](https://github.com/devcontainers-community/features-vcpkg) - 📦 Installs vcpkg (2 weeks ago)
@@ -51,7 +51,9 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### ⭐ Recent Stars
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. (4 days ago)
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI&#39;s Code Interpreter in your terminal, running locally (1 day ago)
+- [pengzhile/cocopilot](https://github.com/pengzhile/cocopilot) - 你可以把它称为：联合副驾驶。 (1 day ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. (5 days ago)
 - [JakubAndrysek/MkDoxy](https://github.com/JakubAndrysek/MkDoxy) - 📖 Automatically generates API documentation for your project based on Doxygen comments and code snippets in your markdown files. (1 week ago)
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. (2 weeks ago)
 - [SeldonIO/MLServer](https://github.com/SeldonIO/MLServer) - An inference server for your machine learning models, including support for multiple frameworks, multi-model serving and more (1 month ago)
@@ -59,8 +61,6 @@ I’m msclock, a software engineer and opensource enthusiast.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models (2 months ago)
 - [ssrlive/proxypool](https://github.com/ssrlive/proxypool) - 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重后提供节点列表 (2 months ago)
 - [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Multimodal AI services &amp; pipelines with cloud-native stack: gRPC, Kubernetes, Docker, OpenTelemetry, Prometheus, Jaeger, etc. (2 months ago)
-- [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain  (2 months ago)
-- [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型 (2 months ago)
 
 #### 💬 Feedback
 
