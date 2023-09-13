@@ -4,20 +4,20 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [msclock/pylicense](https://github.com/msclock/pylicense) - A simple license generator for python project. (1 day ago)
-- [msclock/yolov5-utils](https://github.com/msclock/yolov5-utils) - Yolov5 Installable Package (1 day ago)
 - [msclock/mlflow_tritonserver](https://github.com/msclock/mlflow_tritonserver) -  (1 day ago)
+- [msclock/yolov5-utils](https://github.com/msclock/yolov5-utils) - Yolov5 Installable Package (1 day ago)
+- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple license authorizer for python project. (1 day ago)
 - [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (3 days ago)
 - [msclock/cpp-project-template](https://github.com/msclock/cpp-project-template) - Cpp Project Template (1 week ago)
-- [msclock/features](https://github.com/msclock/features) - Some features for dev container (3 weeks ago)
 - [devcontainers-community/features-vcpkg](https://github.com/devcontainers-community/features-vcpkg) - 📦 Installs vcpkg (3 weeks ago)
+- [msclock/features](https://github.com/msclock/features) - Some features for dev container (3 weeks ago)
 - [msclock/transformersplus](https://github.com/msclock/transformersplus) - Add Some plus extra features to transformers (3 weeks ago)
 - [msclock/msclock.github.io](https://github.com/msclock/msclock.github.io) -  (2 months ago)
 - [msclock/images](https://github.com/msclock/images) - my image store (4 months ago)
 
 #### 🌱 My latest projects
 
-- [msclock/pylicense](https://github.com/msclock/pylicense) - A simple license generator for python project.
+- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple license authorizer for python project.
 - [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates
 - [msclock/mlflow_tritonserver](https://github.com/msclock/mlflow_tritonserver) - 
 - [msclock/chat_backend](https://github.com/msclock/chat_backend) - 
@@ -30,6 +30,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
+- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.1.0](https://github.com/msclock/pyauthorizer/releases/tag/v0.1.0), today) - A simple license authorizer for python project.
 - [msclock/yolov5-utils](https://github.com/msclock/yolov5-utils) ([v7.1.5](https://github.com/msclock/yolov5-utils/releases/tag/v7.1.5), 3 weeks ago) - Yolov5 Installable Package
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2023.08.09](https://github.com/microsoft/vcpkg/releases/tag/2023.08.09), 1 month ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
 - [msclock/mlflow_tritonserver](https://github.com/msclock/mlflow_tritonserver) ([v1.1.0](https://github.com/msclock/mlflow_tritonserver/releases/tag/v1.1.0), 2 months ago) - 
