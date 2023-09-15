@@ -4,11 +4,11 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [msclock/features](https://github.com/msclock/features) - Some features for dev container (today)
-- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (1 day ago)
-- [msclock/yolov5-utils](https://github.com/msclock/yolov5-utils) - Yolov5 Installable Package (2 days ago)
-- [msclock/mlflow_tritonserver](https://github.com/msclock/mlflow_tritonserver) -  (2 days ago)
-- [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (4 days ago)
+- [msclock/features](https://github.com/msclock/features) - Some features for dev container (1 day ago)
+- [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (1 day ago)
+- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (2 days ago)
+- [msclock/yolov5-utils](https://github.com/msclock/yolov5-utils) - Yolov5 Installable Package (3 days ago)
+- [msclock/mlflow_tritonserver](https://github.com/msclock/mlflow_tritonserver) -  (3 days ago)
 - [msclock/cpp-project-template](https://github.com/msclock/cpp-project-template) - Cpp Project Template (1 week ago)
 - [devcontainers-community/features-vcpkg](https://github.com/devcontainers-community/features-vcpkg) - 📦 Installs vcpkg (3 weeks ago)
 - [msclock/transformersplus](https://github.com/msclock/transformersplus) - Add Some plus extra features to transformers (3 weeks ago)
@@ -30,7 +30,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.0](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.0), 1 day ago) - A simple authorizer for python project.
+- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.0](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.0), 2 days ago) - A simple authorizer for python project.
 - [msclock/yolov5-utils](https://github.com/msclock/yolov5-utils) ([v7.1.5](https://github.com/msclock/yolov5-utils/releases/tag/v7.1.5), 3 weeks ago) - Yolov5 Installable Package
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2023.08.09](https://github.com/microsoft/vcpkg/releases/tag/2023.08.09), 1 month ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
 - [msclock/mlflow_tritonserver](https://github.com/msclock/mlflow_tritonserver) ([v1.1.0](https://github.com/msclock/mlflow_tritonserver/releases/tag/v1.1.0), 2 months ago) - 
@@ -52,7 +52,8 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### ⭐ Recent Stars
 
-- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C&#43;&#43;, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。 (2 days ago)
+- [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev (1 day ago)
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C&#43;&#43;, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。 (3 days ago)
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI&#39;s Code Interpreter in your terminal, running locally (1 week ago)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. (1 week ago)
 - [JakubAndrysek/MkDoxy](https://github.com/JakubAndrysek/MkDoxy) - 📖 Automatically generates API documentation for your project based on Doxygen comments and code snippets in your markdown files. (2 weeks ago)
@@ -61,7 +62,6 @@ I’m msclock, a software engineer and opensource enthusiast.
 - [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠 Dump all your files and chat with your personal assistant on your files &amp; more using GPT 3.5/4, Private, Anthropic, VertexAI, LLMs... (2 months ago)
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models (2 months ago)
 - [ssrlive/proxypool](https://github.com/ssrlive/proxypool) - 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重后提供节点列表 (2 months ago)
-- [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Multimodal AI services &amp; pipelines with cloud-native stack: gRPC, Kubernetes, Docker, OpenTelemetry, Prometheus, Jaeger, etc. (2 months ago)
 
 #### 💬 Feedback
 
