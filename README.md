@@ -5,8 +5,8 @@ I’m msclock, a software engineer and opensource enthusiast.
 #### 👷 Check out what I'm currently working on
 
 - [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (1 day ago)
-- [msclock/cpp-scaffold](https://github.com/msclock/cpp-scaffold) - Cpp Scaffold is a development-focused cpp project template (6 days ago)
-- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (6 days ago)
+- [msclock/cpp-scaffold](https://github.com/msclock/cpp-scaffold) - Cpp Scaffold is a development-focused cpp project template (1 week ago)
+- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (1 week ago)
 - [serious-scaffold/serious-scaffold-python](https://github.com/serious-scaffold/serious-scaffold-python) - A development-focused Python project template with various integrations, configurations and modules. (2 weeks ago)
 - [msclock/features](https://github.com/msclock/features) - Some features for dev container (3 weeks ago)
 - [msclock/mlflow_tritonserver](https://github.com/msclock/mlflow_tritonserver) -  (3 weeks ago)
