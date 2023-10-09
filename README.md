@@ -4,8 +4,8 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (1 day ago)
-- [msclock/cpp-scaffold](https://github.com/msclock/cpp-scaffold) - Cpp Scaffold is a development-focused cpp project template (1 week ago)
+- [msclock/cpp-scaffold](https://github.com/msclock/cpp-scaffold) - Cpp Scaffold is a development-focused cpp project template (1 day ago)
+- [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (2 days ago)
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (1 week ago)
 - [serious-scaffold/serious-scaffold-python](https://github.com/serious-scaffold/serious-scaffold-python) - A development-focused Python project template with various integrations, configurations and modules. (2 weeks ago)
 - [msclock/features](https://github.com/msclock/features) - Some features for dev container (3 weeks ago)
@@ -30,6 +30,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
+- [serious-scaffold/serious-scaffold-python](https://github.com/serious-scaffold/serious-scaffold-python) ([v0.0.39](https://github.com/serious-scaffold/serious-scaffold-python/releases/tag/v0.0.39), 1 day ago) - A development-focused Python project template with various integrations, configurations and modules.
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.1](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.1), 3 weeks ago) - A simple authorizer for python project.
 - [msclock/yolov5-utils](https://github.com/msclock/yolov5-utils) ([v7.1.5](https://github.com/msclock/yolov5-utils/releases/tag/v7.1.5), 1 month ago) - Yolov5 Installable Package
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2023.08.09](https://github.com/microsoft/vcpkg/releases/tag/2023.08.09), 1 month ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
@@ -43,8 +44,8 @@ I’m msclock, a software engineer and opensource enthusiast.
 - [perf: resort more cmake modules](https://github.com/msclock/cpp-scaffold/pull/6) on [msclock/cpp-scaffold](https://github.com/msclock/cpp-scaffold) (2 weeks ago)
 - [chore: add cmake files to editorconfig](https://github.com/msclock/cpp-scaffold/pull/5) on [msclock/cpp-scaffold](https://github.com/msclock/cpp-scaffold) (2 weeks ago)
 - [feat: convert to copier template](https://github.com/msclock/cpp-scaffold/pull/3) on [msclock/cpp-scaffold](https://github.com/msclock/cpp-scaffold) (2 weeks ago)
-- [feat: add license option](https://github.com/serious-scaffold/serious-scaffold-python/pull/187) on [serious-scaffold/serious-scaffold-python](https://github.com/serious-scaffold/serious-scaffold-python) (2 weeks ago)
-- [fix: fail to replace license_url on gitlab](https://github.com/serious-scaffold/serious-scaffold-python/pull/185) on [serious-scaffold/serious-scaffold-python](https://github.com/serious-scaffold/serious-scaffold-python) (2 weeks ago)
+- [feat: add license option](https://github.com/serious-scaffold/serious-scaffold-python/pull/187) on [serious-scaffold/serious-scaffold-python](https://github.com/serious-scaffold/serious-scaffold-python) (3 weeks ago)
+- [fix: fail to replace license_url on gitlab](https://github.com/serious-scaffold/serious-scaffold-python/pull/185) on [serious-scaffold/serious-scaffold-python](https://github.com/serious-scaffold/serious-scaffold-python) (3 weeks ago)
 - [chore: fix deprecated key in ruff config](https://github.com/serious-scaffold/serious-scaffold-python/pull/178) on [serious-scaffold/serious-scaffold-python](https://github.com/serious-scaffold/serious-scaffold-python) (3 weeks ago)
 - [feat: add a feature gitlab-ci-local and some perf](https://github.com/msclock/features/pull/10) on [msclock/features](https://github.com/msclock/features) (3 months ago)
 - [fix: add dep cv2 without libGL.so.*](https://github.com/msclock/yolov5-utils/pull/3) on [msclock/yolov5-utils](https://github.com/msclock/yolov5-utils) (3 months ago)
