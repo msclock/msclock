@@ -4,11 +4,11 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [msclock/cpp-scaffold](https://github.com/msclock/cpp-scaffold) - Cpp Scaffold is a development-focused cpp project template (1 day ago)
-- [msclock/vcpkg-registry](https://github.com/msclock/vcpkg-registry) -  (1 day ago)
-- [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (3 days ago)
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (today)
+- [msclock/cpp-scaffold](https://github.com/msclock/cpp-scaffold) - Cpp Scaffold is a development-focused cpp project template (2 days ago)
+- [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (4 days ago)
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (1 week ago)
-- [serious-scaffold/serious-scaffold-python](https://github.com/serious-scaffold/serious-scaffold-python) - A development-focused Python project template with various integrations, configurations and modules. (2 weeks ago)
+- [serious-scaffold/serious-scaffold-python](https://github.com/serious-scaffold/serious-scaffold-python) - A development-focused Python project template with various integrations, configurations and modules. (3 weeks ago)
 - [msclock/features](https://github.com/msclock/features) - Some features for dev container (3 weeks ago)
 - [msclock/mlflow_tritonserver](https://github.com/msclock/mlflow_tritonserver) -  (4 weeks ago)
 - [msclock/yolov5-utils](https://github.com/msclock/yolov5-utils) - Yolov5 Installable Package (4 weeks ago)
@@ -17,7 +17,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🌱 My latest projects
 
-- [msclock/vcpkg-registry](https://github.com/msclock/vcpkg-registry) - 
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project.
 - [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates
 - [msclock/mlflow_tritonserver](https://github.com/msclock/mlflow_tritonserver) - 
@@ -30,7 +30,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [serious-scaffold/serious-scaffold-python](https://github.com/serious-scaffold/serious-scaffold-python) ([v0.0.39](https://github.com/serious-scaffold/serious-scaffold-python/releases/tag/v0.0.39), 2 days ago) - A development-focused Python project template with various integrations, configurations and modules.
+- [serious-scaffold/serious-scaffold-python](https://github.com/serious-scaffold/serious-scaffold-python) ([v0.0.39](https://github.com/serious-scaffold/serious-scaffold-python/releases/tag/v0.0.39), 3 days ago) - A development-focused Python project template with various integrations, configurations and modules.
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.1](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.1), 3 weeks ago) - A simple authorizer for python project.
 - [msclock/yolov5-utils](https://github.com/msclock/yolov5-utils) ([v7.1.5](https://github.com/msclock/yolov5-utils/releases/tag/v7.1.5), 1 month ago) - Yolov5 Installable Package
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2023.08.09](https://github.com/microsoft/vcpkg/releases/tag/2023.08.09), 1 month ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
@@ -43,7 +43,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 - [fix: missing debug distribution libs on windows](https://github.com/msclock/cpp-scaffold/pull/8) on [msclock/cpp-scaffold](https://github.com/msclock/cpp-scaffold) (2 weeks ago)
 - [perf: resort more cmake modules](https://github.com/msclock/cpp-scaffold/pull/6) on [msclock/cpp-scaffold](https://github.com/msclock/cpp-scaffold) (2 weeks ago)
 - [chore: add cmake files to editorconfig](https://github.com/msclock/cpp-scaffold/pull/5) on [msclock/cpp-scaffold](https://github.com/msclock/cpp-scaffold) (2 weeks ago)
-- [feat: convert to copier template](https://github.com/msclock/cpp-scaffold/pull/3) on [msclock/cpp-scaffold](https://github.com/msclock/cpp-scaffold) (2 weeks ago)
+- [feat: convert to copier template](https://github.com/msclock/cpp-scaffold/pull/3) on [msclock/cpp-scaffold](https://github.com/msclock/cpp-scaffold) (3 weeks ago)
 - [feat: add license option](https://github.com/serious-scaffold/serious-scaffold-python/pull/187) on [serious-scaffold/serious-scaffold-python](https://github.com/serious-scaffold/serious-scaffold-python) (3 weeks ago)
 - [fix: fail to replace license_url on gitlab](https://github.com/serious-scaffold/serious-scaffold-python/pull/185) on [serious-scaffold/serious-scaffold-python](https://github.com/serious-scaffold/serious-scaffold-python) (3 weeks ago)
 - [chore: fix deprecated key in ruff config](https://github.com/serious-scaffold/serious-scaffold-python/pull/178) on [serious-scaffold/serious-scaffold-python](https://github.com/serious-scaffold/serious-scaffold-python) (3 weeks ago)
