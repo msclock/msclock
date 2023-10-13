@@ -5,9 +5,9 @@ I’m msclock, a software engineer and opensource enthusiast.
 #### 👷 Check out what I'm currently working on
 
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (1 day ago)
+- [msclock/cpp-scaffold](https://github.com/msclock/cpp-scaffold) - Cpp Scaffold is a development-focused cpp project template (1 day ago)
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (1 day ago)
-- [msclock/cpp-scaffold](https://github.com/msclock/cpp-scaffold) - Cpp Scaffold is a development-focused cpp project template (3 days ago)
-- [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (5 days ago)
+- [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (6 days ago)
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (1 week ago)
 - [serious-scaffold/serious-scaffold-python](https://github.com/serious-scaffold/serious-scaffold-python) - A development-focused Python project template with various integrations, configurations and modules. (3 weeks ago)
 - [msclock/features](https://github.com/msclock/features) - Some features for dev container (4 weeks ago)
@@ -30,40 +30,40 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.0.0](https://github.com/msclock/cmake-modules/releases/tag/v1.0.0), 1 day ago) - Some useful cmake module collection
-- [serious-scaffold/serious-scaffold-python](https://github.com/serious-scaffold/serious-scaffold-python) ([v0.0.39](https://github.com/serious-scaffold/serious-scaffold-python/releases/tag/v0.0.39), 4 days ago) - A development-focused Python project template with various integrations, configurations and modules.
-- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.1](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.1), 3 weeks ago) - A simple authorizer for python project.
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.0.2](https://github.com/msclock/cmake-modules/releases/tag/v1.0.2), 1 day ago) - Some useful cmake module collection
+- [serious-scaffold/serious-scaffold-python](https://github.com/serious-scaffold/serious-scaffold-python) ([v0.0.39](https://github.com/serious-scaffold/serious-scaffold-python/releases/tag/v0.0.39), 5 days ago) - A development-focused Python project template with various integrations, configurations and modules.
+- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.1](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.1), 4 weeks ago) - A simple authorizer for python project.
 - [msclock/yolov5-utils](https://github.com/msclock/yolov5-utils) ([v7.1.5](https://github.com/msclock/yolov5-utils/releases/tag/v7.1.5), 1 month ago) - Yolov5 Installable Package
-- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2023.08.09](https://github.com/microsoft/vcpkg/releases/tag/2023.08.09), 1 month ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2023.08.09](https://github.com/microsoft/vcpkg/releases/tag/2023.08.09), 2 months ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
 - [msclock/mlflow_tritonserver](https://github.com/msclock/mlflow_tritonserver) ([v1.1.0](https://github.com/msclock/mlflow_tritonserver/releases/tag/v1.1.0), 3 months ago) - 
 - [msclock/transformersplus](https://github.com/msclock/transformersplus) ([v0.2.0](https://github.com/msclock/transformersplus/releases/tag/v0.2.0), 3 months ago) - Add Some plus extra features to transformers
 - [pytransitions/transitions](https://github.com/pytransitions/transitions) ([0.9.0](https://github.com/pytransitions/transitions/releases/tag/0.9.0), 1 year ago) - A lightweight, object-oriented finite state machine implementation in Python with many extensions
 
 #### 🔨 My recent Pull Requests
 
-- [fix: missing debug distribution libs on windows](https://github.com/msclock/cpp-scaffold/pull/8) on [msclock/cpp-scaffold](https://github.com/msclock/cpp-scaffold) (2 weeks ago)
+- [perf: use cmake-registry](https://github.com/msclock/cpp-scaffold/pull/10) on [msclock/cpp-scaffold](https://github.com/msclock/cpp-scaffold) (1 day ago)
+- [fix: missing debug distribution libs on windows](https://github.com/msclock/cpp-scaffold/pull/8) on [msclock/cpp-scaffold](https://github.com/msclock/cpp-scaffold) (3 weeks ago)
 - [perf: resort more cmake modules](https://github.com/msclock/cpp-scaffold/pull/6) on [msclock/cpp-scaffold](https://github.com/msclock/cpp-scaffold) (3 weeks ago)
 - [chore: add cmake files to editorconfig](https://github.com/msclock/cpp-scaffold/pull/5) on [msclock/cpp-scaffold](https://github.com/msclock/cpp-scaffold) (3 weeks ago)
 - [feat: convert to copier template](https://github.com/msclock/cpp-scaffold/pull/3) on [msclock/cpp-scaffold](https://github.com/msclock/cpp-scaffold) (3 weeks ago)
 - [feat: add license option](https://github.com/serious-scaffold/serious-scaffold-python/pull/187) on [serious-scaffold/serious-scaffold-python](https://github.com/serious-scaffold/serious-scaffold-python) (3 weeks ago)
 - [fix: fail to replace license_url on gitlab](https://github.com/serious-scaffold/serious-scaffold-python/pull/185) on [serious-scaffold/serious-scaffold-python](https://github.com/serious-scaffold/serious-scaffold-python) (3 weeks ago)
-- [chore: fix deprecated key in ruff config](https://github.com/serious-scaffold/serious-scaffold-python/pull/178) on [serious-scaffold/serious-scaffold-python](https://github.com/serious-scaffold/serious-scaffold-python) (3 weeks ago)
+- [chore: fix deprecated key in ruff config](https://github.com/serious-scaffold/serious-scaffold-python/pull/178) on [serious-scaffold/serious-scaffold-python](https://github.com/serious-scaffold/serious-scaffold-python) (4 weeks ago)
 - [feat: add a feature gitlab-ci-local and some perf](https://github.com/msclock/features/pull/10) on [msclock/features](https://github.com/msclock/features) (3 months ago)
 - [fix: add dep cv2 without libGL.so.*](https://github.com/msclock/yolov5-utils/pull/3) on [msclock/yolov5-utils](https://github.com/msclock/yolov5-utils) (3 months ago)
-- [perf: remove some deprecated codes](https://github.com/msclock/yolov5-utils/pull/2) on [msclock/yolov5-utils](https://github.com/msclock/yolov5-utils) (3 months ago)
 
 #### ⭐ Recent Stars
 
+- [cpp-best-practices/gui_starter_template](https://github.com/cpp-best-practices/gui_starter_template) - A template CMake project to get you started with C&#43;&#43; and tooling (1 day ago)
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It&#39;s fully compatible with Python 2.6, 2.7, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, and 3.11. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.  (3 weeks ago)
-- [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates. (3 weeks ago)
-- [serious-scaffold/serious-scaffold-python](https://github.com/serious-scaffold/serious-scaffold-python) - A development-focused Python project template with various integrations, configurations and modules. (3 weeks ago)
-- [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙ (3 weeks ago)
+- [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates. (4 weeks ago)
+- [serious-scaffold/serious-scaffold-python](https://github.com/serious-scaffold/serious-scaffold-python) - A development-focused Python project template with various integrations, configurations and modules. (4 weeks ago)
+- [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙ (4 weeks ago)
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev (4 weeks ago)
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C&#43;&#43;, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。 (1 month ago)
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI&#39;s Code Interpreter in your terminal, running locally (1 month ago)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. (1 month ago)
 - [JakubAndrysek/MkDoxy](https://github.com/JakubAndrysek/MkDoxy) - 📖 Automatically generates API documentation for your project based on Doxygen comments and code snippets in your markdown files. (1 month ago)
-- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. (1 month ago)
 
 #### 💬 Feedback
 
