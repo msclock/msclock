@@ -4,13 +4,13 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [msclock/cpp-scaffold](https://github.com/msclock/cpp-scaffold) - Cpp Scaffold is a development-focused cpp project template (1 day ago)
-- [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (3 days ago)
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (3 days ago)
+- [serious-scaffold/cpp-scaffold](https://github.com/serious-scaffold/cpp-scaffold) - Cpp Scaffold is a development-focused cpp project template (today)
+- [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (2 days ago)
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (4 days ago)
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (1 week ago)
-- [msclock/images](https://github.com/msclock/images) - my image store (1 week ago)
-- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (4 weeks ago)
-- [serious-scaffold/serious-scaffold-python](https://github.com/serious-scaffold/serious-scaffold-python) - A development-focused Python project template with various integrations, configurations and modules. (1 month ago)
+- [msclock/images](https://github.com/msclock/images) - my image store (2 weeks ago)
+- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (1 month ago)
+- [serious-scaffold/serious-scaffold-python](https://github.com/serious-scaffold/serious-scaffold-python) - A Python project template covering the entire development lifecycle with various integrations, configurations and modules. (1 month ago)
 - [msclock/features](https://github.com/msclock/features) - Some features for dev container (1 month ago)
 - [msclock/mlflow_tritonserver](https://github.com/msclock/mlflow_tritonserver) -  (1 month ago)
 - [msclock/yolov5-utils](https://github.com/msclock/yolov5-utils) - Yolov5 Installable Package (1 month ago)
@@ -25,15 +25,15 @@ I’m msclock, a software engineer and opensource enthusiast.
 - [msclock/transformersplus](https://github.com/msclock/transformersplus) - Add Some plus extra features to transformers
 - [msclock/yolov5-utils](https://github.com/msclock/yolov5-utils) - Yolov5 Installable Package
 - [msclock/features](https://github.com/msclock/features) - Some features for dev container
-- [msclock/cpp-scaffold](https://github.com/msclock/cpp-scaffold) - Cpp Scaffold is a development-focused cpp project template
 - [msclock/images](https://github.com/msclock/images) - my image store
+- [msclock/msclock.github.io](https://github.com/msclock/msclock.github.io) - 
 
 #### 🔭 Latest releases I've contributed to
 
-- [msclock/cpp-scaffold](https://github.com/msclock/cpp-scaffold) ([v1.2.4](https://github.com/msclock/cpp-scaffold/releases/tag/v1.2.4), 2 days ago) - Cpp Scaffold is a development-focused cpp project template
-- [serious-scaffold/serious-scaffold-python](https://github.com/serious-scaffold/serious-scaffold-python) ([v0.0.40](https://github.com/serious-scaffold/serious-scaffold-python/releases/tag/v0.0.40), 3 days ago) - A development-focused Python project template with various integrations, configurations and modules.
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.12](https://github.com/msclock/cmake-registry/releases/tag/v1.0.12), 3 days ago) - A cmake modules registry based on vcpkg
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.2.3](https://github.com/msclock/cmake-modules/releases/tag/v1.2.3), 3 days ago) - Some useful cmake module collection
+- [serious-scaffold/cpp-scaffold](https://github.com/serious-scaffold/cpp-scaffold) ([v1.2.6](https://github.com/serious-scaffold/cpp-scaffold/releases/tag/v1.2.6), 1 day ago) - Cpp Scaffold is a development-focused cpp project template
+- [serious-scaffold/serious-scaffold-python](https://github.com/serious-scaffold/serious-scaffold-python) ([v0.0.41](https://github.com/serious-scaffold/serious-scaffold-python/releases/tag/v0.0.41), 1 day ago) - A Python project template covering the entire development lifecycle with various integrations, configurations and modules.
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.12](https://github.com/msclock/cmake-registry/releases/tag/v1.0.12), 4 days ago) - A cmake modules registry based on vcpkg
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.2.3](https://github.com/msclock/cmake-modules/releases/tag/v1.2.3), 4 days ago) - Some useful cmake module collection
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2023.10.19](https://github.com/microsoft/vcpkg/releases/tag/2023.10.19), 1 week ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.1](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.1), 1 month ago) - A simple authorizer for python project.
 - [msclock/yolov5-utils](https://github.com/msclock/yolov5-utils) ([v7.1.5](https://github.com/msclock/yolov5-utils/releases/tag/v7.1.5), 2 months ago) - Yolov5 Installable Package
@@ -43,29 +43,29 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add jni option](https://github.com/msclock/cpp-scaffold/pull/28) on [msclock/cpp-scaffold](https://github.com/msclock/cpp-scaffold) (3 days ago)
-- [improve changelog and coverage](https://github.com/msclock/cpp-scaffold/pull/27) on [msclock/cpp-scaffold](https://github.com/msclock/cpp-scaffold) (3 days ago)
-- [fix: docs build with GIT_EXTERN_C_BEGIN error](https://github.com/msclock/cpp-scaffold/pull/24) on [msclock/cpp-scaffold](https://github.com/msclock/cpp-scaffold) (4 days ago)
-- [perf: rename target and relative configuration](https://github.com/msclock/cpp-scaffold/pull/21) on [msclock/cpp-scaffold](https://github.com/msclock/cpp-scaffold) (4 days ago)
-- [Install license](https://github.com/msclock/cpp-scaffold/pull/13) on [msclock/cpp-scaffold](https://github.com/msclock/cpp-scaffold) (5 days ago)
+- [perf: organize executable example](https://github.com/serious-scaffold/cpp-scaffold/pull/32) on [serious-scaffold/cpp-scaffold](https://github.com/serious-scaffold/cpp-scaffold) (1 day ago)
+- [feat: add jni option](https://github.com/serious-scaffold/cpp-scaffold/pull/28) on [serious-scaffold/cpp-scaffold](https://github.com/serious-scaffold/cpp-scaffold) (4 days ago)
+- [improve changelog and coverage](https://github.com/serious-scaffold/cpp-scaffold/pull/27) on [serious-scaffold/cpp-scaffold](https://github.com/serious-scaffold/cpp-scaffold) (4 days ago)
+- [fix: docs build with GIT_EXTERN_C_BEGIN error](https://github.com/serious-scaffold/cpp-scaffold/pull/24) on [serious-scaffold/cpp-scaffold](https://github.com/serious-scaffold/cpp-scaffold) (5 days ago)
+- [perf: rename target and relative configuration](https://github.com/serious-scaffold/cpp-scaffold/pull/21) on [serious-scaffold/cpp-scaffold](https://github.com/serious-scaffold/cpp-scaffold) (5 days ago)
+- [Install license](https://github.com/serious-scaffold/cpp-scaffold/pull/13) on [serious-scaffold/cpp-scaffold](https://github.com/serious-scaffold/cpp-scaffold) (6 days ago)
 - [Unset useless Runpath vars and improve stability](https://github.com/msclock/cmake-modules/pull/5) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 week ago)
 - [Improve Valgrind usability](https://github.com/msclock/cmake-modules/pull/4) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 week ago)
 - [chore(port): update cmake-modules v1.1.3](https://github.com/msclock/cmake-registry/pull/12) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (1 week ago)
 - [Install and common](https://github.com/msclock/cmake-modules/pull/3) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 week ago)
-- [chore(port): update port cmake-modules v1.1.2](https://github.com/msclock/cmake-registry/pull/11) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [hsutter/cppfront](https://github.com/hsutter/cppfront) - A personal experimental C&#43;&#43; Syntax 2 -&gt; Syntax 1 compiler (3 days ago)
-- [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models. (3 days ago)
-- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format (6 days ago)
+- [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices) - Collaborative Collection of C&#43;&#43; Best Practices. This online resource is part of Jason Turner&#39;s collection of C&#43;&#43; Best Practices resources. See README.md for more information. (1 day ago)
+- [lefticus/cpp_weekly](https://github.com/lefticus/cpp_weekly) - The official C&#43;&#43; Weekly Repository. Code samples and notes of future / past episodes will land here at various times. PR&#39;s will be accepted in some cases. (1 day ago)
+- [hsutter/cppfront](https://github.com/hsutter/cppfront) - A personal experimental C&#43;&#43; Syntax 2 -&gt; Syntax 1 compiler (4 days ago)
+- [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models. (4 days ago)
+- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format (1 week ago)
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (1 week ago)
 - [root-project/cling](https://github.com/root-project/cling) - The cling C&#43;&#43; interpreter (1 week ago)
 - [conan-io/cmake-conan](https://github.com/conan-io/cmake-conan) - CMake wrapper for conan C and C&#43;&#43; package manager (2 weeks ago)
 - [ObKo/stm32-cmake](https://github.com/ObKo/stm32-cmake) - CMake for stm32 developing. (2 weeks ago)
 - [AcademySoftwareFoundation/OpenColorIO](https://github.com/AcademySoftwareFoundation/OpenColorIO) - A color management framework for visual effects and animation. (2 weeks ago)
-- [cpp-best-practices/gui_starter_template](https://github.com/cpp-best-practices/gui_starter_template) - A template CMake project to get you started with C&#43;&#43; and tooling (2 weeks ago)
-- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It&#39;s fully compatible with Python 2.6, 2.7, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, and 3.11. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.  (1 month ago)
 
 #### 💬 Feedback
 
