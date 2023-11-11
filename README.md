@@ -4,16 +4,16 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - ss-cpp is a development-focused cpp project template (1 day ago)
-- [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (3 days ago)
-- [serious-scaffold/.github](https://github.com/serious-scaffold/.github) -  (3 days ago)
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (2 weeks ago)
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (1 day ago)
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - ss-cpp is a development-focused cpp project template (2 days ago)
+- [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (4 days ago)
+- [serious-scaffold/.github](https://github.com/serious-scaffold/.github) -  (4 days ago)
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (2 weeks ago)
 - [msclock/images](https://github.com/msclock/images) - my image store (3 weeks ago)
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (1 month ago)
 - [serious-scaffold/serious-scaffold-python](https://github.com/serious-scaffold/serious-scaffold-python) - A Python project template covering the entire development lifecycle with various integrations, configurations and modules. (1 month ago)
 - [msclock/features](https://github.com/msclock/features) - Some features for dev container (1 month ago)
-- [msclock/mlflow_tritonserver](https://github.com/msclock/mlflow_tritonserver) -  (1 month ago)
+- [msclock/mlflow_tritonserver](https://github.com/msclock/mlflow_tritonserver) -  (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -30,32 +30,32 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.2.8](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.2.8), 4 days ago) - ss-cpp is a development-focused cpp project template
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.13](https://github.com/msclock/cmake-registry/releases/tag/v1.0.13), 1 day ago) - A cmake modules registry based on vcpkg
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.2.4](https://github.com/msclock/cmake-modules/releases/tag/v1.2.4), 1 day ago) - Some useful cmake module collection
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.2.8](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.2.8), 5 days ago) - ss-cpp is a development-focused cpp project template
 - [serious-scaffold/serious-scaffold-python](https://github.com/serious-scaffold/serious-scaffold-python) ([v0.0.41](https://github.com/serious-scaffold/serious-scaffold-python/releases/tag/v0.0.41), 1 week ago) - A Python project template covering the entire development lifecycle with various integrations, configurations and modules.
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.12](https://github.com/msclock/cmake-registry/releases/tag/v1.0.12), 2 weeks ago) - A cmake modules registry based on vcpkg
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.2.3](https://github.com/msclock/cmake-modules/releases/tag/v1.2.3), 2 weeks ago) - Some useful cmake module collection
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2023.10.19](https://github.com/microsoft/vcpkg/releases/tag/2023.10.19), 3 weeks ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.1](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.1), 1 month ago) - A simple authorizer for python project.
 - [msclock/yolov5-utils](https://github.com/msclock/yolov5-utils) ([v7.1.5](https://github.com/msclock/yolov5-utils/releases/tag/v7.1.5), 2 months ago) - Yolov5 Installable Package
-- [msclock/mlflow_tritonserver](https://github.com/msclock/mlflow_tritonserver) ([v1.1.0](https://github.com/msclock/mlflow_tritonserver/releases/tag/v1.1.0), 3 months ago) - 
+- [msclock/mlflow_tritonserver](https://github.com/msclock/mlflow_tritonserver) ([v1.1.0](https://github.com/msclock/mlflow_tritonserver/releases/tag/v1.1.0), 4 months ago) - 
 - [msclock/transformersplus](https://github.com/msclock/transformersplus) ([v0.2.0](https://github.com/msclock/transformersplus/releases/tag/v0.2.0), 4 months ago) - Add Some plus extra features to transformers
 
 #### 🔨 My recent Pull Requests
 
-- [feat: support export artifacts with manifest mode](https://github.com/serious-scaffold/ss-cpp/pull/46) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
-- [chore: rename repository to ss-cpp](https://github.com/serious-scaffold/ss-cpp/pull/44) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
-- [perf: sphinx binds docs](https://github.com/serious-scaffold/ss-cpp/pull/43) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 days ago)
-- [docs: add more readability on introduction](https://github.com/serious-scaffold/.github/pull/4) on [serious-scaffold/.github](https://github.com/serious-scaffold/.github) (4 days ago)
+- [perf: add system paths](https://github.com/msclock/cmake-modules/pull/7) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 day ago)
+- [feat: support export artifacts with manifest mode](https://github.com/serious-scaffold/ss-cpp/pull/46) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 days ago)
+- [chore: rename repository to ss-cpp](https://github.com/serious-scaffold/ss-cpp/pull/44) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 days ago)
+- [perf: sphinx binds docs](https://github.com/serious-scaffold/ss-cpp/pull/43) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (3 days ago)
+- [docs: add more readability on introduction](https://github.com/serious-scaffold/.github/pull/4) on [serious-scaffold/.github](https://github.com/serious-scaffold/.github) (5 days ago)
 - [ci: preview docs](https://github.com/serious-scaffold/ss-cpp/pull/41) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
 - [fix: add a pre-dependency for ccov-all](https://github.com/serious-scaffold/ss-cpp/pull/39) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
 - [docs: add more documents for readability](https://github.com/serious-scaffold/ss-cpp/pull/37) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
 - [feat: add an authentication example](https://github.com/serious-scaffold/ss-cpp/pull/35) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
 - [perf: organize executable example](https://github.com/serious-scaffold/ss-cpp/pull/32) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
-- [feat: add jni option](https://github.com/serious-scaffold/ss-cpp/pull/28) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [rr-debugger/rr](https://github.com/rr-debugger/rr) - Record and Replay Framework (5 days ago)
+- [rr-debugger/rr](https://github.com/rr-debugger/rr) - Record and Replay Framework (6 days ago)
 - [microsoft/ifc](https://github.com/microsoft/ifc) - SDK for the IFC specification at https://github.com/microsoft/ifc-spec (1 week ago)
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞 (1 week ago)
 - [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices) - Collaborative Collection of C&#43;&#43; Best Practices. This online resource is part of Jason Turner&#39;s collection of C&#43;&#43; Best Practices resources. See README.md for more information. (1 week ago)
