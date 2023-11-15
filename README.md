@@ -4,8 +4,8 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - ss-cpp is a development-focused cpp project template (1 day ago)
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (4 days ago)
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - ss-cpp is a development-focused cpp project template (2 days ago)
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (5 days ago)
 - [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (1 week ago)
 - [serious-scaffold/.github](https://github.com/serious-scaffold/.github) -  (1 week ago)
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (3 weeks ago)
@@ -30,8 +30,8 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.13](https://github.com/msclock/cmake-registry/releases/tag/v1.0.13), 4 days ago) - A cmake modules registry based on vcpkg
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.2.4](https://github.com/msclock/cmake-modules/releases/tag/v1.2.4), 4 days ago) - Some useful cmake module collection
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.13](https://github.com/msclock/cmake-registry/releases/tag/v1.0.13), 5 days ago) - A cmake modules registry based on vcpkg
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.2.4](https://github.com/msclock/cmake-modules/releases/tag/v1.2.4), 5 days ago) - Some useful cmake module collection
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.2.8](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.2.8), 1 week ago) - ss-cpp is a development-focused cpp project template
 - [serious-scaffold/serious-scaffold-python](https://github.com/serious-scaffold/serious-scaffold-python) ([v0.0.41](https://github.com/serious-scaffold/serious-scaffold-python/releases/tag/v0.0.41), 2 weeks ago) - A Python project template covering the entire development lifecycle with various integrations, configurations and modules.
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2023.10.19](https://github.com/microsoft/vcpkg/releases/tag/2023.10.19), 3 weeks ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
@@ -42,15 +42,15 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔨 My recent Pull Requests
 
-- [feat: vcpkg custom-triplets](https://github.com/serious-scaffold/ss-cpp/pull/48) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 days ago)
-- [perf: add system paths](https://github.com/msclock/cmake-modules/pull/7) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (4 days ago)
-- [feat: support export artifacts with manifest mode](https://github.com/serious-scaffold/ss-cpp/pull/46) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (5 days ago)
-- [chore: rename repository to ss-cpp](https://github.com/serious-scaffold/ss-cpp/pull/44) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (5 days ago)
-- [perf: sphinx binds docs](https://github.com/serious-scaffold/ss-cpp/pull/43) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (6 days ago)
+- [feat: vcpkg custom-triplets](https://github.com/serious-scaffold/ss-cpp/pull/48) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (3 days ago)
+- [perf: add system paths](https://github.com/msclock/cmake-modules/pull/7) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (5 days ago)
+- [feat: support export artifacts with manifest mode](https://github.com/serious-scaffold/ss-cpp/pull/46) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (6 days ago)
+- [chore: rename repository to ss-cpp](https://github.com/serious-scaffold/ss-cpp/pull/44) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (6 days ago)
+- [perf: sphinx binds docs](https://github.com/serious-scaffold/ss-cpp/pull/43) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
 - [docs: add more readability on introduction](https://github.com/serious-scaffold/.github/pull/4) on [serious-scaffold/.github](https://github.com/serious-scaffold/.github) (1 week ago)
 - [ci: preview docs](https://github.com/serious-scaffold/ss-cpp/pull/41) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
-- [fix: add a pre-dependency for ccov-all](https://github.com/serious-scaffold/ss-cpp/pull/39) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
-- [docs: add more documents for readability](https://github.com/serious-scaffold/ss-cpp/pull/37) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
+- [fix: add a pre-dependency for ccov-all](https://github.com/serious-scaffold/ss-cpp/pull/39) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 weeks ago)
+- [docs: add more documents for readability](https://github.com/serious-scaffold/ss-cpp/pull/37) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 weeks ago)
 - [feat: add an authentication example](https://github.com/serious-scaffold/ss-cpp/pull/35) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 weeks ago)
 
 #### ⭐ Recent Stars
@@ -64,7 +64,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 - [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models. (2 weeks ago)
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format (3 weeks ago)
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (3 weeks ago)
-- [root-project/cling](https://github.com/root-project/cling) - The cling C&#43;&#43; interpreter (3 weeks ago)
+- [root-project/cling](https://github.com/root-project/cling) - The cling C&#43;&#43; interpreter (4 weeks ago)
 
 #### 💬 Feedback
 
