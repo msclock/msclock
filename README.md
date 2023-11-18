@@ -4,8 +4,8 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (1 day ago)
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - ss-cpp is a development-focused cpp project template (4 days ago)
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (2 days ago)
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - ss-cpp is a development-focused cpp project template (5 days ago)
 - [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (1 week ago)
 - [serious-scaffold/.github](https://github.com/serious-scaffold/.github) -  (1 week ago)
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (3 weeks ago)
@@ -30,11 +30,11 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.42](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.42), 1 day ago) - A Python project template covering the entire development lifecycle with various integrations, configurations and modules.
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.15](https://github.com/msclock/cmake-registry/releases/tag/v1.0.15), 1 day ago) - A cmake modules registry based on vcpkg
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.2.5](https://github.com/msclock/cmake-modules/releases/tag/v1.2.5), 2 days ago) - Some useful cmake module collection
+- [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.42](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.42), 2 days ago) - A Python project template covering the entire development lifecycle with various integrations, configurations and modules.
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.15](https://github.com/msclock/cmake-registry/releases/tag/v1.0.15), 2 days ago) - A cmake modules registry based on vcpkg
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.2.5](https://github.com/msclock/cmake-modules/releases/tag/v1.2.5), 3 days ago) - Some useful cmake module collection
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.2.8](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.2.8), 1 week ago) - ss-cpp is a development-focused cpp project template
-- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2023.10.19](https://github.com/microsoft/vcpkg/releases/tag/2023.10.19), 4 weeks ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2023.10.19](https://github.com/microsoft/vcpkg/releases/tag/2023.10.19), 1 month ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.1](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.1), 2 months ago) - A simple authorizer for python project.
 - [msclock/yolov5-utils](https://github.com/msclock/yolov5-utils) ([v7.1.5](https://github.com/msclock/yolov5-utils/releases/tag/v7.1.5), 2 months ago) - Yolov5 Installable Package
 - [msclock/mlflow_tritonserver](https://github.com/msclock/mlflow_tritonserver) ([v1.1.0](https://github.com/msclock/mlflow_tritonserver/releases/tag/v1.1.0), 4 months ago) - 
@@ -42,8 +42,8 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔨 My recent Pull Requests
 
-- [fix: install_target install runtime to lib location](https://github.com/msclock/cmake-modules/pull/9) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (2 days ago)
-- [feat: vcpkg custom-triplets](https://github.com/serious-scaffold/ss-cpp/pull/48) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (5 days ago)
+- [fix: install_target install runtime to lib location](https://github.com/msclock/cmake-modules/pull/9) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (3 days ago)
+- [feat: vcpkg custom-triplets](https://github.com/serious-scaffold/ss-cpp/pull/48) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (6 days ago)
 - [perf: add system paths](https://github.com/msclock/cmake-modules/pull/7) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 week ago)
 - [feat: support export artifacts with manifest mode](https://github.com/serious-scaffold/ss-cpp/pull/46) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
 - [chore: rename repository to ss-cpp](https://github.com/serious-scaffold/ss-cpp/pull/44) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
@@ -55,6 +55,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### ⭐ Recent Stars
 
+- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all (1 day ago)
 - [rr-debugger/rr](https://github.com/rr-debugger/rr) - Record and Replay Framework (1 week ago)
 - [microsoft/ifc](https://github.com/microsoft/ifc) - SDK for the IFC specification at https://github.com/microsoft/ifc-spec (2 weeks ago)
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞 (2 weeks ago)
@@ -63,8 +64,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 - [hsutter/cppfront](https://github.com/hsutter/cppfront) - A personal experimental C&#43;&#43; Syntax 2 -&gt; Syntax 1 compiler (3 weeks ago)
 - [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models. (3 weeks ago)
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format (3 weeks ago)
-- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (4 weeks ago)
-- [root-project/cling](https://github.com/root-project/cling) - The cling C&#43;&#43; interpreter (1 month ago)
+- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (1 month ago)
 
 #### 💬 Feedback
 
