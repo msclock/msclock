@@ -4,10 +4,10 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (1 day ago)
-- [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (2 days ago)
-- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (6 days ago)
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - ss-cpp is a development-focused cpp project template (6 days ago)
+- [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (today)
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (2 days ago)
+- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (1 week ago)
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - ss-cpp is a development-focused cpp project template (1 week ago)
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (2 weeks ago)
 - [serious-scaffold/.github](https://github.com/serious-scaffold/.github) -  (1 month ago)
 - [msclock/images](https://github.com/msclock/images) - my image store (1 month ago)
@@ -30,7 +30,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.22](https://github.com/msclock/cmake-registry/releases/tag/v1.0.22), 1 day ago) - A cmake modules registry based on vcpkg
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.22](https://github.com/msclock/cmake-registry/releases/tag/v1.0.22), 2 days ago) - A cmake modules registry based on vcpkg
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2023.11.20](https://github.com/microsoft/vcpkg/releases/tag/2023.11.20), 2 weeks ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.2.11](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.2.11), 2 weeks ago) - ss-cpp is a development-focused cpp project template
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.3.0](https://github.com/msclock/cmake-modules/releases/tag/v1.3.0), 2 weeks ago) - Some useful cmake module collection
@@ -42,10 +42,10 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔨 My recent Pull Requests
 
-- [chore(port): new port vector-of-bool/cmrc](https://github.com/msclock/cmake-registry/pull/43) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (1 day ago)
-- [chore(port): new port vector-of-bool/cmrc](https://github.com/msclock/cmake-registry/pull/42) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (1 day ago)
-- [chore(port): new port vector-of-bool/cmrc](https://github.com/msclock/cmake-registry/pull/41) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (1 day ago)
-- [Optimize annotated tags creation from semantic release](https://github.com/serious-scaffold/ss-cpp/pull/55) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (6 days ago)
+- [chore(port): new port vector-of-bool/cmrc](https://github.com/msclock/cmake-registry/pull/43) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (2 days ago)
+- [chore(port): new port vector-of-bool/cmrc](https://github.com/msclock/cmake-registry/pull/42) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (2 days ago)
+- [chore(port): new port vector-of-bool/cmrc](https://github.com/msclock/cmake-registry/pull/41) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (2 days ago)
+- [Optimize annotated tags creation from semantic release](https://github.com/serious-scaffold/ss-cpp/pull/55) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
 - [Refactor cmake build](https://github.com/serious-scaffold/ss-cpp/pull/53) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 weeks ago)
 - [feat: add a GoogleTest.cmake module](https://github.com/msclock/cmake-modules/pull/19) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (2 weeks ago)
 - [Install depends](https://github.com/msclock/cmake-modules/pull/16) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (2 weeks ago)
@@ -55,7 +55,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### ⭐ Recent Stars
 
-- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all (2 weeks ago)
+- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all (3 weeks ago)
 - [rr-debugger/rr](https://github.com/rr-debugger/rr) - Record and Replay Framework (1 month ago)
 - [microsoft/ifc](https://github.com/microsoft/ifc) - SDK for the IFC specification at https://github.com/microsoft/ifc-spec (1 month ago)
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞 (1 month ago)
