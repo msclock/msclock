@@ -4,8 +4,8 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (2 days ago)
-- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (3 days ago)
+- [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (3 days ago)
+- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (4 days ago)
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (2 weeks ago)
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - ss-cpp is a development-focused cpp project template (3 weeks ago)
 - [msclock/mlflow_tritonserver](https://github.com/msclock/mlflow_tritonserver) -  (3 weeks ago)
@@ -30,9 +30,9 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.6](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.6), 3 days ago) - A simple authorizer for python project.
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.23](https://github.com/msclock/cmake-registry/releases/tag/v1.0.23), 1 day ago) - A cmake modules registry based on vcpkg
+- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.6](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.6), 4 days ago) - A simple authorizer for python project.
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2023.12.12](https://github.com/microsoft/vcpkg/releases/tag/2023.12.12), 1 week ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.22](https://github.com/msclock/cmake-registry/releases/tag/v1.0.22), 2 weeks ago) - A cmake modules registry based on vcpkg
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.2.11](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.2.11), 1 month ago) - ss-cpp is a development-focused cpp project template
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.3.0](https://github.com/msclock/cmake-modules/releases/tag/v1.3.0), 1 month ago) - Some useful cmake module collection
 - [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.42](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.42), 1 month ago) - A Python project template covering the entire development lifecycle with various integrations, configurations and modules.
@@ -42,7 +42,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔨 My recent Pull Requests
 
-- [perf: make it strong typed with mypy](https://github.com/msclock/pyauthorizer/pull/14) on [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) (4 days ago)
+- [perf: make it strong typed with mypy](https://github.com/msclock/pyauthorizer/pull/14) on [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) (5 days ago)
 - [docs: refine documentation](https://github.com/msclock/pyauthorizer/pull/10) on [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) (1 week ago)
 - [ci(fix): default branch adaption](https://github.com/msclock/pyauthorizer/pull/8) on [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) (1 week ago)
 - [chore: apply cookie based on copier](https://github.com/msclock/pyauthorizer/pull/5) on [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) (1 week ago)
@@ -63,7 +63,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 - [lefticus/cpp_weekly](https://github.com/lefticus/cpp_weekly) - The official C&#43;&#43; Weekly Repository. Code samples and notes of future / past episodes will land here at various times. PR&#39;s will be accepted in some cases. (1 month ago)
 - [hsutter/cppfront](https://github.com/hsutter/cppfront) - A personal experimental C&#43;&#43; Syntax 2 -&gt; Syntax 1 compiler (1 month ago)
 - [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models. (1 month ago)
-- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format (1 month ago)
+- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format (2 months ago)
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (2 months ago)
 
 #### 💬 Feedback
