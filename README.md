@@ -4,8 +4,8 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (3 days ago)
-- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (4 days ago)
+- [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (4 days ago)
+- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (5 days ago)
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (2 weeks ago)
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - ss-cpp is a development-focused cpp project template (3 weeks ago)
 - [msclock/mlflow_tritonserver](https://github.com/msclock/mlflow_tritonserver) -  (3 weeks ago)
@@ -30,8 +30,8 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.23](https://github.com/msclock/cmake-registry/releases/tag/v1.0.23), 1 day ago) - A cmake modules registry based on vcpkg
-- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.6](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.6), 4 days ago) - A simple authorizer for python project.
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.23](https://github.com/msclock/cmake-registry/releases/tag/v1.0.23), 2 days ago) - A cmake modules registry based on vcpkg
+- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.6](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.6), 5 days ago) - A simple authorizer for python project.
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2023.12.12](https://github.com/microsoft/vcpkg/releases/tag/2023.12.12), 1 week ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.2.11](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.2.11), 1 month ago) - ss-cpp is a development-focused cpp project template
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.3.0](https://github.com/msclock/cmake-modules/releases/tag/v1.3.0), 1 month ago) - Some useful cmake module collection
@@ -42,7 +42,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔨 My recent Pull Requests
 
-- [perf: make it strong typed with mypy](https://github.com/msclock/pyauthorizer/pull/14) on [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) (5 days ago)
+- [perf: make it strong typed with mypy](https://github.com/msclock/pyauthorizer/pull/14) on [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) (6 days ago)
 - [docs: refine documentation](https://github.com/msclock/pyauthorizer/pull/10) on [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) (1 week ago)
 - [ci(fix): default branch adaption](https://github.com/msclock/pyauthorizer/pull/8) on [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) (1 week ago)
 - [chore: apply cookie based on copier](https://github.com/msclock/pyauthorizer/pull/5) on [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) (1 week ago)
