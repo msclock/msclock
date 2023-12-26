@@ -4,8 +4,8 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (5 days ago)
-- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (6 days ago)
+- [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (6 days ago)
+- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (1 week ago)
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (2 weeks ago)
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - ss-cpp is a development-focused cpp project template (3 weeks ago)
 - [msclock/mlflow_tritonserver](https://github.com/msclock/mlflow_tritonserver) -  (3 weeks ago)
@@ -30,8 +30,8 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.23](https://github.com/msclock/cmake-registry/releases/tag/v1.0.23), 3 days ago) - A cmake modules registry based on vcpkg
-- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.6](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.6), 6 days ago) - A simple authorizer for python project.
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.23](https://github.com/msclock/cmake-registry/releases/tag/v1.0.23), 4 days ago) - A cmake modules registry based on vcpkg
+- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.6](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.6), 1 week ago) - A simple authorizer for python project.
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2023.12.12](https://github.com/microsoft/vcpkg/releases/tag/2023.12.12), 1 week ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.2.11](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.2.11), 1 month ago) - ss-cpp is a development-focused cpp project template
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.3.0](https://github.com/msclock/cmake-modules/releases/tag/v1.3.0), 1 month ago) - Some useful cmake module collection
@@ -61,8 +61,8 @@ I’m msclock, a software engineer and opensource enthusiast.
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞 (1 month ago)
 - [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices) - Collaborative Collection of C&#43;&#43; Best Practices. This online resource is part of Jason Turner&#39;s collection of C&#43;&#43; Best Practices resources. See README.md for more information. (1 month ago)
 - [lefticus/cpp_weekly](https://github.com/lefticus/cpp_weekly) - The official C&#43;&#43; Weekly Repository. Code samples and notes of future / past episodes will land here at various times. PR&#39;s will be accepted in some cases. (1 month ago)
-- [hsutter/cppfront](https://github.com/hsutter/cppfront) - A personal experimental C&#43;&#43; Syntax 2 -&gt; Syntax 1 compiler (1 month ago)
-- [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models. (1 month ago)
+- [hsutter/cppfront](https://github.com/hsutter/cppfront) - A personal experimental C&#43;&#43; Syntax 2 -&gt; Syntax 1 compiler (2 months ago)
+- [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models. (2 months ago)
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format (2 months ago)
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (2 months ago)
 
