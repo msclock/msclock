@@ -4,8 +4,8 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
+- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) - A versioned doument deployment tool based on sphinx. (today)
 - [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (1 day ago)
-- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) - A versioned doument deployment tool based on sphinx. (1 day ago)
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (4 days ago)
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (1 month ago)
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - ss-cpp is a development-focused cpp project template (1 month ago)
@@ -40,6 +40,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔨 My recent Pull Requests
 
+- [perf: template deployment list view](https://github.com/msclock/sphinx-deployment/pull/12) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (today)
 - [chore: configure license in pyproject.toml](https://github.com/msclock/sphinx-deployment/pull/11) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (2 days ago)
 - [docs: refine CONTRIBUTING.md](https://github.com/msclock/pyauthorizer/pull/16) on [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) (4 days ago)
 - [docs: refine CONTRIBUTING.md](https://github.com/msclock/sphinx-deployment/pull/9) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (4 days ago)
@@ -49,7 +50,6 @@ I’m msclock, a software engineer and opensource enthusiast.
 - [ci(fix): default branch adaption](https://github.com/msclock/pyauthorizer/pull/8) on [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) (3 weeks ago)
 - [chore: apply cookie based on copier](https://github.com/msclock/pyauthorizer/pull/5) on [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) (3 weeks ago)
 - [chore(port): new port vector-of-bool/cmrc](https://github.com/msclock/cmake-registry/pull/43) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (1 month ago)
-- [chore(port): new port vector-of-bool/cmrc](https://github.com/msclock/cmake-registry/pull/42) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (1 month ago)
 
 #### ⭐ Recent Stars
 
