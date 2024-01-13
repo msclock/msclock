@@ -4,8 +4,8 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) - A versioned doument deployment tool based on sphinx. (1 day ago)
-- [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (2 days ago)
+- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) - A versioned doument deployment tool based on sphinx. (2 days ago)
+- [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (3 days ago)
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (1 week ago)
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (1 month ago)
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - ss-cpp is a development-focused cpp project template (1 month ago)
@@ -29,7 +29,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) ([v0.0.6](https://github.com/msclock/sphinx-deployment/releases/tag/v0.0.6), 3 days ago) - A versioned doument deployment tool based on sphinx.
+- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) ([v0.0.6](https://github.com/msclock/sphinx-deployment/releases/tag/v0.0.6), 4 days ago) - A versioned doument deployment tool based on sphinx.
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.24](https://github.com/msclock/cmake-registry/releases/tag/v1.0.24), 1 week ago) - A cmake modules registry based on vcpkg
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.7](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.7), 2 weeks ago) - A simple authorizer for python project.
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2023.12.12](https://github.com/microsoft/vcpkg/releases/tag/2023.12.12), 1 month ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
@@ -40,15 +40,15 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔨 My recent Pull Requests
 
-- [ci: opt closing pages preview](https://github.com/msclock/sphinx-deployment/pull/25) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (2 days ago)
-- [docs: refine the getting started md](https://github.com/msclock/sphinx-deployment/pull/23) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (2 days ago)
-- [docs: rename PYPI to Index in links](https://github.com/msclock/sphinx-deployment/pull/21) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (2 days ago)
-- [perf: opt rtd css styles](https://github.com/msclock/sphinx-deployment/pull/18) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (3 days ago)
-- [perf: opt version switch action](https://github.com/msclock/sphinx-deployment/pull/16) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (3 days ago)
-- [docs: fix the link to gitlab](https://github.com/msclock/sphinx-deployment/pull/14) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (3 days ago)
-- [docs: add CI integration sections](https://github.com/msclock/sphinx-deployment/pull/13) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (3 days ago)
-- [perf: template deployment list view](https://github.com/msclock/sphinx-deployment/pull/12) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (4 days ago)
-- [chore: configure license in pyproject.toml](https://github.com/msclock/sphinx-deployment/pull/11) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (6 days ago)
+- [ci: opt closing pages preview](https://github.com/msclock/sphinx-deployment/pull/25) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (3 days ago)
+- [docs: refine the getting started md](https://github.com/msclock/sphinx-deployment/pull/23) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (3 days ago)
+- [docs: rename PYPI to Index in links](https://github.com/msclock/sphinx-deployment/pull/21) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (3 days ago)
+- [perf: opt rtd css styles](https://github.com/msclock/sphinx-deployment/pull/18) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (4 days ago)
+- [perf: opt version switch action](https://github.com/msclock/sphinx-deployment/pull/16) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (4 days ago)
+- [docs: fix the link to gitlab](https://github.com/msclock/sphinx-deployment/pull/14) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (4 days ago)
+- [docs: add CI integration sections](https://github.com/msclock/sphinx-deployment/pull/13) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (4 days ago)
+- [perf: template deployment list view](https://github.com/msclock/sphinx-deployment/pull/12) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (5 days ago)
+- [chore: configure license in pyproject.toml](https://github.com/msclock/sphinx-deployment/pull/11) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (1 week ago)
 - [docs: refine CONTRIBUTING.md](https://github.com/msclock/pyauthorizer/pull/16) on [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) (1 week ago)
 
 #### ⭐ Recent Stars
