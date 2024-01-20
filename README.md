@@ -4,9 +4,9 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (2 days ago)
-- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (2 days ago)
-- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) - A versioned doument deployment tool based on sphinx. (2 days ago)
+- [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (1 day ago)
+- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (3 days ago)
+- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) - A versioned doument deployment tool based on sphinx. (3 days ago)
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (1 month ago)
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - ss-cpp is a development-focused cpp project template (1 month ago)
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (2 months ago)
@@ -29,9 +29,9 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.25](https://github.com/msclock/cmake-registry/releases/tag/v1.0.25), 1 day ago) - A cmake modules registry based on vcpkg
-- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) ([v0.0.8](https://github.com/msclock/sphinx-deployment/releases/tag/v0.0.8), 2 days ago) - A versioned doument deployment tool based on sphinx.
-- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2024.01.12](https://github.com/microsoft/vcpkg/releases/tag/2024.01.12), 6 days ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.25](https://github.com/msclock/cmake-registry/releases/tag/v1.0.25), 2 days ago) - A cmake modules registry based on vcpkg
+- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) ([v0.0.8](https://github.com/msclock/sphinx-deployment/releases/tag/v0.0.8), 3 days ago) - A versioned doument deployment tool based on sphinx.
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2024.01.12](https://github.com/microsoft/vcpkg/releases/tag/2024.01.12), 1 week ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.7](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.7), 3 weeks ago) - A simple authorizer for python project.
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.2.11](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.2.11), 2 months ago) - ss-cpp is a development-focused cpp project template
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.3.0](https://github.com/msclock/cmake-modules/releases/tag/v1.3.0), 2 months ago) - Some useful cmake module collection
@@ -40,10 +40,10 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔨 My recent Pull Requests
 
-- [fix: redirect to a new version](https://github.com/msclock/sphinx-deployment/pull/31) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (2 days ago)
-- [chore: change the license date](https://github.com/msclock/pyauthorizer/pull/17) on [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) (2 days ago)
-- [chore: change the license copyright date](https://github.com/msclock/sphinx-deployment/pull/29) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (2 days ago)
-- [perf: opt version context](https://github.com/msclock/sphinx-deployment/pull/27) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (4 days ago)
+- [fix: redirect to a new version](https://github.com/msclock/sphinx-deployment/pull/31) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (3 days ago)
+- [chore: change the license date](https://github.com/msclock/pyauthorizer/pull/17) on [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) (3 days ago)
+- [chore: change the license copyright date](https://github.com/msclock/sphinx-deployment/pull/29) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (3 days ago)
+- [perf: opt version context](https://github.com/msclock/sphinx-deployment/pull/27) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (5 days ago)
 - [ci: opt closing pages preview](https://github.com/msclock/sphinx-deployment/pull/25) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (1 week ago)
 - [docs: refine the getting started md](https://github.com/msclock/sphinx-deployment/pull/23) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (1 week ago)
 - [docs: rename PYPI to Index in links](https://github.com/msclock/sphinx-deployment/pull/21) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (1 week ago)
