@@ -4,9 +4,9 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
+- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (1 day ago)
 - [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) - A versioned doument deployment tool based on sphinx. (1 day ago)
-- [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (2 days ago)
-- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (2 days ago)
+- [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (3 days ago)
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (1 month ago)
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - ss-cpp is a development-focused cpp project template (2 months ago)
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (2 months ago)
@@ -29,9 +29,9 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) ([v0.0.16](https://github.com/msclock/sphinx-deployment/releases/tag/v0.0.16), 1 day ago) - A versioned doument deployment tool based on sphinx.
-- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.8](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.8), 5 days ago) - A simple authorizer for python project.
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.25](https://github.com/msclock/cmake-registry/releases/tag/v1.0.25), 1 week ago) - A cmake modules registry based on vcpkg
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.26](https://github.com/msclock/cmake-registry/releases/tag/v1.0.26), 1 day ago) - A cmake modules registry based on vcpkg
+- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.9](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.9), 1 day ago) - A simple authorizer for python project.
+- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) ([v0.0.16](https://github.com/msclock/sphinx-deployment/releases/tag/v0.0.16), 2 days ago) - A versioned doument deployment tool based on sphinx.
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2024.01.12](https://github.com/microsoft/vcpkg/releases/tag/2024.01.12), 2 weeks ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.2.11](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.2.11), 2 months ago) - ss-cpp is a development-focused cpp project template
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.3.0](https://github.com/msclock/cmake-modules/releases/tag/v1.3.0), 2 months ago) - Some useful cmake module collection
@@ -40,16 +40,16 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔨 My recent Pull Requests
 
-- [perf: expose versions meta to pages](https://github.com/msclock/sphinx-deployment/pull/48) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (4 days ago)
-- [perf: compatible with version py3.7](https://github.com/msclock/sphinx-deployment/pull/46) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (5 days ago)
-- [perf: optimize loading context](https://github.com/msclock/sphinx-deployment/pull/43) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (5 days ago)
-- [perf: load static files with digests](https://github.com/msclock/sphinx-deployment/pull/41) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (6 days ago)
-- [fix: correct versionsJsonUrl](https://github.com/msclock/sphinx-deployment/pull/39) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (6 days ago)
-- [perf: toggle class shift-up](https://github.com/msclock/sphinx-deployment/pull/37) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (6 days ago)
-- [perf: js and css loads and template rename](https://github.com/msclock/sphinx-deployment/pull/35) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (1 week ago)
-- [perf: opt js load](https://github.com/msclock/sphinx-deployment/pull/33) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (1 week ago)
-- [fix: redirect to a new version](https://github.com/msclock/sphinx-deployment/pull/31) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (1 week ago)
-- [chore: change the license date](https://github.com/msclock/pyauthorizer/pull/17) on [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) (1 week ago)
+- [ci: set write permissions](https://github.com/msclock/sphinx-deployment/pull/50) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (1 day ago)
+- [test: refactor test](https://github.com/msclock/pyauthorizer/pull/23) on [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) (1 day ago)
+- [ci: set preview pages permissions](https://github.com/msclock/pyauthorizer/pull/22) on [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) (1 day ago)
+- [revert: &#34;chore(deps): bump codecov/codecov-action from 3.1.4 to 3.1.5&#34;](https://github.com/msclock/pyauthorizer/pull/21) on [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) (1 day ago)
+- [ci: opt closing preview pages](https://github.com/msclock/pyauthorizer/pull/20) on [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) (1 day ago)
+- [perf: expose versions meta to pages](https://github.com/msclock/sphinx-deployment/pull/48) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (5 days ago)
+- [perf: compatible with version py3.7](https://github.com/msclock/sphinx-deployment/pull/46) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (6 days ago)
+- [perf: optimize loading context](https://github.com/msclock/sphinx-deployment/pull/43) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (6 days ago)
+- [perf: load static files with digests](https://github.com/msclock/sphinx-deployment/pull/41) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (1 week ago)
+- [fix: correct versionsJsonUrl](https://github.com/msclock/sphinx-deployment/pull/39) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (1 week ago)
 
 #### ⭐ Recent Stars
 
@@ -57,7 +57,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 - [mattiasgustavsson/libs](https://github.com/mattiasgustavsson/libs) - Single-file public domain libraries for C/C&#43;&#43; (4 weeks ago)
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all (2 months ago)
 - [rr-debugger/rr](https://github.com/rr-debugger/rr) - Record and Replay Framework (2 months ago)
-- [microsoft/ifc](https://github.com/microsoft/ifc) - SDK for the IFC specification at https://github.com/microsoft/ifc-spec (2 months ago)
+- [microsoft/ifc](https://github.com/microsoft/ifc) - SDK for the IFC specification at https://github.com/microsoft/ifc-spec (3 months ago)
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞 (3 months ago)
 - [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices) - Collaborative Collection of C&#43;&#43; Best Practices. This online resource is part of Jason Turner&#39;s collection of C&#43;&#43; Best Practices resources. See README.md for more information. (3 months ago)
 - [lefticus/cpp_weekly](https://github.com/lefticus/cpp_weekly) - The official C&#43;&#43; Weekly Repository. Code samples and notes of future / past episodes will land here at various times. PR&#39;s will be accepted in some cases. (3 months ago)
