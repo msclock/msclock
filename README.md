@@ -6,7 +6,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - a development-focused cpp project template (3 days ago)
 - [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) - A versioned doument deployment tool based on sphinx. (4 days ago)
-- [msclock/py7zip](https://github.com/msclock/py7zip) - a wrapper for 7zip. (5 days ago)
+- [msclock/pysmooth7zip](https://github.com/msclock/pysmooth7zip) - a wrapper for 7zip. (5 days ago)
 - [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (1 week ago)
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (1 week ago)
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (2 months ago)
@@ -17,7 +17,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🌱 My latest projects
 
-- [msclock/py7zip](https://github.com/msclock/py7zip) - a wrapper for 7zip.
+- [msclock/pysmooth7zip](https://github.com/msclock/pysmooth7zip) - a wrapper for 7zip.
 - [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) - A versioned doument deployment tool based on sphinx.
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg
