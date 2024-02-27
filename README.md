@@ -4,11 +4,11 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) - A versioned doument deployment tool based on sphinx. (1 day ago)
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (6 days ago)
+- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) - A versioned doument deployment tool based on sphinx. (2 days ago)
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (1 week ago)
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (1 week ago)
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (2 weeks ago)
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - a development-focused cpp project template (2 weeks ago)
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - a development-focused cpp project template (3 weeks ago)
 - [msclock/pysmooth7zip](https://github.com/msclock/pysmooth7zip) - a wrapper for 7zip. (3 weeks ago)
 - [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (3 weeks ago)
 - [serious-scaffold/.github](https://github.com/serious-scaffold/.github) -  (3 months ago)
@@ -30,26 +30,26 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) ([v0.0.18](https://github.com/msclock/sphinx-deployment/releases/tag/v0.0.18), 1 day ago) - A versioned doument deployment tool based on sphinx.
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.31](https://github.com/msclock/cmake-registry/releases/tag/v1.0.31), 6 days ago) - A cmake modules registry based on vcpkg
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.3.6](https://github.com/msclock/cmake-modules/releases/tag/v1.3.6), 6 days ago) - Some useful cmake module collection
+- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) ([v0.0.18](https://github.com/msclock/sphinx-deployment/releases/tag/v0.0.18), 2 days ago) - A versioned doument deployment tool based on sphinx.
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.31](https://github.com/msclock/cmake-registry/releases/tag/v1.0.31), 1 week ago) - A cmake modules registry based on vcpkg
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.3.6](https://github.com/msclock/cmake-modules/releases/tag/v1.3.6), 1 week ago) - Some useful cmake module collection
 - [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.49](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.49), 1 week ago) - A Python project template covering the entire development lifecycle with various integrations, configurations and modules.
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2024.02.14](https://github.com/microsoft/vcpkg/releases/tag/2024.02.14), 1 week ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
-- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.9](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.9), 3 weeks ago) - A simple authorizer for python project.
+- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.9](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.9), 4 weeks ago) - A simple authorizer for python project.
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.2.11](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.2.11), 3 months ago) - a development-focused cpp project template
 - [msclock/transformersplus](https://github.com/msclock/transformersplus) ([v0.2.0](https://github.com/msclock/transformersplus/releases/tag/v0.2.0), 7 months ago) - Add Some plus extra features to transformers
 
 #### 🔨 My recent Pull Requests
 
-- [docs: fix git api reference](https://github.com/msclock/sphinx-deployment/pull/54) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (1 day ago)
-- [perf: optimize to install system libs](https://github.com/msclock/cmake-modules/pull/26) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (6 days ago)
-- [fix: cmake install prefix path substitution](https://github.com/msclock/cmake-modules/pull/25) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (6 days ago)
+- [docs: fix git api reference](https://github.com/msclock/sphinx-deployment/pull/54) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (2 days ago)
+- [perf: optimize to install system libs](https://github.com/msclock/cmake-modules/pull/26) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 week ago)
+- [fix: cmake install prefix path substitution](https://github.com/msclock/cmake-modules/pull/25) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 week ago)
 - [perf: runpath with preset GNUInstallDirs](https://github.com/msclock/cmake-modules/pull/24) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 week ago)
 - [perf: remove folders recursively by cmake uninstall target](https://github.com/msclock/cmake-modules/pull/23) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 week ago)
-- [docs: refine usage about the registry](https://github.com/msclock/cmake-registry/pull/53) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (1 week ago)
+- [docs: refine usage about the registry](https://github.com/msclock/cmake-registry/pull/53) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (2 weeks ago)
 - [perf: add dependency resolution for modules](https://github.com/msclock/cmake-modules/pull/22) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (2 weeks ago)
 - [perf: throw error with create uninstall target](https://github.com/msclock/cmake-modules/pull/21) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (2 weeks ago)
-- [chore: optimize project configuration](https://github.com/serious-scaffold/ss-cpp/pull/58) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 weeks ago)
+- [chore: optimize project configuration](https://github.com/serious-scaffold/ss-cpp/pull/58) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (3 weeks ago)
 - [chore: simplify devcontainer and editorconfig](https://github.com/serious-scaffold/ss-cpp/pull/57) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (3 weeks ago)
 
 #### ⭐ Recent Stars
@@ -60,8 +60,8 @@ I’m msclock, a software engineer and opensource enthusiast.
 - [rr-debugger/rr](https://github.com/rr-debugger/rr) - Record and Replay Framework (3 months ago)
 - [microsoft/ifc](https://github.com/microsoft/ifc) - SDK for the IFC specification at https://github.com/microsoft/ifc-spec (3 months ago)
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞 (3 months ago)
-- [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices) - Collaborative Collection of C&#43;&#43; Best Practices. This online resource is part of Jason Turner&#39;s collection of C&#43;&#43; Best Practices resources. See README.md for more information. (3 months ago)
-- [lefticus/cpp_weekly](https://github.com/lefticus/cpp_weekly) - The official C&#43;&#43; Weekly Repository. Code samples and notes of future / past episodes will land here at various times. PR&#39;s will be accepted in some cases. (3 months ago)
+- [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices) - Collaborative Collection of C&#43;&#43; Best Practices. This online resource is part of Jason Turner&#39;s collection of C&#43;&#43; Best Practices resources. See README.md for more information. (4 months ago)
+- [lefticus/cpp_weekly](https://github.com/lefticus/cpp_weekly) - The official C&#43;&#43; Weekly Repository. Code samples and notes of future / past episodes will land here at various times. PR&#39;s will be accepted in some cases. (4 months ago)
 - [hsutter/cppfront](https://github.com/hsutter/cppfront) - A personal experimental C&#43;&#43; Syntax 2 -&gt; Syntax 1 compiler (4 months ago)
 - [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models. (4 months ago)
 
