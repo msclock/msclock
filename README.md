@@ -5,9 +5,9 @@ I’m msclock, a software engineer and opensource enthusiast.
 #### 👷 Check out what I'm currently working on
 
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - a development-focused cpp project template (1 day ago)
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (2 days ago)
-- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (3 days ago)
-- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) - A versioned doument deployment tool based on sphinx. (3 days ago)
+- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (1 day ago)
+- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) - A versioned doument deployment tool based on sphinx. (1 day ago)
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (1 day ago)
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (3 weeks ago)
 - [msclock/pysmooth7zip](https://github.com/msclock/pysmooth7zip) - a wrapper for 7zip. (1 month ago)
 - [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (1 month ago)
@@ -30,27 +30,27 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.34](https://github.com/msclock/cmake-registry/releases/tag/v1.0.34), 2 days ago) - A cmake modules registry based on vcpkg
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.3.7](https://github.com/msclock/cmake-modules/releases/tag/v1.3.7), 2 days ago) - Some useful cmake module collection
-- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) ([v0.0.20](https://github.com/msclock/sphinx-deployment/releases/tag/v0.0.20), 3 days ago) - A versioned doument deployment tool based on sphinx.
-- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.10](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.10), 3 days ago) - A simple authorizer for python project.
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.35](https://github.com/msclock/cmake-registry/releases/tag/v1.0.35), 1 day ago) - A cmake modules registry based on vcpkg
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.3.9](https://github.com/msclock/cmake-modules/releases/tag/v1.3.9), 1 day ago) - Some useful cmake module collection
+- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) ([v0.0.20](https://github.com/msclock/sphinx-deployment/releases/tag/v0.0.20), 4 days ago) - A versioned doument deployment tool based on sphinx.
+- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.10](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.10), 4 days ago) - A simple authorizer for python project.
 - [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.49](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.49), 2 weeks ago) - A Python project template covering the entire development lifecycle with various integrations, configurations and modules.
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2024.02.14](https://github.com/microsoft/vcpkg/releases/tag/2024.02.14), 3 weeks ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.2.11](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.2.11), 3 months ago) - a development-focused cpp project template
-- [msclock/transformersplus](https://github.com/msclock/transformersplus) ([v0.2.0](https://github.com/msclock/transformersplus/releases/tag/v0.2.0), 7 months ago) - Add Some plus extra features to transformers
+- [msclock/transformersplus](https://github.com/msclock/transformersplus) ([v0.2.0](https://github.com/msclock/transformersplus/releases/tag/v0.2.0), 8 months ago) - Add Some plus extra features to transformers
 
 #### 🔨 My recent Pull Requests
 
-- [docs: simplify docs build](https://github.com/serious-scaffold/ss-cpp/pull/64) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 days ago)
-- [perf: remove output dir before new generation](https://github.com/msclock/cmake-modules/pull/28) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (2 days ago)
-- [ci: add consistency checker](https://github.com/serious-scaffold/ss-cpp/pull/63) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (3 days ago)
-- [ci: set proper permission for pages-preview](https://github.com/msclock/pyauthorizer/pull/31) on [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) (3 days ago)
-- [ci: set proper permission for preview job](https://github.com/msclock/sphinx-deployment/pull/56) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (3 days ago)
-- [ci: simplify the os matrix](https://github.com/msclock/pyauthorizer/pull/30) on [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) (3 days ago)
-- [ci: set proper permission for preview](https://github.com/msclock/pyauthorizer/pull/29) on [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) (3 days ago)
-- [build: simplify CMakePresets.json](https://github.com/serious-scaffold/ss-cpp/pull/62) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (6 days ago)
-- [build: optimize cmake tool file load](https://github.com/serious-scaffold/ss-cpp/pull/61) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (6 days ago)
-- [build: optimze build](https://github.com/serious-scaffold/ss-cpp/pull/60) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
+- [ci: use CODECOV_TOKEN](https://github.com/msclock/pyauthorizer/pull/32) on [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) (1 day ago)
+- [ci: use CODECOV_TOKEN](https://github.com/msclock/sphinx-deployment/pull/58) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (1 day ago)
+- [perf: unset globals](https://github.com/msclock/cmake-modules/pull/30) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 day ago)
+- [perf: valgrind command setup](https://github.com/msclock/cmake-modules/pull/29) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 day ago)
+- [docs: simplify docs build](https://github.com/serious-scaffold/ss-cpp/pull/64) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (3 days ago)
+- [perf: remove output dir before new generation](https://github.com/msclock/cmake-modules/pull/28) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (3 days ago)
+- [ci: add consistency checker](https://github.com/serious-scaffold/ss-cpp/pull/63) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (4 days ago)
+- [ci: set proper permission for pages-preview](https://github.com/msclock/pyauthorizer/pull/31) on [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) (4 days ago)
+- [ci: set proper permission for preview job](https://github.com/msclock/sphinx-deployment/pull/56) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (4 days ago)
+- [ci: simplify the os matrix](https://github.com/msclock/pyauthorizer/pull/30) on [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) (4 days ago)
 
 #### ⭐ Recent Stars
 
