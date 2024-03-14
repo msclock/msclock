@@ -5,10 +5,10 @@ I’m msclock, a software engineer and opensource enthusiast.
 #### 👷 Check out what I'm currently working on
 
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - a development-focused cpp project template (1 day ago)
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (1 day ago)
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (1 day ago)
-- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (6 days ago)
-- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) - A versioned doument deployment tool based on sphinx. (6 days ago)
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (2 days ago)
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (2 days ago)
+- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (1 week ago)
+- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) - A versioned doument deployment tool based on sphinx. (1 week ago)
 - [msclock/pysmooth7zip](https://github.com/msclock/pysmooth7zip) - a wrapper for 7zip. (1 month ago)
 - [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (1 month ago)
 - [serious-scaffold/.github](https://github.com/serious-scaffold/.github) -  (4 months ago)
@@ -30,27 +30,27 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.39](https://github.com/msclock/cmake-registry/releases/tag/v1.0.39), 1 day ago) - A cmake modules registry based on vcpkg
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.3.15](https://github.com/msclock/cmake-modules/releases/tag/v1.3.15), 1 day ago) - Some useful cmake module collection
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.2.12-beta.1](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.2.12-beta.1), 5 days ago) - a development-focused cpp project template
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.3.0](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.3.0), 1 day ago) - a development-focused cpp project template
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.39](https://github.com/msclock/cmake-registry/releases/tag/v1.0.39), 2 days ago) - A cmake modules registry based on vcpkg
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.3.15](https://github.com/msclock/cmake-modules/releases/tag/v1.3.15), 2 days ago) - Some useful cmake module collection
 - [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) ([v0.0.20](https://github.com/msclock/sphinx-deployment/releases/tag/v0.0.20), 1 week ago) - A versioned doument deployment tool based on sphinx.
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.10](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.10), 1 week ago) - A simple authorizer for python project.
 - [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.49](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.49), 3 weeks ago) - A Python project template covering the entire development lifecycle with various integrations, configurations and modules.
-- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2024.02.14](https://github.com/microsoft/vcpkg/releases/tag/2024.02.14), 3 weeks ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2024.02.14](https://github.com/microsoft/vcpkg/releases/tag/2024.02.14), 4 weeks ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
 - [msclock/transformersplus](https://github.com/msclock/transformersplus) ([v0.2.0](https://github.com/msclock/transformersplus/releases/tag/v0.2.0), 8 months ago) - Add Some plus extra features to transformers
 
 #### 🔨 My recent Pull Requests
 
-- [perf: add crosscompiling settings](https://github.com/msclock/cmake-modules/pull/43) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 day ago)
-- [perf: coverage exclusion with relative paths using gcovr](https://github.com/msclock/cmake-modules/pull/42) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 day ago)
-- [perf: skip rpath for mingw and win32 platform](https://github.com/msclock/cmake-modules/pull/41) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (3 days ago)
-- [perf: refine coverage on windows](https://github.com/msclock/cmake-modules/pull/40) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (4 days ago)
-- [Coverage support](https://github.com/serious-scaffold/ss-cpp/pull/65) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (4 days ago)
-- [perf: add ALL option for sphinx_add_docs](https://github.com/msclock/cmake-modules/pull/39) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (5 days ago)
-- [perf: add ALL option for sphinx_add_docs](https://github.com/msclock/cmake-modules/pull/38) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (5 days ago)
-- [perf: add ALL option for sphinx_add_docs ](https://github.com/msclock/cmake-modules/pull/37) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (5 days ago)
-- [perf: rebase from beta ](https://github.com/msclock/cmake-modules/pull/36) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (5 days ago)
-- [ci: enable pr release workflows](https://github.com/msclock/cmake-modules/pull/35) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (5 days ago)
+- [feat: coverage support and improve documentation](https://github.com/serious-scaffold/ss-cpp/pull/66) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
+- [perf: add crosscompiling settings](https://github.com/msclock/cmake-modules/pull/43) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (2 days ago)
+- [perf: coverage exclusion with relative paths using gcovr](https://github.com/msclock/cmake-modules/pull/42) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (2 days ago)
+- [perf: skip rpath for mingw and win32 platform](https://github.com/msclock/cmake-modules/pull/41) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (4 days ago)
+- [perf: refine coverage on windows](https://github.com/msclock/cmake-modules/pull/40) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (5 days ago)
+- [Coverage support](https://github.com/serious-scaffold/ss-cpp/pull/65) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (5 days ago)
+- [perf: add ALL option for sphinx_add_docs](https://github.com/msclock/cmake-modules/pull/39) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (6 days ago)
+- [perf: add ALL option for sphinx_add_docs](https://github.com/msclock/cmake-modules/pull/38) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (6 days ago)
+- [perf: add ALL option for sphinx_add_docs ](https://github.com/msclock/cmake-modules/pull/37) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (6 days ago)
+- [perf: rebase from beta ](https://github.com/msclock/cmake-modules/pull/36) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (6 days ago)
 
 #### ⭐ Recent Stars
 
