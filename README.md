@@ -4,9 +4,9 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - a development-focused cpp project template (today)
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - a development-focused cpp project template (1 day ago)
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (1 day ago)
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (4 days ago)
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (5 days ago)
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (1 week ago)
 - [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) - A versioned doument deployment tool based on sphinx. (1 week ago)
 - [msclock/pysmooth7zip](https://github.com/msclock/pysmooth7zip) - a wrapper for 7zip. (1 month ago)
@@ -30,27 +30,27 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.40](https://github.com/msclock/cmake-registry/releases/tag/v1.0.40), 1 day ago) - A cmake modules registry based on vcpkg
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.3.17](https://github.com/msclock/cmake-modules/releases/tag/v1.3.17), 1 day ago) - Some useful cmake module collection
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.3.0](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.3.0), 3 days ago) - a development-focused cpp project template
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.41](https://github.com/msclock/cmake-registry/releases/tag/v1.0.41), 1 day ago) - A cmake modules registry based on vcpkg
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.3.18](https://github.com/msclock/cmake-modules/releases/tag/v1.3.18), 1 day ago) - Some useful cmake module collection
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.3.0](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.3.0), 4 days ago) - a development-focused cpp project template
 - [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) ([v0.0.20](https://github.com/msclock/sphinx-deployment/releases/tag/v0.0.20), 1 week ago) - A versioned doument deployment tool based on sphinx.
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.10](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.10), 1 week ago) - A simple authorizer for python project.
-- [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.49](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.49), 3 weeks ago) - A Python project template covering the entire development lifecycle with various integrations, configurations and modules.
+- [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.49](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.49), 4 weeks ago) - A Python project template covering the entire development lifecycle with various integrations, configurations and modules.
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2024.02.14](https://github.com/microsoft/vcpkg/releases/tag/2024.02.14), 1 month ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
 - [msclock/transformersplus](https://github.com/msclock/transformersplus) ([v0.2.0](https://github.com/msclock/transformersplus/releases/tag/v0.2.0), 8 months ago) - Add Some plus extra features to transformers
 
 #### 🔨 My recent Pull Requests
 
-- [ci: optimize to configure mingw wine test environment](https://github.com/serious-scaffold/ss-cpp/pull/76) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
-- [perf: more docs and options on asan](https://github.com/msclock/cmake-modules/pull/45) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 day ago)
-- [perf: set relationship of coverage generation](https://github.com/msclock/cmake-modules/pull/44) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 day ago)
-- [ci: refine coverage codecov reports](https://github.com/serious-scaffold/ss-cpp/pull/75) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
-- [ci: write content permission for pages](https://github.com/serious-scaffold/ss-cpp/pull/74) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
-- [ci: set proper permission and git account](https://github.com/serious-scaffold/ss-cpp/pull/73) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
-- [refine1](https://github.com/serious-scaffold/ss-cpp/pull/72) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 days ago)
-- [santinzer2test](https://github.com/serious-scaffold/ss-cpp/pull/71) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 days ago)
-- [Sanitizer2](https://github.com/serious-scaffold/ss-cpp/pull/70) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 days ago)
-- [test sanitizer](https://github.com/serious-scaffold/ss-cpp/pull/69) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 days ago)
+- [chore(deps): update cmake-modules to v1.3.18](https://github.com/serious-scaffold/ss-cpp/pull/77) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
+- [perf: llvm-cov export with lcov format for codecov](https://github.com/msclock/cmake-modules/pull/46) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 day ago)
+- [ci: optimize to configure mingw wine test environment](https://github.com/serious-scaffold/ss-cpp/pull/76) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 days ago)
+- [perf: more docs and options on asan](https://github.com/msclock/cmake-modules/pull/45) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (2 days ago)
+- [perf: set relationship of coverage generation](https://github.com/msclock/cmake-modules/pull/44) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (2 days ago)
+- [ci: refine coverage codecov reports](https://github.com/serious-scaffold/ss-cpp/pull/75) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 days ago)
+- [ci: write content permission for pages](https://github.com/serious-scaffold/ss-cpp/pull/74) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 days ago)
+- [ci: set proper permission and git account](https://github.com/serious-scaffold/ss-cpp/pull/73) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 days ago)
+- [refine1](https://github.com/serious-scaffold/ss-cpp/pull/72) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (3 days ago)
+- [santinzer2test](https://github.com/serious-scaffold/ss-cpp/pull/71) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (3 days ago)
 
 #### ⭐ Recent Stars
 
