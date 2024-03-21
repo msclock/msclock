@@ -5,10 +5,10 @@ I’m msclock, a software engineer and opensource enthusiast.
 #### 👷 Check out what I'm currently working on
 
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - a development-focused cpp project template (1 day ago)
-- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (1 day ago)
-- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) - A versioned doument deployment tool based on sphinx. (1 day ago)
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (2 days ago)
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (4 days ago)
+- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (2 days ago)
+- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) - A versioned doument deployment tool based on sphinx. (2 days ago)
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (3 days ago)
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (5 days ago)
 - [msclock/pysmooth7zip](https://github.com/msclock/pysmooth7zip) - a wrapper for 7zip. (1 month ago)
 - [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (1 month ago)
 - [serious-scaffold/.github](https://github.com/serious-scaffold/.github) -  (4 months ago)
@@ -30,10 +30,9 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2024.03.19](https://github.com/microsoft/vcpkg/releases/tag/2024.03.19), today) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.4.4](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.4.4), 1 day ago) - a development-focused cpp project template
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.41](https://github.com/msclock/cmake-registry/releases/tag/v1.0.41), 4 days ago) - A cmake modules registry based on vcpkg
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.3.18](https://github.com/msclock/cmake-modules/releases/tag/v1.3.18), 4 days ago) - Some useful cmake module collection
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.4.4](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.4.4), 2 days ago) - a development-focused cpp project template
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.41](https://github.com/msclock/cmake-registry/releases/tag/v1.0.41), 5 days ago) - A cmake modules registry based on vcpkg
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.3.18](https://github.com/msclock/cmake-modules/releases/tag/v1.3.18), 5 days ago) - Some useful cmake module collection
 - [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) ([v0.0.20](https://github.com/msclock/sphinx-deployment/releases/tag/v0.0.20), 2 weeks ago) - A versioned doument deployment tool based on sphinx.
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.10](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.10), 2 weeks ago) - A simple authorizer for python project.
 - [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.49](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.49), 1 month ago) - A Python project template covering the entire development lifecycle with various integrations, configurations and modules.
@@ -41,16 +40,16 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔨 My recent Pull Requests
 
-- [ci: use ubuntu-latest but skip asan](https://github.com/serious-scaffold/ss-cpp/pull/90) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
-- [ci: downgrade to ubuntu-20.04 for using asan based on gcc](https://github.com/serious-scaffold/ss-cpp/pull/89) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
-- [chore: remove changelog generation](https://github.com/msclock/pyauthorizer/pull/33) on [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) (1 day ago)
-- [chore: remove changelog generation](https://github.com/msclock/sphinx-deployment/pull/59) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (1 day ago)
-- [perf: remove changelog generation](https://github.com/serious-scaffold/ss-cpp/pull/88) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
-- [perf: optimize the generation of the compile target](https://github.com/serious-scaffold/ss-cpp/pull/86) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
-- [test: asan on linux](https://github.com/serious-scaffold/ss-cpp/pull/85) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
-- [perf: optimize the generation of targets under src](https://github.com/serious-scaffold/ss-cpp/pull/83) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
-- [chore: configure pre-commit for renovate](https://github.com/serious-scaffold/ss-python/pull/418) on [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) (2 days ago)
-- [ci: set needs for verify_os](https://github.com/msclock/cmake-registry/pull/72) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (2 days ago)
+- [docs: add release related documentation](https://github.com/serious-scaffold/ss-cpp/pull/100) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
+- [perf: configure renovate for pre-commit](https://github.com/serious-scaffold/ss-python/pull/419) on [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) (1 day ago)
+- [perf(no-release): optimize release using token](https://github.com/serious-scaffold/ss-cpp/pull/98) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
+- [perf: optimize release using token and no-release release workflow](https://github.com/serious-scaffold/ss-cpp/pull/97) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
+- [fix: use bot_token to checkout code](https://github.com/serious-scaffold/ss-cpp/pull/96) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
+- [fix: releaserc regex configuration](https://github.com/serious-scaffold/ss-cpp/pull/95) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
+- [perf: optimize release using token](https://github.com/serious-scaffold/ss-cpp/pull/94) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
+- [perf(no-release): optimize scope no-release for release workflow](https://github.com/serious-scaffold/ss-cpp/pull/93) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
+- [perf(no-release): configure no-release scope for release workflow](https://github.com/serious-scaffold/ss-cpp/pull/91) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
+- [ci: use ubuntu-latest but skip asan](https://github.com/serious-scaffold/ss-cpp/pull/90) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 days ago)
 
 #### ⭐ Recent Stars
 
