@@ -4,14 +4,14 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - a development-focused cpp project template (today)
-- [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) - An evolving Python project template that covers the full development lifecycle. (3 days ago)
-- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) - A versioned doument deployment tool based on sphinx. (5 days ago)
+- [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) - An evolving Python project template that covers the full development lifecycle. (1 day ago)
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - a development-focused cpp project template (1 day ago)
+- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) - A versioned doument deployment tool based on sphinx. (6 days ago)
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (1 week ago)
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (1 week ago)
+- [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (1 week ago)
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (1 week ago)
 - [msclock/pysmooth7zip](https://github.com/msclock/pysmooth7zip) - a wrapper for 7zip. (1 month ago)
-- [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (1 month ago)
 - [serious-scaffold/.github](https://github.com/serious-scaffold/.github) -  (4 months ago)
 - [msclock/images](https://github.com/msclock/images) - my image store (5 months ago)
 
@@ -30,8 +30,8 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.4.9](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.4.9), 1 day ago) - a development-focused cpp project template
-- [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.50](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.50), 1 day ago) - An evolving Python project template that covers the full development lifecycle.
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.4.11](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.4.11), 1 day ago) - a development-focused cpp project template
+- [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.50](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.50), 2 days ago) - An evolving Python project template that covers the full development lifecycle.
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.41](https://github.com/msclock/cmake-registry/releases/tag/v1.0.41), 1 week ago) - A cmake modules registry based on vcpkg
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.3.18](https://github.com/msclock/cmake-modules/releases/tag/v1.3.18), 1 week ago) - Some useful cmake module collection
 - [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) ([v0.0.20](https://github.com/msclock/sphinx-deployment/releases/tag/v0.0.20), 3 weeks ago) - A versioned doument deployment tool based on sphinx.
@@ -40,20 +40,20 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔨 My recent Pull Requests
 
-- [ci: pin actions runner and enable asan on gcc](https://github.com/serious-scaffold/ss-cpp/pull/136) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
-- [ci: skip release when in pr](https://github.com/serious-scaffold/ss-cpp/pull/135) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
-- [perf: optimize renovate detection and add validation](https://github.com/serious-scaffold/ss-cpp/pull/134) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
-- [perf: optimize renovate detection and add validation](https://github.com/serious-scaffold/ss-cpp/pull/131) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
-- [ci: renovate enable validation when push](https://github.com/serious-scaffold/ss-cpp/pull/130) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
-- [style: format renovate configuration](https://github.com/serious-scaffold/ss-cpp/pull/129) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
-- [ci: add renovate validation in renovate.yml](https://github.com/serious-scaffold/ss-cpp/pull/128) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
-- [ci: add renovate validation in renovate.yml](https://github.com/serious-scaffold/ss-cpp/pull/126) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
-- [chore: optimize renovate update detection](https://github.com/serious-scaffold/ss-cpp/pull/125) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
-- [style: fix typo and improve readablity](https://github.com/serious-scaffold/ss-cpp/pull/120) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
+- [ci: exclude cd jobs in pr](https://github.com/serious-scaffold/ss-cpp/pull/148) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
+- [ci: rename preview jobs](https://github.com/serious-scaffold/ss-cpp/pull/147) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
+- [ci: refine pre-commit and checks needs](https://github.com/serious-scaffold/ss-cpp/pull/146) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
+- [chore: configure auto-update for vcpkg-baseline](https://github.com/serious-scaffold/ss-cpp/pull/145) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
+- [chore: add homepage in the vcpkg manifest configuration](https://github.com/serious-scaffold/ss-cpp/pull/144) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
+- [docs: add github repo link footer](https://github.com/serious-scaffold/ss-cpp/pull/143) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
+- [fix: exclude consistency job on gitlab](https://github.com/serious-scaffold/ss-python/pull/438) on [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) (1 day ago)
+- [perf: commit message topic for serious scaffold cpp](https://github.com/serious-scaffold/ss-cpp/pull/142) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
+- [docs: add optional codecov integration documentation](https://github.com/serious-scaffold/ss-cpp/pull/141) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
+- [perf: make codecov integration optional](https://github.com/serious-scaffold/ss-cpp/pull/140) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
 
 #### ⭐ Recent Stars
 
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (3 weeks ago)
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (4 weeks ago)
 - [shlin168/go-nvd](https://github.com/shlin168/go-nvd) - Tools to dump CVE/CPE data from NVD to database, and run API server on top of that (2 months ago)
 - [mattiasgustavsson/libs](https://github.com/mattiasgustavsson/libs) - Single-file public domain libraries for C/C&#43;&#43; (2 months ago)
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all (4 months ago)
