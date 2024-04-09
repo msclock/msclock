@@ -4,9 +4,9 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (1 day ago)
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (1 day ago)
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development. (3 days ago)
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development. (1 day ago)
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (2 days ago)
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (2 days ago)
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (1 week ago)
 - [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) - A versioned doument deployment tool based on sphinx. (1 week ago)
 - [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (1 week ago)
@@ -30,9 +30,9 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.71](https://github.com/msclock/cmake-registry/releases/tag/v1.0.71), today) - A cmake modules registry based on vcpkg
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.4.27](https://github.com/msclock/cmake-modules/releases/tag/v1.4.27), 1 day ago) - Some useful cmake module collection
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.4.19](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.4.19), 3 days ago) - A continuously evolving basic template for cpp development.
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.71](https://github.com/msclock/cmake-registry/releases/tag/v1.0.71), 1 day ago) - A cmake modules registry based on vcpkg
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.4.27](https://github.com/msclock/cmake-modules/releases/tag/v1.4.27), 2 days ago) - Some useful cmake module collection
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.4.19](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.4.19), 4 days ago) - A continuously evolving basic template for cpp development.
 - [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.50](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.50), 2 weeks ago) - An evolving Python project template that covers the full development lifecycle.
 - [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) ([v0.0.20](https://github.com/msclock/sphinx-deployment/releases/tag/v0.0.20), 1 month ago) - A versioned doument deployment tool based on sphinx.
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.10](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.10), 1 month ago) - A simple authorizer for python project.
@@ -40,16 +40,16 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔨 My recent Pull Requests
 
-- [chore: remove changelog generation](https://github.com/msclock/cmake-registry/pull/110) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (1 day ago)
-- [perf: add options to customizable code_coverage](https://github.com/msclock/cmake-modules/pull/93) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 day ago)
-- [ci: use gcovr for linux and mingw](https://github.com/serious-scaffold/ss-cpp/pull/188) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 days ago)
-- [perf: exclude chores](https://github.com/msclock/cmake-registry/pull/107) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (3 days ago)
-- [ci: simplify and improve readability](https://github.com/msclock/ss-cpp/pull/19) on [msclock/ss-cpp](https://github.com/msclock/ss-cpp) (3 days ago)
-- [perf: conform to xml gcovr report](https://github.com/serious-scaffold/ss-cpp/pull/187) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (3 days ago)
-- [fix: enable cmake-modules customizable options ](https://github.com/serious-scaffold/ss-cpp/pull/186) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (3 days ago)
-- [fix: enable customizable options](https://github.com/msclock/cmake-modules/pull/91) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (3 days ago)
-- [perf: add output format for gcovr](https://github.com/msclock/cmake-modules/pull/90) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (3 days ago)
-- [perf: switch to output lcov format](https://github.com/msclock/cmake-modules/pull/89) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (3 days ago)
+- [chore: remove changelog generation](https://github.com/msclock/cmake-registry/pull/110) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (2 days ago)
+- [perf: add options to customizable code_coverage](https://github.com/msclock/cmake-modules/pull/93) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (2 days ago)
+- [ci: use gcovr for linux and mingw](https://github.com/serious-scaffold/ss-cpp/pull/188) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (3 days ago)
+- [perf: exclude chores](https://github.com/msclock/cmake-registry/pull/107) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (4 days ago)
+- [ci: simplify and improve readability](https://github.com/msclock/ss-cpp/pull/19) on [msclock/ss-cpp](https://github.com/msclock/ss-cpp) (4 days ago)
+- [perf: conform to xml gcovr report](https://github.com/serious-scaffold/ss-cpp/pull/187) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (4 days ago)
+- [fix: enable cmake-modules customizable options ](https://github.com/serious-scaffold/ss-cpp/pull/186) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (4 days ago)
+- [fix: enable customizable options](https://github.com/msclock/cmake-modules/pull/91) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (4 days ago)
+- [perf: add output format for gcovr](https://github.com/msclock/cmake-modules/pull/90) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (4 days ago)
+- [perf: switch to output lcov format](https://github.com/msclock/cmake-modules/pull/89) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (4 days ago)
 
 #### ⭐ Recent Stars
 
