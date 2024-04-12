@@ -4,12 +4,12 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (1 day ago)
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development. (1 day ago)
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (1 day ago)
-- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (2 days ago)
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development. (3 days ago)
-- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) - A versioned doument deployment tool based on sphinx. (1 week ago)
-- [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (1 week ago)
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (2 days ago)
+- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (3 days ago)
+- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) - A versioned doument deployment tool based on sphinx. (2 weeks ago)
+- [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (2 weeks ago)
 - [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) - An evolving Python project template that covers the full development lifecycle. (2 weeks ago)
 - [msclock/pysmooth7zip](https://github.com/msclock/pysmooth7zip) - a wrapper for 7zip. (2 months ago)
 - [serious-scaffold/.github](https://github.com/serious-scaffold/.github) -  (5 months ago)
@@ -30,26 +30,26 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.74](https://github.com/msclock/cmake-registry/releases/tag/v1.0.74), 2 days ago) - A cmake modules registry based on vcpkg
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.4.29](https://github.com/msclock/cmake-modules/releases/tag/v1.4.29), 2 days ago) - Some useful cmake module collection
-- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.11](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.11), 2 days ago) - A simple authorizer for python project.
-- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) ([v0.0.21](https://github.com/msclock/sphinx-deployment/releases/tag/v0.0.21), 2 days ago) - A versioned doument deployment tool based on sphinx.
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.4.19](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.4.19), 6 days ago) - A continuously evolving basic template for cpp development.
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.4.21](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.4.21), 1 day ago) - A continuously evolving basic template for cpp development.
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.75](https://github.com/msclock/cmake-registry/releases/tag/v1.0.75), 1 day ago) - A cmake modules registry based on vcpkg
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.4.30](https://github.com/msclock/cmake-modules/releases/tag/v1.4.30), 1 day ago) - Some useful cmake module collection
+- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.11](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.11), 3 days ago) - A simple authorizer for python project.
+- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) ([v0.0.21](https://github.com/msclock/sphinx-deployment/releases/tag/v0.0.21), 3 days ago) - A versioned doument deployment tool based on sphinx.
 - [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.50](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.50), 2 weeks ago) - An evolving Python project template that covers the full development lifecycle.
 - [msclock/transformersplus](https://github.com/msclock/transformersplus) ([v0.2.0](https://github.com/msclock/transformersplus/releases/tag/v0.2.0), 9 months ago) - Add Some plus extra features to transformers
 
 #### 🔨 My recent Pull Requests
 
-- [docs: improve readability on readme](https://github.com/msclock/cmake-registry/pull/115) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (1 day ago)
-- [perf: add extra flags to gcovr and lcov](https://github.com/msclock/cmake-modules/pull/96) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (2 days ago)
-- [perf: lcov use gcov from CODE_COVERAGE_GCOV](https://github.com/msclock/cmake-modules/pull/95) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (2 days ago)
-- [chore: remove changelog generation](https://github.com/msclock/cmake-registry/pull/110) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (4 days ago)
-- [perf: add options to customizable code_coverage](https://github.com/msclock/cmake-modules/pull/93) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (4 days ago)
-- [ci: use gcovr for linux and mingw](https://github.com/serious-scaffold/ss-cpp/pull/188) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (5 days ago)
-- [perf: exclude chores](https://github.com/msclock/cmake-registry/pull/107) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (6 days ago)
-- [ci: simplify and improve readability](https://github.com/msclock/ss-cpp/pull/19) on [msclock/ss-cpp](https://github.com/msclock/ss-cpp) (6 days ago)
-- [perf: conform to xml gcovr report](https://github.com/serious-scaffold/ss-cpp/pull/187) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (6 days ago)
-- [fix: enable cmake-modules customizable options ](https://github.com/serious-scaffold/ss-cpp/pull/186) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (6 days ago)
+- [chore: refine renovaterc for actions updates](https://github.com/serious-scaffold/ss-cpp/pull/200) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
+- [ci: use macos-14](https://github.com/serious-scaffold/ss-cpp/pull/199) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
+- [perf: optimize auto triplet detection](https://github.com/serious-scaffold/ss-cpp/pull/198) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
+- [perf: add auto triplet detection and simplify build](https://github.com/serious-scaffold/ss-cpp/pull/195) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
+- [perf: remove uninstall target runtime warning](https://github.com/msclock/cmake-modules/pull/97) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 day ago)
+- [docs: improve readability on readme](https://github.com/msclock/cmake-registry/pull/115) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (2 days ago)
+- [perf: add extra flags to gcovr and lcov](https://github.com/msclock/cmake-modules/pull/96) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (3 days ago)
+- [perf: lcov use gcov from CODE_COVERAGE_GCOV](https://github.com/msclock/cmake-modules/pull/95) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (3 days ago)
+- [chore: remove changelog generation](https://github.com/msclock/cmake-registry/pull/110) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (5 days ago)
+- [perf: add options to customizable code_coverage](https://github.com/msclock/cmake-modules/pull/93) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (5 days ago)
 
 #### ⭐ Recent Stars
 
