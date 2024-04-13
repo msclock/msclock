@@ -4,16 +4,16 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development. (1 day ago)
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development. (today)
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (1 day ago)
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (2 days ago)
-- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (3 days ago)
+- [msclock/smooth7zip](https://github.com/msclock/smooth7zip) -  (1 day ago)
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (3 days ago)
+- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (4 days ago)
 - [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) - A versioned doument deployment tool based on sphinx. (2 weeks ago)
 - [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (2 weeks ago)
 - [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) - An evolving Python project template that covers the full development lifecycle. (2 weeks ago)
 - [msclock/pysmooth7zip](https://github.com/msclock/pysmooth7zip) - a wrapper for 7zip. (2 months ago)
 - [serious-scaffold/.github](https://github.com/serious-scaffold/.github) -  (5 months ago)
-- [msclock/images](https://github.com/msclock/images) - my image store (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -30,26 +30,26 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.4.21](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.4.21), 1 day ago) - A continuously evolving basic template for cpp development.
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.75](https://github.com/msclock/cmake-registry/releases/tag/v1.0.75), 1 day ago) - A cmake modules registry based on vcpkg
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.4.30](https://github.com/msclock/cmake-modules/releases/tag/v1.4.30), 1 day ago) - Some useful cmake module collection
-- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.11](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.11), 3 days ago) - A simple authorizer for python project.
-- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) ([v0.0.21](https://github.com/msclock/sphinx-deployment/releases/tag/v0.0.21), 3 days ago) - A versioned doument deployment tool based on sphinx.
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.4.23](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.4.23), 1 day ago) - A continuously evolving basic template for cpp development.
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.77](https://github.com/msclock/cmake-registry/releases/tag/v1.0.77), 1 day ago) - A cmake modules registry based on vcpkg
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.4.31](https://github.com/msclock/cmake-modules/releases/tag/v1.4.31), 1 day ago) - Some useful cmake module collection
+- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.11](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.11), 4 days ago) - A simple authorizer for python project.
+- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) ([v0.0.21](https://github.com/msclock/sphinx-deployment/releases/tag/v0.0.21), 4 days ago) - A versioned doument deployment tool based on sphinx.
 - [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.50](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.50), 2 weeks ago) - An evolving Python project template that covers the full development lifecycle.
 - [msclock/transformersplus](https://github.com/msclock/transformersplus) ([v0.2.0](https://github.com/msclock/transformersplus/releases/tag/v0.2.0), 9 months ago) - Add Some plus extra features to transformers
 
 #### 🔨 My recent Pull Requests
 
-- [chore: refine renovaterc for actions updates](https://github.com/serious-scaffold/ss-cpp/pull/200) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
-- [ci: use macos-14](https://github.com/serious-scaffold/ss-cpp/pull/199) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
-- [perf: optimize auto triplet detection](https://github.com/serious-scaffold/ss-cpp/pull/198) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
-- [perf: add auto triplet detection and simplify build](https://github.com/serious-scaffold/ss-cpp/pull/195) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
-- [perf: remove uninstall target runtime warning](https://github.com/msclock/cmake-modules/pull/97) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 day ago)
-- [docs: improve readability on readme](https://github.com/msclock/cmake-registry/pull/115) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (2 days ago)
-- [perf: add extra flags to gcovr and lcov](https://github.com/msclock/cmake-modules/pull/96) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (3 days ago)
-- [perf: lcov use gcov from CODE_COVERAGE_GCOV](https://github.com/msclock/cmake-modules/pull/95) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (3 days ago)
-- [chore: remove changelog generation](https://github.com/msclock/cmake-registry/pull/110) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (5 days ago)
-- [perf: add options to customizable code_coverage](https://github.com/msclock/cmake-modules/pull/93) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (5 days ago)
+- [ci: typo job name](https://github.com/serious-scaffold/ss-cpp/pull/207) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
+- [fix: cache cxx variables for overrides](https://github.com/serious-scaffold/ss-cpp/pull/206) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
+- [docs: refine readme relevants](https://github.com/serious-scaffold/ss-cpp/pull/205) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
+- [ci: refine the needs of ci job pass](https://github.com/serious-scaffold/ss-cpp/pull/204) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
+- [perf: optimize cpp target generation](https://github.com/serious-scaffold/ss-cpp/pull/203) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
+- [ci: add valgrind check](https://github.com/serious-scaffold/ss-cpp/pull/202) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
+- [perf: add automatic build type initialization](https://github.com/serious-scaffold/ss-cpp/pull/201) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
+- [perf: set git tools c symobols as inline](https://github.com/msclock/cmake-modules/pull/98) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 day ago)
+- [chore: refine renovaterc for actions updates](https://github.com/serious-scaffold/ss-cpp/pull/200) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 days ago)
+- [ci: use macos-14](https://github.com/serious-scaffold/ss-cpp/pull/199) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 days ago)
 
 #### ⭐ Recent Stars
 
