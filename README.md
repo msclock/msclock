@@ -5,7 +5,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 #### 👷 Check out what I'm currently working on
 
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (1 day ago)
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (1 day ago)
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (2 days ago)
 - [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) - An evolving Python project template that covers the full development lifecycle. (1 week ago)
 - [msclock/smooth7zip](https://github.com/msclock/smooth7zip) - [WIP] A wrapper for 7zip. (1 week ago)
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (1 week ago)
@@ -30,9 +30,9 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.84](https://github.com/msclock/cmake-registry/releases/tag/v1.0.84), 1 day ago) - A cmake modules registry based on vcpkg
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.4.36](https://github.com/msclock/cmake-modules/releases/tag/v1.4.36), 1 day ago) - Some useful cmake module collection
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.4.39](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.4.39), 2 days ago) - A continuously evolving basic template for cpp development practice.
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.84](https://github.com/msclock/cmake-registry/releases/tag/v1.0.84), 2 days ago) - A cmake modules registry based on vcpkg
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.4.36](https://github.com/msclock/cmake-modules/releases/tag/v1.4.36), 2 days ago) - Some useful cmake module collection
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.4.39](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.4.39), 3 days ago) - A continuously evolving basic template for cpp development practice.
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.13](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.13), 1 week ago) - A simple authorizer for python project.
 - [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) ([v0.0.23](https://github.com/msclock/sphinx-deployment/releases/tag/v0.0.23), 2 weeks ago) - A versioned doument deployment tool based on sphinx.
 - [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.50](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.50), 1 month ago) - An evolving Python project template that covers the full development lifecycle.
@@ -40,12 +40,12 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔨 My recent Pull Requests
 
-- [refactor: refine indent and usages](https://github.com/msclock/cmake-modules/pull/104) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 day ago)
-- [fix: export path for macos in actions](https://github.com/serious-scaffold/ss-cpp/pull/237) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 days ago)
-- [perf: silence USE_SANITIZER and CODE_COVERAGE by default](https://github.com/serious-scaffold/ss-cpp/pull/236) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 days ago)
-- [docs: improve security pages](https://github.com/serious-scaffold/ss-cpp/pull/235) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 days ago)
-- [ci: use gcc@13](https://github.com/serious-scaffold/ss-cpp/pull/234) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (3 days ago)
-- [ci: use macos-13](https://github.com/serious-scaffold/ss-cpp/pull/233) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (3 days ago)
+- [refactor: refine indent and usages](https://github.com/msclock/cmake-modules/pull/104) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (2 days ago)
+- [fix: export path for macos in actions](https://github.com/serious-scaffold/ss-cpp/pull/237) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (3 days ago)
+- [perf: silence USE_SANITIZER and CODE_COVERAGE by default](https://github.com/serious-scaffold/ss-cpp/pull/236) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (3 days ago)
+- [docs: improve security pages](https://github.com/serious-scaffold/ss-cpp/pull/235) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (3 days ago)
+- [ci: use gcc@13](https://github.com/serious-scaffold/ss-cpp/pull/234) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (4 days ago)
+- [ci: use macos-13](https://github.com/serious-scaffold/ss-cpp/pull/233) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (4 days ago)
 - [perf: autoupdate renovate group](https://github.com/serious-scaffold/ss-cpp/pull/229) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
 - [perf: llvm path from macos brew](https://github.com/serious-scaffold/ss-cpp/pull/227) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
 - [perf: action submodule update from renovate](https://github.com/serious-scaffold/ss-cpp/pull/226) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
@@ -59,7 +59,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 - [shlin168/go-nvd](https://github.com/shlin168/go-nvd) - Tools to dump CVE/CPE data from NVD to database, and run API server on top of that (3 months ago)
 - [mattiasgustavsson/libs](https://github.com/mattiasgustavsson/libs) - Single-file public domain libraries for C/C&#43;&#43; (4 months ago)
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all (5 months ago)
-- [rr-debugger/rr](https://github.com/rr-debugger/rr) - Record and Replay Framework (5 months ago)
+- [rr-debugger/rr](https://github.com/rr-debugger/rr) - Record and Replay Framework (6 months ago)
 - [microsoft/ifc](https://github.com/microsoft/ifc) - SDK for the IFC specification at https://github.com/microsoft/ifc-spec (6 months ago)
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞 (6 months ago)
 - [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices) - Collaborative Collection of C&#43;&#43; Best Practices. This online resource is part of Jason Turner&#39;s collection of C&#43;&#43; Best Practices resources. See README.md for more information. (6 months ago)
