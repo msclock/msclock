@@ -4,14 +4,14 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (5 days ago)
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (6 days ago)
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (1 day ago)
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (1 week ago)
 - [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) - An evolving Python project template that covers the full development lifecycle. (2 weeks ago)
 - [msclock/smooth7zip](https://github.com/msclock/smooth7zip) - [WIP] A wrapper for 7zip. (2 weeks ago)
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (2 weeks ago)
 - [msclock/features](https://github.com/msclock/features) - Some features for dev container (2 weeks ago)
-- [msclock/msclock.github.io](https://github.com/msclock/msclock.github.io) -  (2 weeks ago)
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (3 weeks ago)
+- [msclock/msclock.github.io](https://github.com/msclock/msclock.github.io) -  (3 weeks ago)
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (4 weeks ago)
 - [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (1 month ago)
 - [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) - A versioned doument deployment tool based on sphinx. (1 month ago)
 
@@ -30,8 +30,8 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.84](https://github.com/msclock/cmake-registry/releases/tag/v1.0.84), 6 days ago) - A cmake modules registry based on vcpkg
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.4.36](https://github.com/msclock/cmake-modules/releases/tag/v1.4.36), 6 days ago) - Some useful cmake module collection
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.84](https://github.com/msclock/cmake-registry/releases/tag/v1.0.84), 1 week ago) - A cmake modules registry based on vcpkg
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.4.36](https://github.com/msclock/cmake-modules/releases/tag/v1.4.36), 1 week ago) - Some useful cmake module collection
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.4.39](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.4.39), 1 week ago) - A continuously evolving basic template for cpp development practice.
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.13](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.13), 2 weeks ago) - A simple authorizer for python project.
 - [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) ([v0.0.23](https://github.com/msclock/sphinx-deployment/releases/tag/v0.0.23), 3 weeks ago) - A versioned doument deployment tool based on sphinx.
@@ -40,7 +40,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔨 My recent Pull Requests
 
-- [refactor: refine indent and usages](https://github.com/msclock/cmake-modules/pull/104) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (6 days ago)
+- [refactor: refine indent and usages](https://github.com/msclock/cmake-modules/pull/104) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 week ago)
 - [fix: export path for macos in actions](https://github.com/serious-scaffold/ss-cpp/pull/237) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
 - [perf: silence USE_SANITIZER and CODE_COVERAGE by default](https://github.com/serious-scaffold/ss-cpp/pull/236) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
 - [docs: improve security pages](https://github.com/serious-scaffold/ss-cpp/pull/235) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
@@ -53,6 +53,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### ⭐ Recent Stars
 
+- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. (1 day ago)
 - [ip7z/7zip](https://github.com/ip7z/7zip) - 7-Zip (2 weeks ago)
 - [ossf/wg-best-practices-os-developers](https://github.com/ossf/wg-best-practices-os-developers) - The Best Practices for OSS Developers working group is dedicated to raising awareness and education of secure code best practices for open source developers. (1 month ago)
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (2 months ago)
@@ -62,7 +63,6 @@ I’m msclock, a software engineer and opensource enthusiast.
 - [rr-debugger/rr](https://github.com/rr-debugger/rr) - Record and Replay Framework (6 months ago)
 - [microsoft/ifc](https://github.com/microsoft/ifc) - SDK for the IFC specification at https://github.com/microsoft/ifc-spec (6 months ago)
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞 (6 months ago)
-- [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices) - Collaborative Collection of C&#43;&#43; Best Practices. This online resource is part of Jason Turner&#39;s collection of C&#43;&#43; Best Practices resources. See README.md for more information. (6 months ago)
 
 #### 💬 Feedback
 
