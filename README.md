@@ -30,9 +30,9 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.4.40](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.4.40), 1 day ago) - A continuously evolving basic template for cpp development practice.
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.84](https://github.com/msclock/cmake-registry/releases/tag/v1.0.84), 1 week ago) - A cmake modules registry based on vcpkg
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.4.36](https://github.com/msclock/cmake-modules/releases/tag/v1.4.36), 1 week ago) - Some useful cmake module collection
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.4.39](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.4.39), 1 week ago) - A continuously evolving basic template for cpp development practice.
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.13](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.13), 2 weeks ago) - A simple authorizer for python project.
 - [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) ([v0.0.23](https://github.com/msclock/sphinx-deployment/releases/tag/v0.0.23), 3 weeks ago) - A versioned doument deployment tool based on sphinx.
 - [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.50](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.50), 1 month ago) - An evolving Python project template that covers the full development lifecycle.
@@ -40,6 +40,8 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔨 My recent Pull Requests
 
+- [fix: semantic-release using major version extra plugins](https://github.com/serious-scaffold/ss-cpp/pull/242) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
+- [perf: run renovate lint of pre-commit manually](https://github.com/serious-scaffold/ss-cpp/pull/241) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
 - [refactor: refine indent and usages](https://github.com/msclock/cmake-modules/pull/104) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 week ago)
 - [fix: export path for macos in actions](https://github.com/serious-scaffold/ss-cpp/pull/237) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
 - [perf: silence USE_SANITIZER and CODE_COVERAGE by default](https://github.com/serious-scaffold/ss-cpp/pull/236) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
@@ -48,12 +50,11 @@ I’m msclock, a software engineer and opensource enthusiast.
 - [ci: use macos-13](https://github.com/serious-scaffold/ss-cpp/pull/233) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
 - [perf: autoupdate renovate group](https://github.com/serious-scaffold/ss-cpp/pull/229) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 weeks ago)
 - [perf: llvm path from macos brew](https://github.com/serious-scaffold/ss-cpp/pull/227) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 weeks ago)
-- [perf: action submodule update from renovate](https://github.com/serious-scaffold/ss-cpp/pull/226) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 weeks ago)
-- [perf: simplify renovate job](https://github.com/serious-scaffold/ss-cpp/pull/225) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. (1 day ago)
+- [nam20485/OdbDesign](https://github.com/nam20485/OdbDesign) - A free open source cross-platform C&#43;&#43; library for parsing ODB&#43;&#43; Design archives, accessing their data, and building net list product models. Exposed via a REST API packaged inside of a Docker image. (1 day ago)
+- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. (2 days ago)
 - [ip7z/7zip](https://github.com/ip7z/7zip) - 7-Zip (2 weeks ago)
 - [ossf/wg-best-practices-os-developers](https://github.com/ossf/wg-best-practices-os-developers) - The Best Practices for OSS Developers working group is dedicated to raising awareness and education of secure code best practices for open source developers. (1 month ago)
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (2 months ago)
@@ -62,7 +63,6 @@ I’m msclock, a software engineer and opensource enthusiast.
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all (5 months ago)
 - [rr-debugger/rr](https://github.com/rr-debugger/rr) - Record and Replay Framework (6 months ago)
 - [microsoft/ifc](https://github.com/microsoft/ifc) - SDK for the IFC specification at https://github.com/microsoft/ifc-spec (6 months ago)
-- [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞 (6 months ago)
 
 #### 💬 Feedback
 
