@@ -4,16 +4,16 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (1 day ago)
+- [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) - An evolving Python project template that covers the full development lifecycle. (1 day ago)
+- [msclock/smooth7zip](https://github.com/msclock/smooth7zip) - [WIP] A wrapper for 7zip. (1 day ago)
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (1 day ago)
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (1 day ago)
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (1 week ago)
-- [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) - An evolving Python project template that covers the full development lifecycle. (2 weeks ago)
-- [msclock/smooth7zip](https://github.com/msclock/smooth7zip) - [WIP] A wrapper for 7zip. (2 weeks ago)
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (2 weeks ago)
 - [msclock/features](https://github.com/msclock/features) - Some features for dev container (2 weeks ago)
 - [msclock/msclock.github.io](https://github.com/msclock/msclock.github.io) -  (3 weeks ago)
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (1 month ago)
-- [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (1 month ago)
 - [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) - A versioned doument deployment tool based on sphinx. (1 month ago)
+- [msclock/gitlab-ci-templates](https://github.com/msclock/gitlab-ci-templates) - Auxiliary gitlab ci templates (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -30,9 +30,9 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.4.40](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.4.40), 2 days ago) - A continuously evolving basic template for cpp development practice.
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.84](https://github.com/msclock/cmake-registry/releases/tag/v1.0.84), 1 week ago) - A cmake modules registry based on vcpkg
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.4.36](https://github.com/msclock/cmake-modules/releases/tag/v1.4.36), 1 week ago) - Some useful cmake module collection
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.85](https://github.com/msclock/cmake-registry/releases/tag/v1.0.85), 1 day ago) - A cmake modules registry based on vcpkg
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.4.37](https://github.com/msclock/cmake-modules/releases/tag/v1.4.37), 1 day ago) - Some useful cmake module collection
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.4.40](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.4.40), 3 days ago) - A continuously evolving basic template for cpp development practice.
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.13](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.13), 2 weeks ago) - A simple authorizer for python project.
 - [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) ([v0.0.23](https://github.com/msclock/sphinx-deployment/releases/tag/v0.0.23), 3 weeks ago) - A versioned doument deployment tool based on sphinx.
 - [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.50](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.50), 1 month ago) - An evolving Python project template that covers the full development lifecycle.
@@ -40,21 +40,21 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔨 My recent Pull Requests
 
-- [fix: semantic-release using major version extra plugins](https://github.com/serious-scaffold/ss-cpp/pull/242) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 days ago)
-- [perf: run renovate lint of pre-commit manually](https://github.com/serious-scaffold/ss-cpp/pull/241) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 days ago)
+- [fix: use major of semantic-release extra plugin](https://github.com/msclock/cmake-registry/pull/127) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (1 day ago)
+- [fix: use major version of semantic-release extra plugins](https://github.com/msclock/cmake-modules/pull/106) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 day ago)
+- [perf: suppress full binary dir](https://github.com/msclock/cmake-modules/pull/105) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 day ago)
+- [fix: semantic-release using major version extra plugins](https://github.com/serious-scaffold/ss-cpp/pull/242) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (3 days ago)
+- [perf: run renovate lint of pre-commit manually](https://github.com/serious-scaffold/ss-cpp/pull/241) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (3 days ago)
 - [refactor: refine indent and usages](https://github.com/msclock/cmake-modules/pull/104) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 week ago)
 - [fix: export path for macos in actions](https://github.com/serious-scaffold/ss-cpp/pull/237) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
 - [perf: silence USE_SANITIZER and CODE_COVERAGE by default](https://github.com/serious-scaffold/ss-cpp/pull/236) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
 - [docs: improve security pages](https://github.com/serious-scaffold/ss-cpp/pull/235) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
 - [ci: use gcc@13](https://github.com/serious-scaffold/ss-cpp/pull/234) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
-- [ci: use macos-13](https://github.com/serious-scaffold/ss-cpp/pull/233) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
-- [perf: autoupdate renovate group](https://github.com/serious-scaffold/ss-cpp/pull/229) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 weeks ago)
-- [perf: llvm path from macos brew](https://github.com/serious-scaffold/ss-cpp/pull/227) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [nam20485/OdbDesign](https://github.com/nam20485/OdbDesign) - A free open source cross-platform C&#43;&#43; library for parsing ODB&#43;&#43; Design archives, accessing their data, and building net list product models. Exposed via a REST API packaged inside of a Docker image. (2 days ago)
-- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. (3 days ago)
+- [nam20485/OdbDesign](https://github.com/nam20485/OdbDesign) - A free open source cross-platform C&#43;&#43; library for parsing ODB&#43;&#43; Design archives, accessing their data, and building net list product models. Exposed via a REST API packaged inside of a Docker image. (3 days ago)
+- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. (4 days ago)
 - [ip7z/7zip](https://github.com/ip7z/7zip) - 7-Zip (2 weeks ago)
 - [ossf/wg-best-practices-os-developers](https://github.com/ossf/wg-best-practices-os-developers) - The Best Practices for OSS Developers working group is dedicated to raising awareness and education of secure code best practices for open source developers. (1 month ago)
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (2 months ago)
