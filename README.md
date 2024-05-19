@@ -4,8 +4,8 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) - An evolving Python project template that covers the full development lifecycle. (1 day ago)
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (4 days ago)
+- [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) - An evolving Python project template that covers the full development lifecycle. (2 days ago)
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (5 days ago)
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (1 week ago)
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (1 week ago)
 - [msclock/smooth7zip](https://github.com/msclock/smooth7zip) - [WIP] A wrapper for 7zip. (1 week ago)
@@ -30,8 +30,8 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.51](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.51), 1 day ago) - An evolving Python project template that covers the full development lifecycle.
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.4.43](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.4.43), 4 days ago) - A continuously evolving basic template for cpp development practice.
+- [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.51](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.51), 2 days ago) - An evolving Python project template that covers the full development lifecycle.
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.4.43](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.4.43), 5 days ago) - A continuously evolving basic template for cpp development practice.
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.85](https://github.com/msclock/cmake-registry/releases/tag/v1.0.85), 1 week ago) - A cmake modules registry based on vcpkg
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.4.37](https://github.com/msclock/cmake-modules/releases/tag/v1.4.37), 1 week ago) - Some useful cmake module collection
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.13](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.13), 3 weeks ago) - A simple authorizer for python project.
@@ -40,10 +40,10 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔨 My recent Pull Requests
 
-- [fix: use_codeql does not work](https://github.com/serious-scaffold/ss-cpp/pull/251) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (4 days ago)
-- [fix: version should retrieve from tags output](https://github.com/serious-scaffold/ss-cpp/pull/250) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (4 days ago)
-- [refactor: rename repo_host to repo_platform](https://github.com/serious-scaffold/ss-cpp/pull/249) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (5 days ago)
-- [chore(deps): update cmake-modules to v1.4.37](https://github.com/serious-scaffold/ss-cpp/pull/248) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (5 days ago)
+- [fix: use_codeql does not work](https://github.com/serious-scaffold/ss-cpp/pull/251) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (5 days ago)
+- [fix: version should retrieve from tags output](https://github.com/serious-scaffold/ss-cpp/pull/250) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (5 days ago)
+- [refactor: rename repo_host to repo_platform](https://github.com/serious-scaffold/ss-cpp/pull/249) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (6 days ago)
+- [chore(deps): update cmake-modules to v1.4.37](https://github.com/serious-scaffold/ss-cpp/pull/248) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (6 days ago)
 - [fix: use major of semantic-release extra plugin](https://github.com/msclock/cmake-registry/pull/127) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (1 week ago)
 - [fix: use major version of semantic-release extra plugins](https://github.com/msclock/cmake-modules/pull/106) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 week ago)
 - [perf: suppress full binary dir](https://github.com/msclock/cmake-modules/pull/105) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 week ago)
