@@ -4,9 +4,9 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) - A versioned doument deployment tool based on sphinx. (2 days ago)
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (3 days ago)
-- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (5 days ago)
+- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) - A versioned doument deployment tool based on sphinx. (3 days ago)
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (4 days ago)
+- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (6 days ago)
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (1 week ago)
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (1 week ago)
 - [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) - An evolving Python project template that covers the full development lifecycle. (2 weeks ago)
@@ -30,8 +30,8 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) ([v0.0.24](https://github.com/msclock/sphinx-deployment/releases/tag/v0.0.24), 2 days ago) - A versioned doument deployment tool based on sphinx.
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.4.47](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.4.47), 4 days ago) - A continuously evolving basic template for cpp development practice.
+- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) ([v0.0.24](https://github.com/msclock/sphinx-deployment/releases/tag/v0.0.24), 3 days ago) - A versioned doument deployment tool based on sphinx.
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.4.47](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.4.47), 5 days ago) - A continuously evolving basic template for cpp development practice.
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.92](https://github.com/msclock/cmake-registry/releases/tag/v1.0.92), 1 week ago) - A cmake modules registry based on vcpkg
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.5.4](https://github.com/msclock/cmake-modules/releases/tag/v1.5.4), 1 week ago) - Some useful cmake module collection
 - [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.52](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.52), 1 week ago) - An evolving Python project template that covers the full development lifecycle.
@@ -40,11 +40,11 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔨 My recent Pull Requests
 
-- [ci: fix the semantic release](https://github.com/msclock/sphinx-deployment/pull/69) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (2 days ago)
-- [ci: add steps to report valgrind memory results](https://github.com/serious-scaffold/ss-cpp/pull/269) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (3 days ago)
-- [docs: change the page table layers to 3](https://github.com/serious-scaffold/ss-cpp/pull/268) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (4 days ago)
-- [perf: remove customized items and add the relevant usage instead](https://github.com/serious-scaffold/ss-cpp/pull/267) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (4 days ago)
-- [chore: use more slim renovate image](https://github.com/serious-scaffold/ss-cpp/pull/265) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (5 days ago)
+- [ci: fix the semantic release](https://github.com/msclock/sphinx-deployment/pull/69) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (3 days ago)
+- [ci: add steps to report valgrind memory results](https://github.com/serious-scaffold/ss-cpp/pull/269) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (4 days ago)
+- [docs: change the page table layers to 3](https://github.com/serious-scaffold/ss-cpp/pull/268) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (5 days ago)
+- [perf: remove customized items and add the relevant usage instead](https://github.com/serious-scaffold/ss-cpp/pull/267) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (5 days ago)
+- [chore: use more slim renovate image](https://github.com/serious-scaffold/ss-cpp/pull/265) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (6 days ago)
 - [chore: configure renovate for pip and pipx](https://github.com/serious-scaffold/ss-cpp/pull/262) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
 - [ci: use copier v9.2.0](https://github.com/serious-scaffold/ss-cpp/pull/261) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
 - [fix: correct valgrind setup](https://github.com/msclock/cmake-modules/pull/113) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 week ago)
@@ -53,7 +53,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### ⭐ Recent Stars
 
-- [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API. (2 days ago)
+- [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API. (3 days ago)
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client (1 week ago)
 - [nam20485/OdbDesign](https://github.com/nam20485/OdbDesign) - A free open source cross-platform C&#43;&#43; library for parsing ODB&#43;&#43; Design archives, accessing their data, and building net list product models. Exposed via a REST API packaged inside of a Docker image. (3 weeks ago)
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. (3 weeks ago)
