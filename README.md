@@ -4,16 +4,16 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
+- [onuratakan/gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - gpt-4o for windows, macos and linux (1 day ago)
 - [msclock/smooth7zip](https://github.com/msclock/smooth7zip) - [WIP] A wrapper for 7zip. (1 day ago)
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (4 days ago)
-- [msclock/dwgcpp](https://github.com/msclock/dwgcpp) - A dwg/dxf cpp implementation. (4 days ago)
-- [msclock/ftw](https://github.com/msclock/ftw) -  (5 days ago)
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (5 days ago)
-- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (6 days ago)
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (1 day ago)
+- [msclock/dwgcpp](https://github.com/msclock/dwgcpp) - A dwg/dxf cpp implementation. (5 days ago)
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (5 days ago)
+- [msclock/ftw](https://github.com/msclock/ftw) -  (6 days ago)
+- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (1 week ago)
 - [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) - A versioned doument deployment tool based on sphinx. (1 week ago)
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (2 weeks ago)
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (3 weeks ago)
 - [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) - An evolving Python project template that covers the full development lifecycle. (3 weeks ago)
-- [msclock/features](https://github.com/msclock/features) - Some features for dev container (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -30,39 +30,40 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.95](https://github.com/msclock/cmake-registry/releases/tag/v1.0.95), 5 days ago) - A cmake modules registry based on vcpkg
-- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.14](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.14), 6 days ago) - A simple authorizer for python project.
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.96](https://github.com/msclock/cmake-registry/releases/tag/v1.0.96), 1 day ago) - A cmake modules registry based on vcpkg
+- [onuratakan/gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) ([v0.12.0](https://github.com/onuratakan/gpt-computer-assistant/releases/tag/v0.12.0), 2 days ago) - gpt-4o for windows, macos and linux
+- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.14](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.14), 1 week ago) - A simple authorizer for python project.
 - [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) ([v0.0.24](https://github.com/msclock/sphinx-deployment/releases/tag/v0.0.24), 1 week ago) - A versioned doument deployment tool based on sphinx.
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.4.47](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.4.47), 2 weeks ago) - A continuously evolving basic template for cpp development practice.
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.5.4](https://github.com/msclock/cmake-modules/releases/tag/v1.5.4), 2 weeks ago) - Some useful cmake module collection
-- [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.52](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.52), 2 weeks ago) - An evolving Python project template that covers the full development lifecycle.
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.5.4](https://github.com/msclock/cmake-modules/releases/tag/v1.5.4), 3 weeks ago) - Some useful cmake module collection
+- [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.52](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.52), 3 weeks ago) - An evolving Python project template that covers the full development lifecycle.
 - [msclock/transformersplus](https://github.com/msclock/transformersplus) ([v0.2.0](https://github.com/msclock/transformersplus/releases/tag/v0.2.0), 11 months ago) - Add Some plus extra features to transformers
 
 #### 🔨 My recent Pull Requests
 
-- [chore: add more useful exts for devcontainer](https://github.com/serious-scaffold/ss-cpp/pull/274) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (4 days ago)
-- [chore(port): new port sphinx-cmake](https://github.com/msclock/cmake-registry/pull/140) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (5 days ago)
-- [chore(port): new port pytest-cmake](https://github.com/msclock/cmake-registry/pull/139) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (5 days ago)
-- [ci: simplify semantic-release](https://github.com/msclock/cmake-registry/pull/138) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (5 days ago)
-- [chore: use schedule preset](https://github.com/serious-scaffold/ss-cpp/pull/273) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (6 days ago)
+- [chore(port): new port cmake-metalshadersupport](https://github.com/msclock/cmake-registry/pull/142) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (1 day ago)
+- [chore(port): new port cmake-metalshadersupport](https://github.com/msclock/cmake-registry/pull/141) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (1 day ago)
+- [fix: various typos](https://github.com/onuratakan/gpt-computer-assistant/pull/121) on [onuratakan/gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) (1 day ago)
+- [chore: add more useful exts for devcontainer](https://github.com/serious-scaffold/ss-cpp/pull/274) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (5 days ago)
+- [chore(port): new port sphinx-cmake](https://github.com/msclock/cmake-registry/pull/140) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (6 days ago)
+- [chore(port): new port pytest-cmake](https://github.com/msclock/cmake-registry/pull/139) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (6 days ago)
+- [ci: simplify semantic-release](https://github.com/msclock/cmake-registry/pull/138) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (6 days ago)
+- [chore: use schedule preset](https://github.com/serious-scaffold/ss-cpp/pull/273) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
 - [ci: fix the semantic release](https://github.com/msclock/sphinx-deployment/pull/69) on [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) (1 week ago)
-- [ci: add steps to report valgrind memory results](https://github.com/serious-scaffold/ss-cpp/pull/269) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
-- [docs: change the page table layers to 3](https://github.com/serious-scaffold/ss-cpp/pull/268) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 weeks ago)
-- [perf: remove customized items and add the relevant usage instead](https://github.com/serious-scaffold/ss-cpp/pull/267) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 weeks ago)
-- [chore: use more slim renovate image](https://github.com/serious-scaffold/ss-cpp/pull/265) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 weeks ago)
+- [ci: add steps to report valgrind memory results](https://github.com/serious-scaffold/ss-cpp/pull/269) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉 (3 days ago)
-- [martinus/unordered_dense](https://github.com/martinus/unordered_dense) - A fast &amp; densely stored hashmap and hashset based on robin-hood backward shift deletion (5 days ago)
-- [onuratakan/gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - gpt-4o for windows, macos and linux (5 days ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (1 day ago)
+- [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉 (4 days ago)
+- [martinus/unordered_dense](https://github.com/martinus/unordered_dense) - A fast &amp; densely stored hashmap and hashset based on robin-hood backward shift deletion (6 days ago)
+- [onuratakan/gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - gpt-4o for windows, macos and linux (6 days ago)
 - [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API. (1 week ago)
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client (3 weeks ago)
 - [nam20485/OdbDesign](https://github.com/nam20485/OdbDesign) - A free open source cross-platform C&#43;&#43; library for parsing ODB&#43;&#43; Design archives, accessing their data, and building net list product models. Exposed via a REST API packaged inside of a Docker image. (1 month ago)
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. (1 month ago)
 - [ip7z/7zip](https://github.com/ip7z/7zip) - 7-Zip (1 month ago)
 - [ossf/wg-best-practices-os-developers](https://github.com/ossf/wg-best-practices-os-developers) - The Best Practices for OSS Developers working group is dedicated to raising awareness and education of secure code best practices for open source developers. (2 months ago)
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (3 months ago)
 
 #### 💬 Feedback
 
