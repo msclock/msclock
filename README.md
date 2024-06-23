@@ -4,9 +4,9 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (2 days ago)
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (4 days ago)
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (5 days ago)
+- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (3 days ago)
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (5 days ago)
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (6 days ago)
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (1 week ago)
 - [msclock/smooth7zip](https://github.com/msclock/smooth7zip) - [WIP] A wrapper for 7zip. (1 week ago)
 - [onuratakan/gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - gpt-4o for windows, macos and linux (1 week ago)
@@ -30,10 +30,10 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [onuratakan/gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) ([v0.19.1](https://github.com/onuratakan/gpt-computer-assistant/releases/tag/v0.19.1), 2 days ago) - gpt-4o for windows, macos and linux
-- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.15](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.15), 2 days ago) - A simple authorizer for python project.
-- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) ([v0.0.25](https://github.com/msclock/sphinx-deployment/releases/tag/v0.0.25), 2 days ago) - A versioned doument deployment tool based on sphinx.
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.99](https://github.com/msclock/cmake-registry/releases/tag/v1.0.99), 5 days ago) - A cmake modules registry based on vcpkg
+- [onuratakan/gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) ([v0.19.1](https://github.com/onuratakan/gpt-computer-assistant/releases/tag/v0.19.1), 3 days ago) - gpt-4o for windows, macos and linux
+- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.15](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.15), 3 days ago) - A simple authorizer for python project.
+- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) ([v0.0.25](https://github.com/msclock/sphinx-deployment/releases/tag/v0.0.25), 3 days ago) - A versioned doument deployment tool based on sphinx.
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.99](https://github.com/msclock/cmake-registry/releases/tag/v1.0.99), 6 days ago) - A cmake modules registry based on vcpkg
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.4.48](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.4.48), 1 week ago) - A continuously evolving basic template for cpp development practice.
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.5.5](https://github.com/msclock/cmake-modules/releases/tag/v1.5.5), 1 week ago) - Some useful cmake module collection
 - [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.52](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.52), 1 month ago) - An evolving Python project template that covers the full development lifecycle.
@@ -41,7 +41,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔨 My recent Pull Requests
 
-- [chore(port): new port cmake-path-file](https://github.com/msclock/cmake-registry/pull/145) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (5 days ago)
+- [chore(port): new port cmake-path-file](https://github.com/msclock/cmake-registry/pull/145) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (6 days ago)
 - [perf: generate version headers for targets seperately](https://github.com/serious-scaffold/ss-cpp/pull/279) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
 - [perf: add an option VERSION_NAMESPACE_PREFIX](https://github.com/msclock/cmake-modules/pull/114) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 week ago)
 - [chore(port): new port cmake-metalshadersupport](https://github.com/msclock/cmake-registry/pull/142) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (1 week ago)
