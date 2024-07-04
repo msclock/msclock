@@ -6,11 +6,11 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (1 week ago)
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (1 week ago)
-- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (1 week ago)
+- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (2 weeks ago)
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (2 weeks ago)
 - [msclock/smooth7zip](https://github.com/msclock/smooth7zip) - [WIP] A wrapper for 7zip. (3 weeks ago)
 - [onuratakan/gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - gpt-4o for windows, macos and linux (3 weeks ago)
-- [msclock/ftw](https://github.com/msclock/ftw) -  (3 weeks ago)
+- [msclock/ftw](https://github.com/msclock/ftw) -  (4 weeks ago)
 - [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) - A versioned doument deployment tool based on sphinx. (1 month ago)
 - [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) - An evolving Python project template that covers the full development lifecycle. (1 month ago)
 - [msclock/features](https://github.com/msclock/features) - Some features for dev container (2 months ago)
@@ -30,9 +30,9 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [onuratakan/gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) ([v0.19.1](https://github.com/onuratakan/gpt-computer-assistant/releases/tag/v0.19.1), 1 week ago) - gpt-4o for windows, macos and linux
-- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.15](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.15), 1 week ago) - A simple authorizer for python project.
-- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) ([v0.0.25](https://github.com/msclock/sphinx-deployment/releases/tag/v0.0.25), 1 week ago) - A versioned doument deployment tool based on sphinx.
+- [onuratakan/gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) ([v0.19.1](https://github.com/onuratakan/gpt-computer-assistant/releases/tag/v0.19.1), 2 weeks ago) - gpt-4o for windows, macos and linux
+- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.15](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.15), 2 weeks ago) - A simple authorizer for python project.
+- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) ([v0.0.25](https://github.com/msclock/sphinx-deployment/releases/tag/v0.0.25), 2 weeks ago) - A versioned doument deployment tool based on sphinx.
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.99](https://github.com/msclock/cmake-registry/releases/tag/v1.0.99), 2 weeks ago) - A cmake modules registry based on vcpkg
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.4.48](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.4.48), 2 weeks ago) - A continuously evolving basic template for cpp development practice.
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.5.5](https://github.com/msclock/cmake-modules/releases/tag/v1.5.5), 2 weeks ago) - Some useful cmake module collection
@@ -49,16 +49,16 @@ I’m msclock, a software engineer and opensource enthusiast.
 - [chore(port): new port cmake-metalshadersupport](https://github.com/msclock/cmake-registry/pull/141) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (3 weeks ago)
 - [fix: various typos](https://github.com/onuratakan/gpt-computer-assistant/pull/121) on [onuratakan/gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) (3 weeks ago)
 - [chore: add more useful exts for devcontainer](https://github.com/serious-scaffold/ss-cpp/pull/274) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (3 weeks ago)
-- [chore(port): new port sphinx-cmake](https://github.com/msclock/cmake-registry/pull/140) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (3 weeks ago)
-- [chore(port): new port pytest-cmake](https://github.com/msclock/cmake-registry/pull/139) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (3 weeks ago)
+- [chore(port): new port sphinx-cmake](https://github.com/msclock/cmake-registry/pull/140) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (4 weeks ago)
+- [chore(port): new port pytest-cmake](https://github.com/msclock/cmake-registry/pull/139) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT4.0/ Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。 (5 days ago)
-- [msclock/ftw](https://github.com/msclock/ftw) -  (5 days ago)
-- [msclock/AutoDetectLinks](https://github.com/msclock/AutoDetectLinks) -  (5 days ago)
-- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux) (5 days ago)
-- [biojppm/c4core](https://github.com/biojppm/c4core) - C&#43;&#43; utilities (6 days ago)
+- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT4.0/ Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。 (6 days ago)
+- [msclock/ftw](https://github.com/msclock/ftw) -  (6 days ago)
+- [msclock/AutoDetectLinks](https://github.com/msclock/AutoDetectLinks) -  (6 days ago)
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux) (6 days ago)
+- [biojppm/c4core](https://github.com/biojppm/c4core) - C&#43;&#43; utilities (1 week ago)
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2 (1 week ago)
 - [ultrasev/stream-whisper](https://github.com/ultrasev/stream-whisper) - 基于 faster-whisper 的伪实时语音转写服务  (1 week ago)
 - [pmodels/mpich](https://github.com/pmodels/mpich) - Official MPICH Repository (1 week ago)
