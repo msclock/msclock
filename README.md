@@ -4,9 +4,9 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (1 day ago)
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (1 day ago)
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (4 days ago)
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (2 days ago)
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (2 days ago)
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (5 days ago)
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (3 weeks ago)
 - [msclock/smooth7zip](https://github.com/msclock/smooth7zip) - [WIP] A wrapper for 7zip. (1 month ago)
 - [onuratakan/gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - gpt-4o for windows, macos and linux (1 month ago)
@@ -30,10 +30,10 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.104](https://github.com/msclock/cmake-registry/releases/tag/v1.0.104), 1 day ago) - A cmake modules registry based on vcpkg
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.5.6](https://github.com/msclock/cmake-modules/releases/tag/v1.5.6), 1 day ago) - Some useful cmake module collection
-- [onuratakan/gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) ([v0.20.0](https://github.com/onuratakan/gpt-computer-assistant/releases/tag/v0.20.0), 2 days ago) - gpt-4o for windows, macos and linux
-- [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.53](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.53), 6 days ago) - An evolving Python project template that covers the full development lifecycle.
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.104](https://github.com/msclock/cmake-registry/releases/tag/v1.0.104), 2 days ago) - A cmake modules registry based on vcpkg
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.5.6](https://github.com/msclock/cmake-modules/releases/tag/v1.5.6), 2 days ago) - Some useful cmake module collection
+- [onuratakan/gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) ([v0.20.0](https://github.com/onuratakan/gpt-computer-assistant/releases/tag/v0.20.0), 3 days ago) - gpt-4o for windows, macos and linux
+- [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.53](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.53), 1 week ago) - An evolving Python project template that covers the full development lifecycle.
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.15](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.15), 3 weeks ago) - A simple authorizer for python project.
 - [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) ([v0.0.25](https://github.com/msclock/sphinx-deployment/releases/tag/v0.0.25), 3 weeks ago) - A versioned doument deployment tool based on sphinx.
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.4.48](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.4.48), 1 month ago) - A continuously evolving basic template for cpp development practice.
@@ -41,22 +41,22 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔨 My recent Pull Requests
 
-- [chore: configure automerge](https://github.com/msclock/cmake-registry/pull/155) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (1 day ago)
-- [build: simplify cmake-modules related scripts](https://github.com/serious-scaffold/ss-cpp/pull/314) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
-- [perf: reorganize modules and add the first project module](https://github.com/msclock/cmake-modules/pull/115) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 day ago)
-- [docs: add semantic-release status badge](https://github.com/serious-scaffold/ss-cpp/pull/309) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
-- [fix: correct the description of checkwarning-cmake](https://github.com/msclock/cmake-registry/pull/150) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (4 days ago)
-- [chore(port): new port assertion-cmake](https://github.com/msclock/cmake-registry/pull/149) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (4 days ago)
-- [chore(port): new port checkwarning-cmake](https://github.com/msclock/cmake-registry/pull/148) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (4 days ago)
-- [ci: seperate semantic-release from ci](https://github.com/serious-scaffold/ss-cpp/pull/306) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (5 days ago)
-- [chore: configure renovate to sign commits with GitHub API](https://github.com/serious-scaffold/ss-cpp/pull/305) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (5 days ago)
-- [ci: add auto approval action](https://github.com/serious-scaffold/ss-cpp/pull/301) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (6 days ago)
+- [chore: configure automerge](https://github.com/msclock/cmake-registry/pull/155) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (2 days ago)
+- [build: simplify cmake-modules related scripts](https://github.com/serious-scaffold/ss-cpp/pull/314) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 days ago)
+- [perf: reorganize modules and add the first project module](https://github.com/msclock/cmake-modules/pull/115) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (2 days ago)
+- [docs: add semantic-release status badge](https://github.com/serious-scaffold/ss-cpp/pull/309) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 days ago)
+- [fix: correct the description of checkwarning-cmake](https://github.com/msclock/cmake-registry/pull/150) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (5 days ago)
+- [chore(port): new port assertion-cmake](https://github.com/msclock/cmake-registry/pull/149) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (5 days ago)
+- [chore(port): new port checkwarning-cmake](https://github.com/msclock/cmake-registry/pull/148) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (5 days ago)
+- [ci: seperate semantic-release from ci](https://github.com/serious-scaffold/ss-cpp/pull/306) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (6 days ago)
+- [chore: configure renovate to sign commits with GitHub API](https://github.com/serious-scaffold/ss-cpp/pull/305) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (6 days ago)
+- [ci: add auto approval action](https://github.com/serious-scaffold/ss-cpp/pull/301) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (4 days ago)
-- [threeal/assertion-cmake](https://github.com/threeal/assertion-cmake) - A CMake module containing a collection of assertion functions and other utilities for testing CMake code (4 days ago)
-- [threeal/CheckWarning.cmake](https://github.com/threeal/CheckWarning.cmake) - Check for compiler warnings in your CMake project (4 days ago)
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (5 days ago)
+- [threeal/assertion-cmake](https://github.com/threeal/assertion-cmake) - A CMake module containing a collection of assertion functions and other utilities for testing CMake code (5 days ago)
+- [threeal/CheckWarning.cmake](https://github.com/threeal/CheckWarning.cmake) - Check for compiler warnings in your CMake project (5 days ago)
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application. (1 week ago)
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C&#43;&#43; (1 week ago)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models. (1 week ago)
