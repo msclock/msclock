@@ -4,7 +4,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (4 days ago)
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (5 days ago)
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (1 week ago)
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (1 week ago)
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (1 month ago)
@@ -30,7 +30,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.5.1](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.5.1), 4 days ago) - A continuously evolving basic template for cpp development practice.
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.5.1](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.5.1), 5 days ago) - A continuously evolving basic template for cpp development practice.
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.104](https://github.com/msclock/cmake-registry/releases/tag/v1.0.104), 1 week ago) - A cmake modules registry based on vcpkg
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.5.6](https://github.com/msclock/cmake-modules/releases/tag/v1.5.6), 1 week ago) - Some useful cmake module collection
 - [onuratakan/gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) ([v0.20.0](https://github.com/onuratakan/gpt-computer-assistant/releases/tag/v0.20.0), 1 week ago) - gpt-4o for windows, macos and linux
@@ -41,8 +41,8 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔨 My recent Pull Requests
 
-- [perf: use native sphinx commands to generate docs](https://github.com/serious-scaffold/ss-cpp/pull/317) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (4 days ago)
-- [feat: add a simple Makefile for local development](https://github.com/serious-scaffold/ss-cpp/pull/316) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (4 days ago)
+- [perf: use native sphinx commands to generate docs](https://github.com/serious-scaffold/ss-cpp/pull/317) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (5 days ago)
+- [feat: add a simple Makefile for local development](https://github.com/serious-scaffold/ss-cpp/pull/316) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (5 days ago)
 - [chore: configure automerge](https://github.com/msclock/cmake-registry/pull/155) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (1 week ago)
 - [build: simplify cmake-modules related scripts](https://github.com/serious-scaffold/ss-cpp/pull/314) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
 - [perf: reorganize modules and add the first project module](https://github.com/msclock/cmake-modules/pull/115) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 week ago)
@@ -54,6 +54,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### ⭐ Recent Stars
 
+- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网 (1 day ago)
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (1 week ago)
 - [threeal/assertion-cmake](https://github.com/threeal/assertion-cmake) - A CMake module containing a collection of assertion functions and other utilities for testing CMake code (1 week ago)
 - [threeal/CheckWarning.cmake](https://github.com/threeal/CheckWarning.cmake) - Check for compiler warnings in your CMake project (1 week ago)
@@ -63,7 +64,6 @@ I’m msclock, a software engineer and opensource enthusiast.
 - [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT4.0/ Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。 (3 weeks ago)
 - [msclock/ftw](https://github.com/msclock/ftw) -  (3 weeks ago)
 - [msclock/AutoDetectLinks](https://github.com/msclock/AutoDetectLinks) -  (3 weeks ago)
-- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux) (3 weeks ago)
 
 #### 💬 Feedback
 
