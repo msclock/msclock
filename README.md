@@ -4,8 +4,8 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (2 days ago)
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (3 days ago)
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (1 day ago)
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (4 days ago)
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (2 weeks ago)
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (1 month ago)
 - [msclock/smooth7zip](https://github.com/msclock/smooth7zip) - [WIP] A wrapper for 7zip. (1 month ago)
@@ -30,22 +30,22 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.5.3](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.5.3), 2 days ago) - A continuously evolving basic template for cpp development practice.
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.105](https://github.com/msclock/cmake-registry/releases/tag/v1.0.105), 3 days ago) - A cmake modules registry based on vcpkg
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.5.7](https://github.com/msclock/cmake-modules/releases/tag/v1.5.7), 3 days ago) - Some useful cmake module collection
-- [onuratakan/gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) ([v0.21.1](https://github.com/onuratakan/gpt-computer-assistant/releases/tag/v0.21.1), 4 days ago) - gpt-4o for windows, macos and linux
-- [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.54](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.54), 4 days ago) - An evolving Python project template that covers the full development lifecycle.
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.5.4](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.5.4), 1 day ago) - A continuously evolving basic template for cpp development practice.
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.105](https://github.com/msclock/cmake-registry/releases/tag/v1.0.105), 4 days ago) - A cmake modules registry based on vcpkg
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.5.7](https://github.com/msclock/cmake-modules/releases/tag/v1.5.7), 4 days ago) - Some useful cmake module collection
+- [onuratakan/gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) ([v0.21.1](https://github.com/onuratakan/gpt-computer-assistant/releases/tag/v0.21.1), 5 days ago) - gpt-4o for windows, macos and linux
+- [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.54](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.54), 5 days ago) - An evolving Python project template that covers the full development lifecycle.
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.15](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.15), 1 month ago) - A simple authorizer for python project.
 - [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) ([v0.0.25](https://github.com/msclock/sphinx-deployment/releases/tag/v0.0.25), 1 month ago) - A versioned doument deployment tool based on sphinx.
 - [msclock/transformersplus](https://github.com/msclock/transformersplus) ([v0.2.0](https://github.com/msclock/transformersplus/releases/tag/v0.2.0), 1 year ago) - Add Some plus extra features to transformers
 
 #### 🔨 My recent Pull Requests
 
-- [perf: enable exe target more applicable](https://github.com/serious-scaffold/ss-cpp/pull/323) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
-- [fix: remove redundant trailing comma](https://github.com/serious-scaffold/ss-cpp/pull/322) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 days ago)
-- [perf: detect git information with git_wt_info](https://github.com/serious-scaffold/ss-cpp/pull/321) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (3 days ago)
-- [perf: add git_AnyUncommittedChanges to default template](https://github.com/msclock/cmake-modules/pull/116) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (3 days ago)
-- [feat: support mkdocs integrating with mkdocs-material](https://github.com/serious-scaffold/ss-cpp/pull/320) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (4 days ago)
+- [perf: enable exe target more applicable](https://github.com/serious-scaffold/ss-cpp/pull/323) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 days ago)
+- [fix: remove redundant trailing comma](https://github.com/serious-scaffold/ss-cpp/pull/322) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (3 days ago)
+- [perf: detect git information with git_wt_info](https://github.com/serious-scaffold/ss-cpp/pull/321) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (4 days ago)
+- [perf: add git_AnyUncommittedChanges to default template](https://github.com/msclock/cmake-modules/pull/116) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (4 days ago)
+- [feat: support mkdocs integrating with mkdocs-material](https://github.com/serious-scaffold/ss-cpp/pull/320) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (5 days ago)
 - [perf: use native sphinx commands to generate docs](https://github.com/serious-scaffold/ss-cpp/pull/317) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
 - [feat: add a simple Makefile for local development](https://github.com/serious-scaffold/ss-cpp/pull/316) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
 - [chore: configure automerge](https://github.com/msclock/cmake-registry/pull/155) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (1 week ago)
@@ -54,16 +54,16 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### ⭐ Recent Stars
 
-- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网 (5 days ago)
+- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网 (6 days ago)
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (2 weeks ago)
 - [threeal/assertion-cmake](https://github.com/threeal/assertion-cmake) - A CMake module containing a collection of assertion functions and other utilities for testing CMake code (2 weeks ago)
 - [threeal/CheckWarning.cmake](https://github.com/threeal/CheckWarning.cmake) - Check for compiler warnings in your CMake project (2 weeks ago)
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application. (3 weeks ago)
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C&#43;&#43; (3 weeks ago)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models. (3 weeks ago)
-- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT4.0/ Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。 (4 weeks ago)
-- [msclock/ftw](https://github.com/msclock/ftw) -  (4 weeks ago)
-- [msclock/AutoDetectLinks](https://github.com/msclock/AutoDetectLinks) -  (4 weeks ago)
+- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT4.0/ Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。 (1 month ago)
+- [msclock/ftw](https://github.com/msclock/ftw) -  (1 month ago)
+- [msclock/AutoDetectLinks](https://github.com/msclock/AutoDetectLinks) -  (1 month ago)
 
 #### 💬 Feedback
 
