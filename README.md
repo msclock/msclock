@@ -5,7 +5,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 #### 👷 Check out what I'm currently working on
 
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (1 day ago)
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (5 days ago)
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (6 days ago)
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (2 weeks ago)
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (1 month ago)
 - [msclock/smooth7zip](https://github.com/msclock/smooth7zip) - [WIP] A wrapper for 7zip. (1 month ago)
@@ -30,22 +30,22 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.6.0](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.6.0), 1 day ago) - A continuously evolving basic template for cpp development practice.
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.105](https://github.com/msclock/cmake-registry/releases/tag/v1.0.105), 5 days ago) - A cmake modules registry based on vcpkg
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.5.7](https://github.com/msclock/cmake-modules/releases/tag/v1.5.7), 5 days ago) - Some useful cmake module collection
-- [onuratakan/gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) ([v0.21.1](https://github.com/onuratakan/gpt-computer-assistant/releases/tag/v0.21.1), 6 days ago) - gpt-4o for windows, macos and linux
-- [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.54](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.54), 6 days ago) - An evolving Python project template that covers the full development lifecycle.
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.6.0](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.6.0), 2 days ago) - A continuously evolving basic template for cpp development practice.
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.105](https://github.com/msclock/cmake-registry/releases/tag/v1.0.105), 6 days ago) - A cmake modules registry based on vcpkg
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.5.7](https://github.com/msclock/cmake-modules/releases/tag/v1.5.7), 6 days ago) - Some useful cmake module collection
+- [onuratakan/gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) ([v0.21.1](https://github.com/onuratakan/gpt-computer-assistant/releases/tag/v0.21.1), 1 week ago) - gpt-4o for windows, macos and linux
+- [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.54](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.54), 1 week ago) - An evolving Python project template that covers the full development lifecycle.
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.15](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.15), 1 month ago) - A simple authorizer for python project.
 - [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) ([v0.0.25](https://github.com/msclock/sphinx-deployment/releases/tag/v0.0.25), 1 month ago) - A versioned doument deployment tool based on sphinx.
 - [msclock/transformersplus](https://github.com/msclock/transformersplus) ([v0.2.0](https://github.com/msclock/transformersplus/releases/tag/v0.2.0), 1 year ago) - Add Some plus extra features to transformers
 
 #### 🔨 My recent Pull Requests
 
-- [perf: enable exe target more applicable](https://github.com/serious-scaffold/ss-cpp/pull/323) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (3 days ago)
-- [fix: remove redundant trailing comma](https://github.com/serious-scaffold/ss-cpp/pull/322) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (4 days ago)
-- [perf: detect git information with git_wt_info](https://github.com/serious-scaffold/ss-cpp/pull/321) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (5 days ago)
-- [perf: add git_AnyUncommittedChanges to default template](https://github.com/msclock/cmake-modules/pull/116) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (5 days ago)
-- [feat: support mkdocs integrating with mkdocs-material](https://github.com/serious-scaffold/ss-cpp/pull/320) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (6 days ago)
+- [perf: enable exe target more applicable](https://github.com/serious-scaffold/ss-cpp/pull/323) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (4 days ago)
+- [fix: remove redundant trailing comma](https://github.com/serious-scaffold/ss-cpp/pull/322) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (5 days ago)
+- [perf: detect git information with git_wt_info](https://github.com/serious-scaffold/ss-cpp/pull/321) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (6 days ago)
+- [perf: add git_AnyUncommittedChanges to default template](https://github.com/msclock/cmake-modules/pull/116) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (6 days ago)
+- [feat: support mkdocs integrating with mkdocs-material](https://github.com/serious-scaffold/ss-cpp/pull/320) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
 - [perf: use native sphinx commands to generate docs](https://github.com/serious-scaffold/ss-cpp/pull/317) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
 - [feat: add a simple Makefile for local development](https://github.com/serious-scaffold/ss-cpp/pull/316) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
 - [chore: configure automerge](https://github.com/msclock/cmake-registry/pull/155) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (2 weeks ago)
