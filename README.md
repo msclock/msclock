@@ -4,8 +4,8 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (1 day ago)
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (1 day ago)
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (2 days ago)
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (2 weeks ago)
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (1 month ago)
 - [msclock/smooth7zip](https://github.com/msclock/smooth7zip) - [WIP] A wrapper for 7zip. (1 month ago)
@@ -30,9 +30,9 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.106](https://github.com/msclock/cmake-registry/releases/tag/v1.0.106), 1 day ago) - A cmake modules registry based on vcpkg
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.5.9](https://github.com/msclock/cmake-modules/releases/tag/v1.5.9), 1 day ago) - Some useful cmake module collection
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.6.1](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.6.1), 1 day ago) - A continuously evolving basic template for cpp development practice.
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.6.3](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.6.3), 1 day ago) - A continuously evolving basic template for cpp development practice.
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.106](https://github.com/msclock/cmake-registry/releases/tag/v1.0.106), 2 days ago) - A cmake modules registry based on vcpkg
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.5.9](https://github.com/msclock/cmake-modules/releases/tag/v1.5.9), 2 days ago) - Some useful cmake module collection
 - [onuratakan/gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) ([v0.21.1](https://github.com/onuratakan/gpt-computer-assistant/releases/tag/v0.21.1), 1 week ago) - gpt-4o for windows, macos and linux
 - [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.54](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.54), 1 week ago) - An evolving Python project template that covers the full development lifecycle.
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.15](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.15), 1 month ago) - A simple authorizer for python project.
@@ -41,20 +41,20 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔨 My recent Pull Requests
 
-- [fix: correct semantic release channel](https://github.com/serious-scaffold/ss-cpp/pull/333) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
-- [fix: git version header dirty detection](https://github.com/serious-scaffold/ss-cpp/pull/332) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
-- [fix: git version header dirty detection](https://github.com/serious-scaffold/ss-cpp/pull/331) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
-- [perf: correct git header generation status log](https://github.com/msclock/cmake-modules/pull/118) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 day ago)
-- [perf: optimize generate_git_header](https://github.com/msclock/cmake-modules/pull/117) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 day ago)
-- [perf: auto approve when all checks pass in ci](https://github.com/serious-scaffold/ss-cpp/pull/330) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
-- [perf: enable exe target more applicable](https://github.com/serious-scaffold/ss-cpp/pull/323) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (5 days ago)
-- [fix: remove redundant trailing comma](https://github.com/serious-scaffold/ss-cpp/pull/322) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (6 days ago)
-- [perf: detect git information with git_wt_info](https://github.com/serious-scaffold/ss-cpp/pull/321) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
-- [perf: add git_AnyUncommittedChanges to default template](https://github.com/msclock/cmake-modules/pull/116) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 week ago)
+- [fix: git version header dirty detection](https://github.com/serious-scaffold/ss-cpp/pull/336) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
+- [fix: correct semantic release channel](https://github.com/serious-scaffold/ss-cpp/pull/335) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
+- [fix: correct semantic release channel](https://github.com/serious-scaffold/ss-cpp/pull/334) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
+- [fix: correct semantic release channel](https://github.com/serious-scaffold/ss-cpp/pull/333) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 days ago)
+- [fix: git version header dirty detection](https://github.com/serious-scaffold/ss-cpp/pull/332) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 days ago)
+- [fix: git version header dirty detection](https://github.com/serious-scaffold/ss-cpp/pull/331) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 days ago)
+- [perf: correct git header generation status log](https://github.com/msclock/cmake-modules/pull/118) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (2 days ago)
+- [perf: optimize generate_git_header](https://github.com/msclock/cmake-modules/pull/117) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (2 days ago)
+- [perf: auto approve when all checks pass in ci](https://github.com/serious-scaffold/ss-cpp/pull/330) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 days ago)
+- [perf: enable exe target more applicable](https://github.com/serious-scaffold/ss-cpp/pull/323) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (6 days ago)
 
 #### ⭐ Recent Stars
 
-- [felixguendling/cista](https://github.com/felixguendling/cista) - Cista is a simple, high-performance, zero-copy C&#43;&#43; serialization &amp; reflection library. (1 day ago)
+- [felixguendling/cista](https://github.com/felixguendling/cista) - Cista is a simple, high-performance, zero-copy C&#43;&#43; serialization &amp; reflection library. (2 days ago)
 - [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网 (1 week ago)
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (2 weeks ago)
 - [threeal/assertion-cmake](https://github.com/threeal/assertion-cmake) - A CMake module containing a collection of assertion functions and other utilities for testing CMake code (2 weeks ago)
