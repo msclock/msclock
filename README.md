@@ -30,8 +30,8 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) ([v0.22.1](https://github.com/Upsonic/gpt-computer-assistant/releases/tag/v0.22.1), 3 days ago) - Intelligence development framework in python for your product like Apple Intelligence
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.110](https://github.com/msclock/cmake-registry/releases/tag/v1.0.110), 5 days ago) - A cmake modules registry based on vcpkg
+- [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) ([v0.22.1](https://github.com/Upsonic/gpt-computer-assistant/releases/tag/v0.22.1), 4 days ago) - Intelligence development framework in python for your product like Apple Intelligence
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.110](https://github.com/msclock/cmake-registry/releases/tag/v1.0.110), 6 days ago) - A cmake modules registry based on vcpkg
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.6.4](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.6.4), 1 week ago) - A continuously evolving basic template for cpp development practice.
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.5.9](https://github.com/msclock/cmake-modules/releases/tag/v1.5.9), 2 weeks ago) - Some useful cmake module collection
 - [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.54](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.54), 3 weeks ago) - An evolving Python project template that covers the full development lifecycle.
@@ -47,9 +47,9 @@ I’m msclock, a software engineer and opensource enthusiast.
 - [docs: add vcs header customization](https://github.com/serious-scaffold/ss-cpp/pull/342) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
 - [docs: correct typo and content](https://github.com/serious-scaffold/ss-cpp/pull/341) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
 - [fix: perfer ninja instead of ninja-multi-config](https://github.com/serious-scaffold/ss-cpp/pull/338) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
-- [fix: git version header dirty detection](https://github.com/serious-scaffold/ss-cpp/pull/336) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
-- [fix: correct semantic release channel](https://github.com/serious-scaffold/ss-cpp/pull/335) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
-- [fix: correct semantic release channel](https://github.com/serious-scaffold/ss-cpp/pull/334) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
+- [fix: git version header dirty detection](https://github.com/serious-scaffold/ss-cpp/pull/336) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 weeks ago)
+- [fix: correct semantic release channel](https://github.com/serious-scaffold/ss-cpp/pull/335) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 weeks ago)
+- [fix: correct semantic release channel](https://github.com/serious-scaffold/ss-cpp/pull/334) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 weeks ago)
 - [fix: correct semantic release channel](https://github.com/serious-scaffold/ss-cpp/pull/333) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 weeks ago)
 
 #### ⭐ Recent Stars
