@@ -4,7 +4,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (2 days ago)
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (3 days ago)
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (2 weeks ago)
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (1 month ago)
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (1 month ago)
@@ -30,8 +30,8 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) ([v0.22.3](https://github.com/Upsonic/gpt-computer-assistant/releases/tag/v0.22.3), 2 days ago) - Intelligence development framework in python for your product like Apple Intelligence
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.110](https://github.com/msclock/cmake-registry/releases/tag/v1.0.110), 1 week ago) - A cmake modules registry based on vcpkg
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.111](https://github.com/msclock/cmake-registry/releases/tag/v1.0.111), 1 day ago) - A cmake modules registry based on vcpkg
+- [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) ([v0.22.3](https://github.com/Upsonic/gpt-computer-assistant/releases/tag/v0.22.3), 3 days ago) - Intelligence development framework in python for your product like Apple Intelligence
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.6.4](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.6.4), 1 week ago) - A continuously evolving basic template for cpp development practice.
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.5.9](https://github.com/msclock/cmake-modules/releases/tag/v1.5.9), 2 weeks ago) - Some useful cmake module collection
 - [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.54](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.54), 3 weeks ago) - An evolving Python project template that covers the full development lifecycle.
@@ -41,7 +41,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔨 My recent Pull Requests
 
-- [chore: set auromerge settings explicitly](https://github.com/serious-scaffold/ss-cpp/pull/352) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 days ago)
+- [chore: set auromerge settings explicitly](https://github.com/serious-scaffold/ss-cpp/pull/352) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (3 days ago)
 - [refactor: reorganize readme](https://github.com/serious-scaffold/ss-cpp/pull/347) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
 - [build: pin fmt 10.2.1](https://github.com/serious-scaffold/ss-cpp/pull/345) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
 - [ci: fix check-docs ssl verification](https://github.com/serious-scaffold/ss-cpp/pull/343) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
