@@ -4,8 +4,8 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (3 days ago)
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (4 days ago)
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (4 days ago)
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (5 days ago)
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (1 month ago)
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (2 months ago)
 - [msclock/smooth7zip](https://github.com/msclock/smooth7zip) - [WIP] A wrapper for 7zip. (2 months ago)
@@ -30,8 +30,8 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.117](https://github.com/msclock/cmake-registry/releases/tag/v1.0.117), 3 days ago) - A cmake modules registry based on vcpkg
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.6.6](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.6.6), 4 days ago) - A continuously evolving basic template for cpp development practice.
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.118](https://github.com/msclock/cmake-registry/releases/tag/v1.0.118), 1 day ago) - A cmake modules registry based on vcpkg
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.6.6](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.6.6), 5 days ago) - A continuously evolving basic template for cpp development practice.
 - [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) ([v0.22.3](https://github.com/Upsonic/gpt-computer-assistant/releases/tag/v0.22.3), 2 weeks ago) - Intelligence development framework in python for your product like Apple Intelligence
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.5.9](https://github.com/msclock/cmake-modules/releases/tag/v1.5.9), 1 month ago) - Some useful cmake module collection
 - [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.54](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.54), 1 month ago) - An evolving Python project template that covers the full development lifecycle.
@@ -40,8 +40,8 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔨 My recent Pull Requests
 
-- [chore: set automerge strategy for renovate](https://github.com/msclock/cmake-registry/pull/177) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (4 days ago)
-- [perf: remove redundant ninja configuration](https://github.com/serious-scaffold/ss-cpp/pull/358) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (4 days ago)
+- [chore: set automerge strategy for renovate](https://github.com/msclock/cmake-registry/pull/177) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (5 days ago)
+- [perf: remove redundant ninja configuration](https://github.com/serious-scaffold/ss-cpp/pull/358) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (5 days ago)
 - [chore: configure automerge](https://github.com/msclock/cmake-registry/pull/174) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (1 week ago)
 - [chore: configure automerge](https://github.com/msclock/cmake-registry/pull/173) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (1 week ago)
 - [chore: autoapprove](https://github.com/msclock/cmake-registry/pull/172) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (1 week ago)
@@ -54,7 +54,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 #### ⭐ Recent Stars
 
 - [felixguendling/cista](https://github.com/felixguendling/cista) - Cista is a simple, high-performance, zero-copy C&#43;&#43; serialization &amp; reflection library. (1 month ago)
-- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网 (1 month ago)
+- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载 (1 month ago)
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (1 month ago)
 - [threeal/assertion-cmake](https://github.com/threeal/assertion-cmake) - A CMake module containing a collection of assertion functions and other utilities for testing CMake code (1 month ago)
 - [threeal/CheckWarning.cmake](https://github.com/threeal/CheckWarning.cmake) - Check for compiler warnings in your CMake project (1 month ago)
