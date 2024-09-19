@@ -13,7 +13,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 - [msclock/ftw](https://github.com/msclock/ftw) -  (3 months ago)
 - [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) - A versioned doument deployment tool based on sphinx. (3 months ago)
 - [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) - An evolving Python project template that covers the full development lifecycle. (4 months ago)
-- [msclock/features](https://github.com/msclock/features) - Some features for dev container (4 months ago)
+- [msclock/features](https://github.com/msclock/features) - Some features for dev container (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -49,13 +49,13 @@ I’m msclock, a software engineer and opensource enthusiast.
 - [perf: register the print of current configuration](https://github.com/msclock/cmake-modules/pull/119) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (2 weeks ago)
 - [chore: set automerge strategy for renovate](https://github.com/msclock/cmake-registry/pull/177) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (3 weeks ago)
 - [perf: remove redundant ninja configuration](https://github.com/serious-scaffold/ss-cpp/pull/358) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (3 weeks ago)
-- [chore: configure automerge](https://github.com/msclock/cmake-registry/pull/174) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (3 weeks ago)
+- [chore: configure automerge](https://github.com/msclock/cmake-registry/pull/174) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
 - [rikyoz/bit7z](https://github.com/rikyoz/bit7z) - A C&#43;&#43; static library offering a clean and simple interface to the 7-zip shared libraries. (1 week ago)
 - [yeyupiaoling/MASR](https://github.com/yeyupiaoling/MASR) - Pytorch实现的流式与非流式的自动语音识别框架，同时兼容在线和离线识别，目前支持Conformer、Squeezeformer、DeepSpeech2模型，支持多种数据增强方法。 (1 week ago)
-- [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。 (1 week ago)
+- [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。 (2 weeks ago)
 - [boostorg/stacktrace](https://github.com/boostorg/stacktrace) - C&#43;&#43; library for storing and printing backtraces. (2 weeks ago)
 - [bombela/backward-cpp](https://github.com/bombela/backward-cpp) - A beautiful stack trace pretty printer for C&#43;&#43; (2 weeks ago)
 - [felixguendling/cista](https://github.com/felixguendling/cista) - Cista is a simple, high-performance, zero-copy C&#43;&#43; serialization &amp; reflection library. (1 month ago)
