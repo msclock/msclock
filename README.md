@@ -34,7 +34,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.6.8](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.6.8), 2 weeks ago) - A continuously evolving basic template for cpp development practice.
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.6.1](https://github.com/msclock/cmake-modules/releases/tag/v1.6.1), 2 weeks ago) - Some useful cmake module collection
 - [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) ([v0.22.3](https://github.com/Upsonic/gpt-computer-assistant/releases/tag/v0.22.3), 1 month ago) - Intelligence development framework in python for your product like Apple Intelligence
-- [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.54](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.54), 1 month ago) - An evolving Python project template that covers the full development lifecycle.
+- [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.54](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.54), 2 months ago) - An evolving Python project template that covers the full development lifecycle.
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.15](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.15), 3 months ago) - A simple authorizer for python project.
 - [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) ([v0.0.25](https://github.com/msclock/sphinx-deployment/releases/tag/v0.0.25), 3 months ago) - A versioned doument deployment tool based on sphinx.
 
@@ -49,7 +49,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 - [perf: register the print of current configuration](https://github.com/msclock/cmake-modules/pull/119) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (2 weeks ago)
 - [chore: set automerge strategy for renovate](https://github.com/msclock/cmake-registry/pull/177) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (3 weeks ago)
 - [perf: remove redundant ninja configuration](https://github.com/serious-scaffold/ss-cpp/pull/358) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (3 weeks ago)
-- [chore: configure automerge](https://github.com/msclock/cmake-registry/pull/174) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (4 weeks ago)
+- [chore: configure automerge](https://github.com/msclock/cmake-registry/pull/174) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (1 month ago)
 
 #### ⭐ Recent Stars
 
