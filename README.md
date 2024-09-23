@@ -45,10 +45,10 @@ I’m msclock, a software engineer and opensource enthusiast.
 - [perf: simplify cmake scripts](https://github.com/serious-scaffold/ss-cpp/pull/362) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 weeks ago)
 - [perf: remove redundant flags for sanitizers](https://github.com/msclock/cmake-modules/pull/122) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (2 weeks ago)
 - [docs: improve readability](https://github.com/msclock/cmake-modules/pull/121) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (2 weeks ago)
-- [feat: register a simple cpack deferred execution](https://github.com/msclock/cmake-modules/pull/120) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (2 weeks ago)
-- [perf: register the print of current configuration](https://github.com/msclock/cmake-modules/pull/119) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (2 weeks ago)
-- [chore: set automerge strategy for renovate](https://github.com/msclock/cmake-registry/pull/177) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (3 weeks ago)
-- [perf: remove redundant ninja configuration](https://github.com/serious-scaffold/ss-cpp/pull/358) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (3 weeks ago)
+- [feat: register a simple cpack deferred execution](https://github.com/msclock/cmake-modules/pull/120) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (3 weeks ago)
+- [perf: register the print of current configuration](https://github.com/msclock/cmake-modules/pull/119) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (3 weeks ago)
+- [chore: set automerge strategy for renovate](https://github.com/msclock/cmake-registry/pull/177) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (4 weeks ago)
+- [perf: remove redundant ninja configuration](https://github.com/serious-scaffold/ss-cpp/pull/358) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (4 weeks ago)
 - [chore: configure automerge](https://github.com/msclock/cmake-registry/pull/174) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (1 month ago)
 
 #### ⭐ Recent Stars
