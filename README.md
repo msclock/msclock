@@ -4,9 +4,9 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (2 weeks ago)
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (1 day ago)
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (2 weeks ago)
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (3 weeks ago)
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (4 weeks ago)
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (3 months ago)
 - [msclock/smooth7zip](https://github.com/msclock/smooth7zip) - [WIP] A wrapper for 7zip. (3 months ago)
 - [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) - Intelligence development framework in python for your product like Apple Intelligence (3 months ago)
@@ -40,11 +40,11 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔨 My recent Pull Requests
 
-- [[bit7z] new port](https://github.com/microsoft/vcpkg/pull/40889) on [microsoft/vcpkg](https://github.com/microsoft/vcpkg) (1 week ago)
+- [[bit7z] new port](https://github.com/microsoft/vcpkg/pull/40889) on [microsoft/vcpkg](https://github.com/microsoft/vcpkg) (2 weeks ago)
 - [perf: switch CMAKE_BUILD_TYPE to Debug by default](https://github.com/serious-scaffold/ss-cpp/pull/363) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 weeks ago)
 - [perf: simplify cmake scripts](https://github.com/serious-scaffold/ss-cpp/pull/362) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 weeks ago)
 - [perf: remove redundant flags for sanitizers](https://github.com/msclock/cmake-modules/pull/122) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (2 weeks ago)
-- [docs: improve readability](https://github.com/msclock/cmake-modules/pull/121) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (2 weeks ago)
+- [docs: improve readability](https://github.com/msclock/cmake-modules/pull/121) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (3 weeks ago)
 - [feat: register a simple cpack deferred execution](https://github.com/msclock/cmake-modules/pull/120) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (3 weeks ago)
 - [perf: register the print of current configuration](https://github.com/msclock/cmake-modules/pull/119) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (3 weeks ago)
 - [chore: set automerge strategy for renovate](https://github.com/msclock/cmake-registry/pull/177) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (4 weeks ago)
@@ -56,8 +56,8 @@ I’m msclock, a software engineer and opensource enthusiast.
 - [rikyoz/bit7z](https://github.com/rikyoz/bit7z) - A C&#43;&#43; static library offering a clean and simple interface to the 7-zip shared libraries. (1 week ago)
 - [yeyupiaoling/MASR](https://github.com/yeyupiaoling/MASR) - Pytorch实现的流式与非流式的自动语音识别框架，同时兼容在线和离线识别，目前支持Conformer、Squeezeformer、DeepSpeech2模型，支持多种数据增强方法。 (2 weeks ago)
 - [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。 (2 weeks ago)
-- [boostorg/stacktrace](https://github.com/boostorg/stacktrace) - C&#43;&#43; library for storing and printing backtraces. (2 weeks ago)
-- [bombela/backward-cpp](https://github.com/bombela/backward-cpp) - A beautiful stack trace pretty printer for C&#43;&#43; (2 weeks ago)
+- [boostorg/stacktrace](https://github.com/boostorg/stacktrace) - C&#43;&#43; library for storing and printing backtraces. (3 weeks ago)
+- [bombela/backward-cpp](https://github.com/bombela/backward-cpp) - A beautiful stack trace pretty printer for C&#43;&#43; (3 weeks ago)
 - [felixguendling/cista](https://github.com/felixguendling/cista) - Cista is a simple, high-performance, zero-copy C&#43;&#43; serialization &amp; reflection library. (1 month ago)
 - [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、美区apple id共享账号 (2 months ago)
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (2 months ago)
