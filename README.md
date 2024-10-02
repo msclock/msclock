@@ -4,9 +4,9 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (2 days ago)
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (5 days ago)
-- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS (6 days ago)
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (3 days ago)
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (6 days ago)
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS (1 week ago)
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (1 week ago)
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (3 months ago)
 - [msclock/smooth7zip](https://github.com/msclock/smooth7zip) - [WIP] A wrapper for 7zip. (3 months ago)
@@ -30,9 +30,9 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.130](https://github.com/msclock/cmake-registry/releases/tag/v1.0.130), 2 days ago) - A cmake modules registry based on vcpkg
-- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2024.09.23](https://github.com/microsoft/vcpkg/releases/tag/2024.09.23), 4 days ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.6.3](https://github.com/msclock/cmake-modules/releases/tag/v1.6.3), 5 days ago) - Some useful cmake module collection
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2024.09.30](https://github.com/microsoft/vcpkg/releases/tag/2024.09.30), 1 day ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.130](https://github.com/msclock/cmake-registry/releases/tag/v1.0.130), 3 days ago) - A cmake modules registry based on vcpkg
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.6.3](https://github.com/msclock/cmake-modules/releases/tag/v1.6.3), 6 days ago) - Some useful cmake module collection
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.6.8](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.6.8), 3 weeks ago) - A continuously evolving basic template for cpp development practice.
 - [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) ([v0.22.3](https://github.com/Upsonic/gpt-computer-assistant/releases/tag/v0.22.3), 1 month ago) - Intelligence development framework in python for your product like Apple Intelligence
 - [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.54](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.54), 2 months ago) - An evolving Python project template that covers the full development lifecycle.
@@ -41,11 +41,11 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔨 My recent Pull Requests
 
-- [chore(port): new port package-project-cmake](https://github.com/msclock/cmake-registry/pull/198) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (2 days ago)
-- [fix: correct typo in aminya-project-options](https://github.com/msclock/cmake-registry/pull/197) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (3 days ago)
-- [chore: opt semantic release](https://github.com/msclock/cmake-registry/pull/193) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (5 days ago)
-- [perf: add print print_target_properties](https://github.com/msclock/cmake-modules/pull/126) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (5 days ago)
-- [perf: add print print_target_properties](https://github.com/msclock/cmake-modules/pull/125) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (5 days ago)
+- [chore(port): new port package-project-cmake](https://github.com/msclock/cmake-registry/pull/198) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (3 days ago)
+- [fix: correct typo in aminya-project-options](https://github.com/msclock/cmake-registry/pull/197) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (4 days ago)
+- [chore: opt semantic release](https://github.com/msclock/cmake-registry/pull/193) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (6 days ago)
+- [perf: add print print_target_properties](https://github.com/msclock/cmake-modules/pull/126) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (6 days ago)
+- [perf: add print print_target_properties](https://github.com/msclock/cmake-modules/pull/125) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (6 days ago)
 - [perf: simplify absolute path](https://github.com/msclock/cmake-modules/pull/124) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 week ago)
 - [fix: correct typo and use robust commands](https://github.com/msclock/cmake-modules/pull/123) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 week ago)
 - [[bit7z] new port](https://github.com/microsoft/vcpkg/pull/40889) on [microsoft/vcpkg](https://github.com/microsoft/vcpkg) (3 weeks ago)
@@ -54,9 +54,9 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### ⭐ Recent Stars
 
-- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (6 days ago)
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (6 days ago)
-- [rikyoz/bit7z](https://github.com/rikyoz/bit7z) - A C&#43;&#43; static library offering a clean and simple interface to the 7-zip shared libraries. (2 weeks ago)
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (1 week ago)
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (1 week ago)
+- [rikyoz/bit7z](https://github.com/rikyoz/bit7z) - A C&#43;&#43; static library offering a clean and simple interface to the 7-zip shared libraries. (3 weeks ago)
 - [yeyupiaoling/MASR](https://github.com/yeyupiaoling/MASR) - Pytorch实现的流式与非流式的自动语音识别框架，同时兼容在线和离线识别，目前支持Conformer、Squeezeformer、DeepSpeech2模型，支持多种数据增强方法。 (3 weeks ago)
 - [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。 (3 weeks ago)
 - [boostorg/stacktrace](https://github.com/boostorg/stacktrace) - C&#43;&#43; library for storing and printing backtraces. (4 weeks ago)
