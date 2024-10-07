@@ -7,7 +7,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (1 week ago)
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (1 week ago)
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS (1 week ago)
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (1 week ago)
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (2 weeks ago)
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (3 months ago)
 - [msclock/smooth7zip](https://github.com/msclock/smooth7zip) - [WIP] A wrapper for 7zip. (3 months ago)
 - [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) - Intelligence development framework in python for your product like Apple Intelligence (3 months ago)
@@ -30,8 +30,8 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.133](https://github.com/msclock/cmake-registry/releases/tag/v1.0.133), 1 day ago) - A cmake modules registry based on vcpkg
-- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2024.09.30](https://github.com/microsoft/vcpkg/releases/tag/2024.09.30), 5 days ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.134](https://github.com/msclock/cmake-registry/releases/tag/v1.0.134), 1 day ago) - A cmake modules registry based on vcpkg
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2024.09.30](https://github.com/microsoft/vcpkg/releases/tag/2024.09.30), 6 days ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.6.3](https://github.com/msclock/cmake-modules/releases/tag/v1.6.3), 1 week ago) - Some useful cmake module collection
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.6.8](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.6.8), 1 month ago) - A continuously evolving basic template for cpp development practice.
 - [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) ([v0.22.3](https://github.com/Upsonic/gpt-computer-assistant/releases/tag/v0.22.3), 1 month ago) - Intelligence development framework in python for your product like Apple Intelligence
