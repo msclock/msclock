@@ -30,8 +30,8 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.134](https://github.com/msclock/cmake-registry/releases/tag/v1.0.134), 1 day ago) - A cmake modules registry based on vcpkg
-- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2024.09.30](https://github.com/microsoft/vcpkg/releases/tag/2024.09.30), 6 days ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.136](https://github.com/msclock/cmake-registry/releases/tag/v1.0.136), 1 day ago) - A cmake modules registry based on vcpkg
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2024.09.30](https://github.com/microsoft/vcpkg/releases/tag/2024.09.30), 1 week ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.6.3](https://github.com/msclock/cmake-modules/releases/tag/v1.6.3), 1 week ago) - Some useful cmake module collection
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.6.8](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.6.8), 1 month ago) - A continuously evolving basic template for cpp development practice.
 - [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) ([v0.22.3](https://github.com/Upsonic/gpt-computer-assistant/releases/tag/v0.22.3), 1 month ago) - Intelligence development framework in python for your product like Apple Intelligence
@@ -46,9 +46,9 @@ I’m msclock, a software engineer and opensource enthusiast.
 - [chore: opt semantic release](https://github.com/msclock/cmake-registry/pull/193) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (1 week ago)
 - [perf: add print print_target_properties](https://github.com/msclock/cmake-modules/pull/126) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 week ago)
 - [perf: add print print_target_properties](https://github.com/msclock/cmake-modules/pull/125) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 week ago)
-- [perf: simplify absolute path](https://github.com/msclock/cmake-modules/pull/124) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 week ago)
-- [fix: correct typo and use robust commands](https://github.com/msclock/cmake-modules/pull/123) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 week ago)
-- [[bit7z] new port](https://github.com/microsoft/vcpkg/pull/40889) on [microsoft/vcpkg](https://github.com/microsoft/vcpkg) (3 weeks ago)
+- [perf: simplify absolute path](https://github.com/msclock/cmake-modules/pull/124) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (2 weeks ago)
+- [fix: correct typo and use robust commands](https://github.com/msclock/cmake-modules/pull/123) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (2 weeks ago)
+- [[bit7z] new port](https://github.com/microsoft/vcpkg/pull/40889) on [microsoft/vcpkg](https://github.com/microsoft/vcpkg) (4 weeks ago)
 - [perf: switch CMAKE_BUILD_TYPE to Debug by default](https://github.com/serious-scaffold/ss-cpp/pull/363) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 month ago)
 - [perf: simplify cmake scripts](https://github.com/serious-scaffold/ss-cpp/pull/362) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 month ago)
 
