@@ -6,11 +6,11 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (1 week ago)
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (1 week ago)
-- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS (1 week ago)
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS (2 weeks ago)
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (2 weeks ago)
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (3 months ago)
 - [msclock/smooth7zip](https://github.com/msclock/smooth7zip) - [WIP] A wrapper for 7zip. (3 months ago)
-- [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) - Intelligence development framework in python for your product like Apple Intelligence (3 months ago)
+- [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) - Intelligence development framework in python for your product like Apple Intelligence (4 months ago)
 - [msclock/ftw](https://github.com/msclock/ftw) -  (4 months ago)
 - [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) - A versioned doument deployment tool based on sphinx. (4 months ago)
 - [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) - An evolving Python project template that covers the full development lifecycle. (4 months ago)
@@ -30,7 +30,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.136](https://github.com/msclock/cmake-registry/releases/tag/v1.0.136), 1 day ago) - A cmake modules registry based on vcpkg
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.137](https://github.com/msclock/cmake-registry/releases/tag/v1.0.137), 1 day ago) - A cmake modules registry based on vcpkg
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2024.09.30](https://github.com/microsoft/vcpkg/releases/tag/2024.09.30), 1 week ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.6.3](https://github.com/msclock/cmake-modules/releases/tag/v1.6.3), 1 week ago) - Some useful cmake module collection
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.6.8](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.6.8), 1 month ago) - A continuously evolving basic template for cpp development practice.
@@ -54,9 +54,9 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### ⭐ Recent Stars
 
-- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (1 week ago)
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (1 week ago)
-- [rikyoz/bit7z](https://github.com/rikyoz/bit7z) - A C&#43;&#43; static library offering a clean and simple interface to the 7-zip shared libraries. (3 weeks ago)
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (2 weeks ago)
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (2 weeks ago)
+- [rikyoz/bit7z](https://github.com/rikyoz/bit7z) - A C&#43;&#43; static library offering a clean and simple interface to the 7-zip shared libraries. (4 weeks ago)
 - [yeyupiaoling/MASR](https://github.com/yeyupiaoling/MASR) - Pytorch实现的流式与非流式的自动语音识别框架，同时兼容在线和离线识别，目前支持Conformer、Squeezeformer、DeepSpeech2模型，支持多种数据增强方法。 (1 month ago)
 - [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。 (1 month ago)
 - [boostorg/stacktrace](https://github.com/boostorg/stacktrace) - C&#43;&#43; library for storing and printing backtraces. (1 month ago)
