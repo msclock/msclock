@@ -4,11 +4,11 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (today)
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (1 day ago)
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (6 days ago)
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (1 day ago)
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (2 days ago)
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (1 week ago)
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS (3 weeks ago)
-- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (3 months ago)
+- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (4 months ago)
 - [msclock/smooth7zip](https://github.com/msclock/smooth7zip) - [WIP] A wrapper for 7zip. (4 months ago)
 - [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) - Intelligence development framework in python for your product like Apple Intelligence (4 months ago)
 - [msclock/ftw](https://github.com/msclock/ftw) -  (4 months ago)
@@ -30,20 +30,20 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.142](https://github.com/msclock/cmake-registry/releases/tag/v1.0.142), 1 day ago) - A cmake modules registry based on vcpkg
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.6.4](https://github.com/msclock/cmake-modules/releases/tag/v1.6.4), 1 day ago) - Some useful cmake module collection
-- [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.55](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.55), 2 days ago) - A Python Project Template for Long-Term Maintainability
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.6.9](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.6.9), 6 days ago) - A continuously evolving basic template for cpp development practice.
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.142](https://github.com/msclock/cmake-registry/releases/tag/v1.0.142), 2 days ago) - A cmake modules registry based on vcpkg
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.6.4](https://github.com/msclock/cmake-modules/releases/tag/v1.6.4), 2 days ago) - Some useful cmake module collection
+- [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.55](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.55), 3 days ago) - A Python Project Template for Long-Term Maintainability
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.6.9](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.6.9), 1 week ago) - A continuously evolving basic template for cpp development practice.
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2024.09.30](https://github.com/microsoft/vcpkg/releases/tag/2024.09.30), 2 weeks ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
 - [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) ([v0.22.3](https://github.com/Upsonic/gpt-computer-assistant/releases/tag/v0.22.3), 2 months ago) - Intelligence development framework in python for your product like Apple Intelligence
-- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.15](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.15), 3 months ago) - A simple authorizer for python project.
-- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) ([v0.0.25](https://github.com/msclock/sphinx-deployment/releases/tag/v0.0.25), 3 months ago) - A versioned doument deployment tool based on sphinx.
+- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.15](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.15), 4 months ago) - A simple authorizer for python project.
+- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) ([v0.0.25](https://github.com/msclock/sphinx-deployment/releases/tag/v0.0.25), 4 months ago) - A versioned doument deployment tool based on sphinx.
 
 #### 🔨 My recent Pull Requests
 
-- [chore: automerge by matching update types](https://github.com/msclock/cmake-registry/pull/214) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (1 day ago)
-- [ci: use 22.04 instead of latest](https://github.com/msclock/cmake-registry/pull/213) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (1 day ago)
-- [perf: remove mismatch from flags when lcov &lt; 2](https://github.com/msclock/cmake-modules/pull/127) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 day ago)
+- [chore: automerge by matching update types](https://github.com/msclock/cmake-registry/pull/214) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (2 days ago)
+- [ci: use 22.04 instead of latest](https://github.com/msclock/cmake-registry/pull/213) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (2 days ago)
+- [perf: remove mismatch from flags when lcov &lt; 2](https://github.com/msclock/cmake-modules/pull/127) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (2 days ago)
 - [fix(ci): resolve semantic release errors](https://github.com/serious-scaffold/ss-cpp/pull/384) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
 - [chore(port): new port package-project-cmake](https://github.com/msclock/cmake-registry/pull/198) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (2 weeks ago)
 - [fix: correct typo in aminya-project-options](https://github.com/msclock/cmake-registry/pull/197) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (2 weeks ago)
