@@ -4,7 +4,8 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (6 days ago)
+- [msclock/features](https://github.com/msclock/features) - Some features for dev container (1 day ago)
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (1 week ago)
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (1 week ago)
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (1 week ago)
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS (4 weeks ago)
@@ -13,7 +14,6 @@ I’m msclock, a software engineer and opensource enthusiast.
 - [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) - Intelligence development framework in python for your product like Apple Intelligence (4 months ago)
 - [msclock/ftw](https://github.com/msclock/ftw) -  (4 months ago)
 - [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) - A versioned doument deployment tool based on sphinx. (4 months ago)
-- [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) - A Python Project Template for Long-Term Maintainability (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -30,7 +30,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.143](https://github.com/msclock/cmake-registry/releases/tag/v1.0.143), 1 day ago) - A cmake modules registry based on vcpkg
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.144](https://github.com/msclock/cmake-registry/releases/tag/v1.0.144), 1 day ago) - A cmake modules registry based on vcpkg
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.6.4](https://github.com/msclock/cmake-modules/releases/tag/v1.6.4), 1 week ago) - Some useful cmake module collection
 - [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.55](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.55), 1 week ago) - A Python Project Template for Long-Term Maintainability
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.6.9](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.6.9), 1 week ago) - A continuously evolving basic template for cpp development practice.
@@ -41,20 +41,20 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔨 My recent Pull Requests
 
+- [chore: use repo name as devcontainer remote user](https://github.com/serious-scaffold/ss-cpp/pull/390) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
+- [perf: remove username from vcpkg](https://github.com/msclock/features/pull/24) on [msclock/features](https://github.com/msclock/features) (1 day ago)
+- [fix: correct permission for vcpkg and add tests](https://github.com/msclock/features/pull/23) on [msclock/features](https://github.com/msclock/features) (1 day ago)
 - [chore: automerge by matching update types](https://github.com/msclock/cmake-registry/pull/214) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (1 week ago)
 - [ci: use 22.04 instead of latest](https://github.com/msclock/cmake-registry/pull/213) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (1 week ago)
 - [perf: remove mismatch from flags when lcov &lt; 2](https://github.com/msclock/cmake-modules/pull/127) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 week ago)
-- [fix(ci): resolve semantic release errors](https://github.com/serious-scaffold/ss-cpp/pull/384) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
+- [fix(ci): resolve semantic release errors](https://github.com/serious-scaffold/ss-cpp/pull/384) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 weeks ago)
 - [chore(port): new port package-project-cmake](https://github.com/msclock/cmake-registry/pull/198) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (3 weeks ago)
 - [fix: correct typo in aminya-project-options](https://github.com/msclock/cmake-registry/pull/197) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (3 weeks ago)
-- [chore: opt semantic release](https://github.com/msclock/cmake-registry/pull/193) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (3 weeks ago)
-- [perf: add print print_target_properties](https://github.com/msclock/cmake-modules/pull/126) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (3 weeks ago)
-- [perf: add print print_target_properties](https://github.com/msclock/cmake-modules/pull/125) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (3 weeks ago)
-- [perf: simplify absolute path](https://github.com/msclock/cmake-modules/pull/124) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (4 weeks ago)
+- [chore: opt semantic release](https://github.com/msclock/cmake-registry/pull/193) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android. (1 day ago)
+- [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android. (2 days ago)
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (4 weeks ago)
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (4 weeks ago)
 - [rikyoz/bit7z](https://github.com/rikyoz/bit7z) - A C&#43;&#43; static library offering a clean and simple interface to the 7-zip shared libraries. (1 month ago)
