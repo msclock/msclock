@@ -4,11 +4,11 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [msclock/features](https://github.com/msclock/features) - Some features for dev container (1 day ago)
+- [msclock/features](https://github.com/msclock/features) - Some features for dev container (2 days ago)
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (1 week ago)
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (1 week ago)
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (1 week ago)
-- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS (4 weeks ago)
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (2 weeks ago)
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS (1 month ago)
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (4 months ago)
 - [msclock/smooth7zip](https://github.com/msclock/smooth7zip) - [WIP] A wrapper for 7zip. (4 months ago)
 - [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) - Intelligence development framework in python for your product like Apple Intelligence (4 months ago)
@@ -30,20 +30,20 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.144](https://github.com/msclock/cmake-registry/releases/tag/v1.0.144), 1 day ago) - A cmake modules registry based on vcpkg
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2024.10.21](https://github.com/microsoft/vcpkg/releases/tag/2024.10.21), 1 day ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.145](https://github.com/msclock/cmake-registry/releases/tag/v1.0.145), 1 day ago) - A cmake modules registry based on vcpkg
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.6.4](https://github.com/msclock/cmake-modules/releases/tag/v1.6.4), 1 week ago) - Some useful cmake module collection
 - [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.55](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.55), 1 week ago) - A Python Project Template for Long-Term Maintainability
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.6.9](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.6.9), 1 week ago) - A continuously evolving basic template for cpp development practice.
-- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2024.09.30](https://github.com/microsoft/vcpkg/releases/tag/2024.09.30), 3 weeks ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.6.9](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.6.9), 2 weeks ago) - A continuously evolving basic template for cpp development practice.
 - [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) ([v0.22.3](https://github.com/Upsonic/gpt-computer-assistant/releases/tag/v0.22.3), 2 months ago) - Intelligence development framework in python for your product like Apple Intelligence
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.15](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.15), 4 months ago) - A simple authorizer for python project.
 - [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) ([v0.0.25](https://github.com/msclock/sphinx-deployment/releases/tag/v0.0.25), 4 months ago) - A versioned doument deployment tool based on sphinx.
 
 #### 🔨 My recent Pull Requests
 
-- [chore: use repo name as devcontainer remote user](https://github.com/serious-scaffold/ss-cpp/pull/390) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
-- [perf: remove username from vcpkg](https://github.com/msclock/features/pull/24) on [msclock/features](https://github.com/msclock/features) (1 day ago)
-- [fix: correct permission for vcpkg and add tests](https://github.com/msclock/features/pull/23) on [msclock/features](https://github.com/msclock/features) (1 day ago)
+- [chore: use repo name as devcontainer remote user](https://github.com/serious-scaffold/ss-cpp/pull/390) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 days ago)
+- [perf: remove username from vcpkg](https://github.com/msclock/features/pull/24) on [msclock/features](https://github.com/msclock/features) (2 days ago)
+- [fix: correct permission for vcpkg and add tests](https://github.com/msclock/features/pull/23) on [msclock/features](https://github.com/msclock/features) (2 days ago)
 - [chore: automerge by matching update types](https://github.com/msclock/cmake-registry/pull/214) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (1 week ago)
 - [ci: use 22.04 instead of latest](https://github.com/msclock/cmake-registry/pull/213) on [msclock/cmake-registry](https://github.com/msclock/cmake-registry) (1 week ago)
 - [perf: remove mismatch from flags when lcov &lt; 2](https://github.com/msclock/cmake-modules/pull/127) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 week ago)
@@ -54,16 +54,16 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### ⭐ Recent Stars
 
-- [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android. (2 days ago)
-- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (4 weeks ago)
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (4 weeks ago)
+- [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free. (1 day ago)
+- [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android. (3 days ago)
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (1 month ago)
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (1 month ago)
 - [rikyoz/bit7z](https://github.com/rikyoz/bit7z) - A C&#43;&#43; static library offering a clean and simple interface to the 7-zip shared libraries. (1 month ago)
 - [yeyupiaoling/MASR](https://github.com/yeyupiaoling/MASR) - Pytorch实现的流式与非流式的自动语音识别框架，同时兼容在线和离线识别，目前支持Conformer、Squeezeformer、DeepSpeech2模型，支持多种数据增强方法。 (1 month ago)
 - [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。 (1 month ago)
 - [boostorg/stacktrace](https://github.com/boostorg/stacktrace) - C&#43;&#43; library for storing and printing backtraces. (1 month ago)
 - [bombela/backward-cpp](https://github.com/bombela/backward-cpp) - A beautiful stack trace pretty printer for C&#43;&#43; (1 month ago)
 - [felixguendling/cista](https://github.com/felixguendling/cista) - Cista is a simple, high-performance, zero-copy C&#43;&#43; serialization &amp; reflection library. (2 months ago)
-- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、美区apple id共享账号 (3 months ago)
 
 #### 💬 Feedback
 
