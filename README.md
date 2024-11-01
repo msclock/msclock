@@ -7,7 +7,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 - [msclock/features](https://github.com/msclock/features) - Some features for dev container (1 week ago)
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (2 weeks ago)
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (2 weeks ago)
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (2 weeks ago)
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (3 weeks ago)
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS (1 month ago)
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (4 months ago)
 - [msclock/smooth7zip](https://github.com/msclock/smooth7zip) - [WIP] A wrapper for 7zip. (4 months ago)
@@ -30,11 +30,11 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.146](https://github.com/msclock/cmake-registry/releases/tag/v1.0.146), 4 days ago) - A cmake modules registry based on vcpkg
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.146](https://github.com/msclock/cmake-registry/releases/tag/v1.0.146), 5 days ago) - A cmake modules registry based on vcpkg
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2024.10.21](https://github.com/microsoft/vcpkg/releases/tag/2024.10.21), 1 week ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.6.4](https://github.com/msclock/cmake-modules/releases/tag/v1.6.4), 2 weeks ago) - Some useful cmake module collection
 - [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.55](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.55), 2 weeks ago) - A Python Project Template for Long-Term Maintainability
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.6.9](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.6.9), 2 weeks ago) - A continuously evolving basic template for cpp development practice.
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.6.9](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.6.9), 3 weeks ago) - A continuously evolving basic template for cpp development practice.
 - [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) ([v0.22.3](https://github.com/Upsonic/gpt-computer-assistant/releases/tag/v0.22.3), 2 months ago) - Intelligence development framework in python for your product like Apple Intelligence
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.15](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.15), 4 months ago) - A simple authorizer for python project.
 - [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) ([v0.0.25](https://github.com/msclock/sphinx-deployment/releases/tag/v0.0.25), 4 months ago) - A versioned doument deployment tool based on sphinx.
