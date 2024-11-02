@@ -30,7 +30,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.146](https://github.com/msclock/cmake-registry/releases/tag/v1.0.146), 5 days ago) - A cmake modules registry based on vcpkg
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.146](https://github.com/msclock/cmake-registry/releases/tag/v1.0.146), 6 days ago) - A cmake modules registry based on vcpkg
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2024.10.21](https://github.com/microsoft/vcpkg/releases/tag/2024.10.21), 1 week ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.6.4](https://github.com/msclock/cmake-modules/releases/tag/v1.6.4), 2 weeks ago) - Some useful cmake module collection
 - [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.55](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.55), 2 weeks ago) - A Python Project Template for Long-Term Maintainability
@@ -61,8 +61,8 @@ I’m msclock, a software engineer and opensource enthusiast.
 - [rikyoz/bit7z](https://github.com/rikyoz/bit7z) - A C&#43;&#43; static library offering a clean and simple interface to the 7-zip shared libraries. (1 month ago)
 - [yeyupiaoling/MASR](https://github.com/yeyupiaoling/MASR) - Pytorch实现的流式与非流式的自动语音识别框架，同时兼容在线和离线识别，目前支持Conformer、Squeezeformer、DeepSpeech2模型，支持多种数据增强方法。 (1 month ago)
 - [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。 (1 month ago)
-- [boostorg/stacktrace](https://github.com/boostorg/stacktrace) - C&#43;&#43; library for storing and printing backtraces. (1 month ago)
-- [bombela/backward-cpp](https://github.com/bombela/backward-cpp) - A beautiful stack trace pretty printer for C&#43;&#43; (1 month ago)
+- [boostorg/stacktrace](https://github.com/boostorg/stacktrace) - C&#43;&#43; library for storing and printing backtraces. (2 months ago)
+- [bombela/backward-cpp](https://github.com/bombela/backward-cpp) - A beautiful stack trace pretty printer for C&#43;&#43; (2 months ago)
 - [felixguendling/cista](https://github.com/felixguendling/cista) - Cista is a simple, high-performance, zero-copy C&#43;&#43; serialization &amp; reflection library. (3 months ago)
 
 #### 💬 Feedback
