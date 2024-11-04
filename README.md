@@ -60,7 +60,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (1 month ago)
 - [rikyoz/bit7z](https://github.com/rikyoz/bit7z) - A C&#43;&#43; static library offering a clean and simple interface to the 7-zip shared libraries. (1 month ago)
 - [yeyupiaoling/MASR](https://github.com/yeyupiaoling/MASR) - Pytorch实现的流式与非流式的自动语音识别框架，同时兼容在线和离线识别，目前支持Conformer、Squeezeformer、DeepSpeech2模型，支持多种数据增强方法。 (1 month ago)
-- [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。 (1 month ago)
+- [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。 (2 months ago)
 - [boostorg/stacktrace](https://github.com/boostorg/stacktrace) - C&#43;&#43; library for storing and printing backtraces. (2 months ago)
 - [bombela/backward-cpp](https://github.com/bombela/backward-cpp) - A beautiful stack trace pretty printer for C&#43;&#43; (2 months ago)
 - [felixguendling/cista](https://github.com/felixguendling/cista) - Cista is a simple, high-performance, zero-copy C&#43;&#43; serialization &amp; reflection library. (3 months ago)
