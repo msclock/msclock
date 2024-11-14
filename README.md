@@ -4,13 +4,13 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [msclock/smooth7zip](https://github.com/msclock/smooth7zip) - [WIP] A wrapper for 7zip. (1 day ago)
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (1 day ago)
-- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) - A versioned doument deployment tool based on sphinx. (5 days ago)
-- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (5 days ago)
+- [msclock/smooth7zip](https://github.com/msclock/smooth7zip) - [WIP] A wrapper for 7zip. (2 days ago)
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (2 days ago)
+- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) - A versioned doument deployment tool based on sphinx. (6 days ago)
+- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (6 days ago)
 - [msclock/cppfront-test](https://github.com/msclock/cppfront-test) -  (1 week ago)
 - [msclock/features](https://github.com/msclock/features) - Some features for dev container (3 weeks ago)
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (3 weeks ago)
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (4 weeks ago)
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (4 weeks ago)
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS (1 month ago)
 - [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) - Intelligence development framework in python for your product like Apple Intelligence (5 months ago)
@@ -30,18 +30,18 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.149](https://github.com/msclock/cmake-registry/releases/tag/v1.0.149), 1 day ago) - A cmake modules registry based on vcpkg
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.6.10](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.6.10), 1 day ago) - A continuously evolving basic template for cpp development practice.
-- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.16](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.16), 6 days ago) - A simple authorizer for python project.
-- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) ([v0.0.26](https://github.com/msclock/sphinx-deployment/releases/tag/v0.0.26), 6 days ago) - A versioned doument deployment tool based on sphinx.
-- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2024.10.21](https://github.com/microsoft/vcpkg/releases/tag/2024.10.21), 2 weeks ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.149](https://github.com/msclock/cmake-registry/releases/tag/v1.0.149), 2 days ago) - A cmake modules registry based on vcpkg
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.6.10](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.6.10), 2 days ago) - A continuously evolving basic template for cpp development practice.
+- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.2.16](https://github.com/msclock/pyauthorizer/releases/tag/v0.2.16), 1 week ago) - A simple authorizer for python project.
+- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) ([v0.0.26](https://github.com/msclock/sphinx-deployment/releases/tag/v0.0.26), 1 week ago) - A versioned doument deployment tool based on sphinx.
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2024.10.21](https://github.com/microsoft/vcpkg/releases/tag/2024.10.21), 3 weeks ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.6.4](https://github.com/msclock/cmake-modules/releases/tag/v1.6.4), 4 weeks ago) - Some useful cmake module collection
-- [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.55](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.55), 4 weeks ago) - A Python Project Template for Long-Term Maintainability
+- [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.55](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.55), 1 month ago) - A Python Project Template for Long-Term Maintainability
 - [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) ([v0.22.3](https://github.com/Upsonic/gpt-computer-assistant/releases/tag/v0.22.3), 3 months ago) - Intelligence development framework in python for your product like Apple Intelligence
 
 #### 🔨 My recent Pull Requests
 
-- [fix: only update github runner in template folder](https://github.com/serious-scaffold/ss-cpp/pull/392) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
+- [fix: only update github runner in template folder](https://github.com/serious-scaffold/ss-cpp/pull/392) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 days ago)
 - [chore: pin ubuntu 22.04 and simplify devcontainer](https://github.com/serious-scaffold/ss-cpp/pull/391) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
 - [chore: use repo name as devcontainer remote user](https://github.com/serious-scaffold/ss-cpp/pull/390) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (3 weeks ago)
 - [perf: remove username from vcpkg](https://github.com/msclock/features/pull/24) on [msclock/features](https://github.com/msclock/features) (3 weeks ago)
@@ -55,7 +55,7 @@ I’m msclock, a software engineer and opensource enthusiast.
 #### ⭐ Recent Stars
 
 - [ripaojiedian/freenode](https://github.com/ripaojiedian/freenode) - 永久免费订阅/白嫖/节点/vpn/白嫖/订阅/机场/翻墙/加速器/科学上网/教程/破解/软件/资源/网站/ss/ssr/vmess/vless/v2ray/trojan/clash (1 week ago)
-- [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free. (2 weeks ago)
+- [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free. (3 weeks ago)
 - [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android. (3 weeks ago)
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (1 month ago)
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (1 month ago)
