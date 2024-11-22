@@ -5,13 +5,13 @@ I’m msclock, a software engineer and opensource enthusiast.
 #### 👷 Check out what I'm currently working on
 
 - [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) - Package cppcheck as a python wheel. (1 day ago)
-- [msclock/cppfront-practice](https://github.com/msclock/cppfront-practice) - Practice based on cppfront. (3 days ago)
-- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (3 days ago)
-- [msclock/images](https://github.com/msclock/images) - my image store (4 days ago)
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (6 days ago)
+- [msclock/cppfront-practice](https://github.com/msclock/cppfront-practice) - Practice based on cppfront. (4 days ago)
+- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (4 days ago)
+- [msclock/images](https://github.com/msclock/images) - my image store (5 days ago)
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (1 week ago)
 - [msclock/smooth7zip](https://github.com/msclock/smooth7zip) - [WIP] A wrapper for 7zip. (1 week ago)
-- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) - A versioned doument deployment tool based on sphinx. (1 week ago)
-- [msclock/features](https://github.com/msclock/features) - Some features for dev container (4 weeks ago)
+- [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) - A versioned doument deployment tool based on sphinx. (2 weeks ago)
+- [msclock/features](https://github.com/msclock/features) - Some features for dev container (1 month ago)
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (1 month ago)
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (1 month ago)
 
@@ -30,10 +30,10 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) ([v1.0.3](https://github.com/msclock/cppcheck-wheel/releases/tag/v1.0.3), 1 day ago) - Package cppcheck as a python wheel.
-- [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.58](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.58), 1 day ago) - A Python Project Template for Long-Term Maintainability
-- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2024.11.16](https://github.com/microsoft/vcpkg/releases/tag/2024.11.16), 2 days ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
-- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.3.0](https://github.com/msclock/pyauthorizer/releases/tag/v0.3.0), 3 days ago) - A simple authorizer for python project.
+- [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) ([v1.1.1](https://github.com/msclock/cppcheck-wheel/releases/tag/v1.1.1), 1 day ago) - Package cppcheck as a python wheel.
+- [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.58](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.58), 2 days ago) - A Python Project Template for Long-Term Maintainability
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2024.11.16](https://github.com/microsoft/vcpkg/releases/tag/2024.11.16), 3 days ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
+- [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.3.0](https://github.com/msclock/pyauthorizer/releases/tag/v0.3.0), 4 days ago) - A simple authorizer for python project.
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.149](https://github.com/msclock/cmake-registry/releases/tag/v1.0.149), 1 week ago) - A cmake modules registry based on vcpkg
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.6.10](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.6.10), 1 week ago) - A continuously evolving basic template for cpp development practice.
 - [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) ([v0.0.26](https://github.com/msclock/sphinx-deployment/releases/tag/v0.0.26), 2 weeks ago) - A versioned doument deployment tool based on sphinx.
@@ -42,16 +42,16 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔨 My recent Pull Requests
 
-- [fix(ci): correct wheel build](https://github.com/msclock/cppcheck-wheel/pull/9) on [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) (1 day ago)
-- [fix: build os-specific wheels](https://github.com/msclock/cppcheck-wheel/pull/8) on [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) (1 day ago)
-- [fix: try build wheel from latest](https://github.com/msclock/cppcheck-wheel/pull/7) on [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) (2 days ago)
-- [fix: support wheel upload](https://github.com/msclock/cppcheck-wheel/pull/6) on [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) (2 days ago)
-- [feat: support wheel upload](https://github.com/msclock/cppcheck-wheel/pull/5) on [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) (2 days ago)
-- [docs: add usage](https://github.com/msclock/cppcheck-wheel/pull/4) on [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) (2 days ago)
-- [Support msvc build for x86](https://github.com/danmar/cppcheck/pull/7023) on [danmar/cppcheck](https://github.com/danmar/cppcheck) (2 days ago)
-- [feat: support 12 and 13 and production](https://github.com/msclock/pyauthorizer/pull/49) on [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) (3 days ago)
-- [build: detect CMake subdirectories accurately](https://github.com/serious-scaffold/ss-cpp/pull/393) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
-- [fix: only update github runner in template folder](https://github.com/serious-scaffold/ss-cpp/pull/392) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
+- [fix: convert option to features](https://github.com/msclock/cppcheck-wheel/pull/13) on [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) (1 day ago)
+- [fix: add deps pcre for OPTION HAVE_RULES](https://github.com/msclock/cppcheck-wheel/pull/12) on [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) (1 day ago)
+- [feat: add option HAVE_RULES](https://github.com/msclock/cppcheck-wheel/pull/11) on [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) (1 day ago)
+- [feat: add option HAVE_RULES](https://github.com/msclock/cppcheck-wheel/pull/10) on [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) (1 day ago)
+- [fix(ci): correct wheel build](https://github.com/msclock/cppcheck-wheel/pull/9) on [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) (2 days ago)
+- [fix: build os-specific wheels](https://github.com/msclock/cppcheck-wheel/pull/8) on [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) (2 days ago)
+- [fix: try build wheel from latest](https://github.com/msclock/cppcheck-wheel/pull/7) on [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) (3 days ago)
+- [fix: support wheel upload](https://github.com/msclock/cppcheck-wheel/pull/6) on [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) (3 days ago)
+- [feat: support wheel upload](https://github.com/msclock/cppcheck-wheel/pull/5) on [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) (3 days ago)
+- [docs: add usage](https://github.com/msclock/cppcheck-wheel/pull/4) on [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) (3 days ago)
 
 #### ⭐ Recent Stars
 
