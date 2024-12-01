@@ -7,10 +7,10 @@ I’m msclock, a software engineer and opensource enthusiast.
 - [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) - A template of serious scaffold family based on pybind11. (1 day ago)
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (1 day ago)
 - [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) - Package cppcheck as a python wheel. (1 day ago)
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (2 days ago)
-- [msclock/cppfront-practice](https://github.com/msclock/cppfront-practice) - Practice based on cppfront. (4 days ago)
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (3 days ago)
+- [msclock/cppfront-practice](https://github.com/msclock/cppfront-practice) - Practice based on cppfront. (5 days ago)
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) - A simple authorizer for python project. (1 week ago)
-- [msclock/images](https://github.com/msclock/images) - my image store (1 week ago)
+- [msclock/images](https://github.com/msclock/images) - my image store (2 weeks ago)
 - [msclock/smooth7zip](https://github.com/msclock/smooth7zip) - [WIP] A wrapper for 7zip. (2 weeks ago)
 - [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) - A versioned doument deployment tool based on sphinx. (3 weeks ago)
 - [msclock/features](https://github.com/msclock/features) - Some features for dev container (1 month ago)
@@ -30,29 +30,29 @@ I’m msclock, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) ([v0.23.5](https://github.com/Upsonic/gpt-computer-assistant/releases/tag/v0.23.5), 1 day ago) - Intelligence development framework in python for your product like Apple Intelligence
-- [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) ([v0.8.3](https://github.com/serious-scaffold/ss-pybind11/releases/tag/v0.8.3), 1 day ago) - A template of serious scaffold family based on pybind11.
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.153](https://github.com/msclock/cmake-registry/releases/tag/v1.0.153), 2 days ago) - A cmake modules registry based on vcpkg
-- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.6.8](https://github.com/msclock/cmake-modules/releases/tag/v1.6.8), 2 days ago) - Some useful cmake module collection
-- [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.59](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.59), 3 days ago) - A Python Project Template for Long-Term Maintainability
-- [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) ([v1.4.1](https://github.com/msclock/cppcheck-wheel/releases/tag/v1.4.1), 5 days ago) - Package cppcheck as a python wheel.
+- [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) ([v0.23.8](https://github.com/Upsonic/gpt-computer-assistant/releases/tag/v0.23.8), 1 day ago) - Intelligence development framework in python for your product like Apple Intelligence
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.154](https://github.com/msclock/cmake-registry/releases/tag/v1.0.154), 1 day ago) - A cmake modules registry based on vcpkg
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.6.11](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.6.11), 1 day ago) - A continuously evolving basic template for cpp development practice.
+- [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) ([v1.4.2](https://github.com/msclock/cppcheck-wheel/releases/tag/v1.4.2), 1 day ago) - Package cppcheck as a python wheel.
+- [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.60](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.60), 1 day ago) - A Python Project Template for Long-Term Maintainability
+- [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) ([v0.8.4](https://github.com/serious-scaffold/ss-pybind11/releases/tag/v0.8.4), 1 day ago) - A template of serious scaffold family based on pybind11.
+- [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.6.8](https://github.com/msclock/cmake-modules/releases/tag/v1.6.8), 3 days ago) - Some useful cmake module collection
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2024.11.16](https://github.com/microsoft/vcpkg/releases/tag/2024.11.16), 1 week ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
 - [msclock/pyauthorizer](https://github.com/msclock/pyauthorizer) ([v0.3.0](https://github.com/msclock/pyauthorizer/releases/tag/v0.3.0), 1 week ago) - A simple authorizer for python project.
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.6.10](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.6.10), 2 weeks ago) - A continuously evolving basic template for cpp development practice.
 - [msclock/sphinx-deployment](https://github.com/msclock/sphinx-deployment) ([v0.0.26](https://github.com/msclock/sphinx-deployment/releases/tag/v0.0.26), 3 weeks ago) - A versioned doument deployment tool based on sphinx.
 
 #### 🔨 My recent Pull Requests
 
-- [fix: replace module name in compiled testcase](https://github.com/serious-scaffold/ss-pybind11/pull/3) on [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) (1 day ago)
-- [chore: sync from ss-pybind11](https://github.com/msclock/cppcheck-wheel/pull/43) on [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) (1 day ago)
-- [fix: disable symlink follow on windows](https://github.com/msclock/cmake-modules/pull/131) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (2 days ago)
-- [fix: try to correct resolving path](https://github.com/msclock/cmake-modules/pull/130) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (2 days ago)
-- [fix: build wheels on windows](https://github.com/serious-scaffold/ss-pybind11/pull/2) on [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) (2 days ago)
-- [fix: build wheels on apline and windows](https://github.com/serious-scaffold/ss-pybind11/pull/1) on [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) (2 days ago)
-- [fix: exclude common dlls and alpine dependencies installation](https://github.com/msclock/cmake-modules/pull/129) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (2 days ago)
-- [build: add multi config based on ninja](https://github.com/serious-scaffold/ss-cpp/pull/396) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (5 days ago)
-- [perf: support manylinux armv7l dist](https://github.com/msclock/cppcheck-wheel/pull/42) on [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) (5 days ago)
-- [build: refine vcpkg bootstrap](https://github.com/serious-scaffold/ss-cpp/pull/395) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (5 days ago)
+- [ci: setup vcpkg env properly](https://github.com/msclock/cppcheck-wheel/pull/44) on [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) (1 day ago)
+- [fix: use full vcpkg history](https://github.com/serious-scaffold/ss-cpp/pull/397) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 day ago)
+- [fix: use full vcpkg repo history](https://github.com/serious-scaffold/ss-pybind11/pull/11) on [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) (1 day ago)
+- [fix: replace module name in compiled testcase](https://github.com/serious-scaffold/ss-pybind11/pull/3) on [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) (2 days ago)
+- [chore: sync from ss-pybind11](https://github.com/msclock/cppcheck-wheel/pull/43) on [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) (2 days ago)
+- [fix: disable symlink follow on windows](https://github.com/msclock/cmake-modules/pull/131) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (3 days ago)
+- [fix: try to correct resolving path](https://github.com/msclock/cmake-modules/pull/130) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (3 days ago)
+- [fix: build wheels on windows](https://github.com/serious-scaffold/ss-pybind11/pull/2) on [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) (3 days ago)
+- [fix: build wheels on apline and windows](https://github.com/serious-scaffold/ss-pybind11/pull/1) on [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) (3 days ago)
+- [fix: exclude common dlls and alpine dependencies installation](https://github.com/msclock/cmake-modules/pull/129) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (3 days ago)
 
 #### ⭐ Recent Stars
 
