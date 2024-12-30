@@ -4,12 +4,12 @@ I’m l.feng, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [msclock/pybit7z](https://github.com/msclock/pybit7z) - A wrapper based on bit7z. (1 day ago)
+- [msclock/pybit7z](https://github.com/msclock/pybit7z) - A wrapper based on bit7z. (today)
 - [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) - The shared serious scaffold template to integrate cmake system. (5 days ago)
 - [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) - A template of serious scaffold family based on pybind11. (6 days ago)
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (6 days ago)
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (1 week ago)
 - [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) - Package cppcheck as a python wheel. (1 week ago)
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (1 week ago)
 - [serious-scaffold/ss-license](https://github.com/serious-scaffold/ss-license) - The shared serious scaffold template to include license generation template. (1 week ago)
 - [serious-scaffold/ss-common](https://github.com/serious-scaffold/ss-common) - [IN EXPERIMENT] a common meta template from serious scaffold (1 week ago)
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (1 week ago)
@@ -17,8 +17,8 @@ I’m l.feng, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
+- [msclock/pybit7z](https://github.com/msclock/pybit7z) ([v0.2.0](https://github.com/msclock/pybit7z/releases/tag/v0.2.0), today) - A wrapper based on bit7z.
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.164](https://github.com/msclock/cmake-registry/releases/tag/v1.0.164), 1 day ago) - A cmake modules registry based on vcpkg
-- [msclock/pybit7z](https://github.com/msclock/pybit7z) ([v0.1.0](https://github.com/msclock/pybit7z/releases/tag/v0.1.0), 1 day ago) - A wrapper based on bit7z.
 - [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) ([v0.0.10](https://github.com/serious-scaffold/ss-cmake/releases/tag/v0.0.10), 5 days ago) - The shared serious scaffold template to integrate cmake system.
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.6.12](https://github.com/msclock/cmake-modules/releases/tag/v1.6.12), 6 days ago) - Some useful cmake module collection
 - [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) ([v1.4.7](https://github.com/msclock/cppcheck-wheel/releases/tag/v1.4.7), 1 week ago) - Package cppcheck as a python wheel.
@@ -30,20 +30,20 @@ I’m l.feng, a software engineer and opensource enthusiast.
 
 #### 🔨 My recent Pull Requests
 
+- [perf: add distro armv7l](https://github.com/msclock/pybit7z/pull/15) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (today)
+- [perf: add nox command to generate pyi stubs](https://github.com/serious-scaffold/ss-pybind11/pull/89) on [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) (today)
+- [feat: update bit7z to v4.0.9#1 and add apis](https://github.com/msclock/pybit7z/pull/14) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (today)
+- [[bit7z] compile option without warnings as errors](https://github.com/microsoft/vcpkg/pull/43005) on [microsoft/vcpkg](https://github.com/microsoft/vcpkg) (today)
+- [docs: refine readme](https://github.com/msclock/pybit7z/pull/13) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (today)
+- [fix: expose __hash_, __eq__, __ne__](https://github.com/msclock/pybit7z/pull/12) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (today)
+- [docs: refine the readme](https://github.com/msclock/pybit7z/pull/9) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (today)
+- [perf: alias _core to core](https://github.com/msclock/pybit7z/pull/6) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (today)
 - [feat(no-release): bind initial apis](https://github.com/msclock/pybit7z/pull/1) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (3 days ago)
 - [fix: load detected triplet](https://github.com/serious-scaffold/ss-cmake/pull/23) on [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) (5 days ago)
-- [perf: simplify vcpkg_configure](https://github.com/serious-scaffold/ss-cmake/pull/22) on [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) (5 days ago)
-- [fix: correct rpath on osx](https://github.com/msclock/cmake-modules/pull/136) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (6 days ago)
-- [[7zip] restore missing sources and fix compilation on android](https://github.com/microsoft/vcpkg/pull/42911) on [microsoft/vcpkg](https://github.com/microsoft/vcpkg) (6 days ago)
-- [perf(no-release): refine dependency pcre for cppcheck](https://github.com/msclock/cppcheck-wheel/pull/121) on [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) (1 week ago)
-- [perf: refine vscode development configuration](https://github.com/serious-scaffold/ss-pybind11/pull/80) on [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) (1 week ago)
-- [chore: Update README.md](https://github.com/serious-scaffold/ss-cmake/pull/17) on [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) (1 week ago)
-- [chore: Update README.md](https://github.com/serious-scaffold/ss-license/pull/5) on [serious-scaffold/ss-license](https://github.com/serious-scaffold/ss-license) (1 week ago)
-- [chore: free constraints in semantic-release.yml](https://github.com/serious-scaffold/ss-license/pull/4) on [serious-scaffold/ss-license](https://github.com/serious-scaffold/ss-license) (1 week ago)
 
 #### 📫 How to reach me
 
 - GitLab: https://gitlab.com/msclock
-- Email: msclock@126.com
+- Email: msclock@qq.com
 
 Generated by https://github.com/muesli/readme-scribe
