@@ -4,24 +4,24 @@ I’m l.feng, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS (1 day ago)
-- [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) - A template of serious scaffold family based on pybind11. (1 day ago)
 - [msclock/pybit7z](https://github.com/msclock/pybit7z) - A wrapper based on bit7z. (1 day ago)
-- [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) - The shared serious scaffold template to integrate cmake system. (6 days ago)
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS (2 days ago)
+- [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) - A template of serious scaffold family based on pybind11. (2 days ago)
+- [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) - The shared serious scaffold template to integrate cmake system. (1 week ago)
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (1 week ago)
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (1 week ago)
 - [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) - Package cppcheck as a python wheel. (1 week ago)
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (1 week ago)
 - [serious-scaffold/ss-common](https://github.com/serious-scaffold/ss-common) - [IN EXPERIMENT] a common meta template from serious scaffold (1 week ago)
 - [serious-scaffold/ss-license](https://github.com/serious-scaffold/ss-license) - The shared serious scaffold template to include license generation template. (1 week ago)
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) ([v0.27.6](https://github.com/Upsonic/gpt-computer-assistant/releases/tag/v0.27.6), 1 day ago) - Dockerized Computer Use Agents with Production Ready API’s - MCP Client for Langchain - GCA
-- [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) ([v0.8.26](https://github.com/serious-scaffold/ss-pybind11/releases/tag/v0.8.26), 1 day ago) - A template of serious scaffold family based on pybind11.
-- [msclock/pybit7z](https://github.com/msclock/pybit7z) ([v0.2.1](https://github.com/msclock/pybit7z/releases/tag/v0.2.1), 1 day ago) - A wrapper based on bit7z.
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.164](https://github.com/msclock/cmake-registry/releases/tag/v1.0.164), 2 days ago) - A cmake modules registry based on vcpkg
-- [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) ([v0.0.10](https://github.com/serious-scaffold/ss-cmake/releases/tag/v0.0.10), 6 days ago) - The shared serious scaffold template to integrate cmake system.
+- [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) ([v0.28.3](https://github.com/Upsonic/gpt-computer-assistant/releases/tag/v0.28.3), 1 day ago) - Dockerized Computer Use Agents with Production Ready API’s - MCP Client for Langchain - GCA
+- [msclock/pybit7z](https://github.com/msclock/pybit7z) ([v0.2.4](https://github.com/msclock/pybit7z/releases/tag/v0.2.4), 1 day ago) - A wrapper based on bit7z.
+- [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) ([v0.8.26](https://github.com/serious-scaffold/ss-pybind11/releases/tag/v0.8.26), 2 days ago) - A template of serious scaffold family based on pybind11.
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.164](https://github.com/msclock/cmake-registry/releases/tag/v1.0.164), 3 days ago) - A cmake modules registry based on vcpkg
+- [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) ([v0.0.10](https://github.com/serious-scaffold/ss-cmake/releases/tag/v0.0.10), 1 week ago) - The shared serious scaffold template to integrate cmake system.
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.6.12](https://github.com/msclock/cmake-modules/releases/tag/v1.6.12), 1 week ago) - Some useful cmake module collection
 - [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) ([v1.4.7](https://github.com/msclock/cppcheck-wheel/releases/tag/v1.4.7), 1 week ago) - Package cppcheck as a python wheel.
 - [serious-scaffold/ss-license](https://github.com/serious-scaffold/ss-license) ([v0.0.2](https://github.com/serious-scaffold/ss-license/releases/tag/v0.0.2), 1 week ago) - The shared serious scaffold template to include license generation template.
@@ -30,16 +30,16 @@ I’m l.feng, a software engineer and opensource enthusiast.
 
 #### 🔨 My recent Pull Requests
 
-- [revert: &#34;perf: add distro armv7l&#34;](https://github.com/msclock/pybit7z/pull/16) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (1 day ago)
-- [perf: add distro armv7l](https://github.com/msclock/pybit7z/pull/15) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (1 day ago)
-- [perf: add nox command to generate pyi stubs](https://github.com/serious-scaffold/ss-pybind11/pull/89) on [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) (1 day ago)
-- [feat: update bit7z to v4.0.9#1 and add apis](https://github.com/msclock/pybit7z/pull/14) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (1 day ago)
-- [[bit7z] compile option without warnings as errors](https://github.com/microsoft/vcpkg/pull/43005) on [microsoft/vcpkg](https://github.com/microsoft/vcpkg) (1 day ago)
-- [docs: refine readme](https://github.com/msclock/pybit7z/pull/13) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (1 day ago)
-- [fix: expose __hash_, __eq__, __ne__](https://github.com/msclock/pybit7z/pull/12) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (1 day ago)
-- [docs: refine the readme](https://github.com/msclock/pybit7z/pull/9) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (1 day ago)
-- [perf: alias _core to core](https://github.com/msclock/pybit7z/pull/6) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (1 day ago)
-- [feat(no-release): bind initial apis](https://github.com/msclock/pybit7z/pull/1) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (4 days ago)
+- [perf: export symbols in pybit7z instead of raw _core](https://github.com/msclock/pybit7z/pull/21) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (1 day ago)
+- [perf(pybind): add defaults and fix params](https://github.com/msclock/pybit7z/pull/18) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (1 day ago)
+- [fix: codeql reported char conversion](https://github.com/msclock/pybit7z/pull/17) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (1 day ago)
+- [revert: &#34;perf: add distro armv7l&#34;](https://github.com/msclock/pybit7z/pull/16) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (2 days ago)
+- [perf: add distro armv7l](https://github.com/msclock/pybit7z/pull/15) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (2 days ago)
+- [perf: add nox command to generate pyi stubs](https://github.com/serious-scaffold/ss-pybind11/pull/89) on [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) (2 days ago)
+- [feat: update bit7z to v4.0.9#1 and add apis](https://github.com/msclock/pybit7z/pull/14) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (2 days ago)
+- [[bit7z] compile option without warnings as errors](https://github.com/microsoft/vcpkg/pull/43005) on [microsoft/vcpkg](https://github.com/microsoft/vcpkg) (2 days ago)
+- [docs: refine readme](https://github.com/msclock/pybit7z/pull/13) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (2 days ago)
+- [fix: expose __hash_, __eq__, __ne__](https://github.com/msclock/pybit7z/pull/12) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (2 days ago)
 
 #### 📫 How to reach me
 
