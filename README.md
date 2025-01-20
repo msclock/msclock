@@ -17,15 +17,15 @@ I’m l.feng, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2025.01.13](https://github.com/microsoft/vcpkg/releases/tag/2025.01.13), 2 days ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.169](https://github.com/msclock/cmake-registry/releases/tag/v1.0.169), today) - A cmake modules registry based on vcpkg
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2025.01.13](https://github.com/microsoft/vcpkg/releases/tag/2025.01.13), 3 days ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
 - [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) ([v0.8.31](https://github.com/serious-scaffold/ss-pybind11/releases/tag/v0.8.31), 1 week ago) - A template of serious scaffold family based on pybind11.
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.6.19](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.6.19), 1 week ago) - A continuously evolving basic template for cpp development practice.
 - [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) ([v0.0.13](https://github.com/serious-scaffold/ss-cmake/releases/tag/v0.0.13), 1 week ago) - The shared serious scaffold template to integrate cmake system.
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.167](https://github.com/msclock/cmake-registry/releases/tag/v1.0.167), 2 weeks ago) - A cmake modules registry based on vcpkg
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.6.14](https://github.com/msclock/cmake-modules/releases/tag/v1.6.14), 2 weeks ago) - Some useful cmake module collection
 - [msclock/pybit7z](https://github.com/msclock/pybit7z) ([v0.3.2](https://github.com/msclock/pybit7z/releases/tag/v0.3.2), 2 weeks ago) - A wrapper based on bit7z.
-- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) ([v0.28.3](https://github.com/Upsonic/Upsonic/releases/tag/v0.28.3), 2 weeks ago) - We do NOT and WILL not have any Crypto Projects, they are a complete SCAM | Task oriented AI agent framework for digital workers and vertical AI agents
-- [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) ([v1.4.7](https://github.com/msclock/cppcheck-wheel/releases/tag/v1.4.7), 3 weeks ago) - Package cppcheck as a python wheel.
+- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) ([v0.28.3](https://github.com/Upsonic/Upsonic/releases/tag/v0.28.3), 2 weeks ago) - Task oriented AI agent framework for digital workers and vertical AI agents
+- [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) ([v1.4.7](https://github.com/msclock/cppcheck-wheel/releases/tag/v1.4.7), 4 weeks ago) - Package cppcheck as a python wheel.
 - [serious-scaffold/ss-license](https://github.com/serious-scaffold/ss-license) ([v0.0.2](https://github.com/serious-scaffold/ss-license/releases/tag/v0.0.2), 1 month ago) - The shared serious scaffold template to include license generation template.
 
 #### 🔨 My recent Pull Requests
