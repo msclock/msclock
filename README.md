@@ -4,7 +4,7 @@ I’m l.feng, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) - Package cppcheck as a python wheel. (4 weeks ago)
+- [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) - Package cppcheck as a python wheel. (1 month ago)
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (1 month ago)
 - [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) - A template of serious scaffold family based on pybind11. (1 month ago)
 - [msclock/pybit7z](https://github.com/msclock/pybit7z) - A wrapper based on bit7z. (1 month ago)
@@ -17,10 +17,10 @@ I’m l.feng, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) ([v0.40.7](https://github.com/Upsonic/Upsonic/releases/tag/v0.40.7), 3 days ago) - Task oriented AI agent framework for digital workers and vertical AI agents
-- [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.66](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.66), 6 days ago) - A Python Project Template for Long-Term Maintainability
+- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) ([v0.40.7](https://github.com/Upsonic/Upsonic/releases/tag/v0.40.7), 4 days ago) - Task oriented AI agent framework for digital workers and vertical AI agents
+- [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.66](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.66), 1 week ago) - A Python Project Template for Long-Term Maintainability
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.170](https://github.com/msclock/cmake-registry/releases/tag/v1.0.170), 1 week ago) - A cmake modules registry based on vcpkg
-- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2025.01.13](https://github.com/microsoft/vcpkg/releases/tag/2025.01.13), 2 weeks ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2025.01.13](https://github.com/microsoft/vcpkg/releases/tag/2025.01.13), 3 weeks ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
 - [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) ([v0.8.31](https://github.com/serious-scaffold/ss-pybind11/releases/tag/v0.8.31), 1 month ago) - A template of serious scaffold family based on pybind11.
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.6.19](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.6.19), 1 month ago) - A continuously evolving basic template for cpp development practice.
 - [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) ([v0.0.13](https://github.com/serious-scaffold/ss-cmake/releases/tag/v0.0.13), 1 month ago) - The shared serious scaffold template to integrate cmake system.
