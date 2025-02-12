@@ -17,10 +17,10 @@ I’m l.feng, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [msclock/pybit7z](https://github.com/msclock/pybit7z) ([v0.3.3](https://github.com/msclock/pybit7z/releases/tag/v0.3.3), 1 day ago) - A wrapper based on bit7z.
-- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) ([v0.43.0](https://github.com/Upsonic/Upsonic/releases/tag/v0.43.0), 2 days ago) - Upsonic is a reliability-focused agent framework with dockerized, server-client architecture and MCP
+- [msclock/pybit7z](https://github.com/msclock/pybit7z) ([v0.3.4](https://github.com/msclock/pybit7z/releases/tag/v0.3.4), 1 day ago) - A wrapper based on bit7z.
+- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) ([v0.43.0](https://github.com/Upsonic/Upsonic/releases/tag/v0.43.0), 3 days ago) - Upsonic is a reliability-focused agent framework with dockerized, server-client architecture and MCP
 - [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.66](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.66), 1 week ago) - A Python Project Template for Long-Term Maintainability
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.170](https://github.com/msclock/cmake-registry/releases/tag/v1.0.170), 1 week ago) - A cmake modules registry based on vcpkg
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.170](https://github.com/msclock/cmake-registry/releases/tag/v1.0.170), 2 weeks ago) - A cmake modules registry based on vcpkg
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2025.01.13](https://github.com/microsoft/vcpkg/releases/tag/2025.01.13), 3 weeks ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
 - [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) ([v0.8.31](https://github.com/serious-scaffold/ss-pybind11/releases/tag/v0.8.31), 1 month ago) - A template of serious scaffold family based on pybind11.
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.6.19](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.6.19), 1 month ago) - A continuously evolving basic template for cpp development practice.
@@ -30,16 +30,16 @@ I’m l.feng, a software engineer and opensource enthusiast.
 
 #### 🔨 My recent Pull Requests
 
-- [chore: slow down the update of renovate frequency](https://github.com/msclock/pybit7z/pull/58) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (1 day ago)
-- [fix: typo](https://github.com/msclock/pybit7z/pull/55) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (1 day ago)
+- [fix: release build when use qemu on ubuntu-24.04](https://github.com/msclock/pybit7z/pull/61) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (1 day ago)
+- [ci: use GHA for speed arm-like build](https://github.com/msclock/pybit7z/pull/59) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (1 day ago)
+- [chore: slow down the update of renovate frequency](https://github.com/msclock/pybit7z/pull/58) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (2 days ago)
+- [fix: typo](https://github.com/msclock/pybit7z/pull/55) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (2 days ago)
 - [perf: remove redandunt comments](https://github.com/serious-scaffold/ss-cmake/pull/28) on [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) (1 month ago)
 - [perf: refine the project module include](https://github.com/serious-scaffold/ss-cmake/pull/25) on [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) (1 month ago)
 - [perf: change automerge schedule on renovate](https://github.com/serious-scaffold/ss-pybind11/pull/94) on [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) (1 month ago)
 - [perf: change automerge schedule on renovate](https://github.com/serious-scaffold/ss-cpp/pull/438) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 month ago)
 - [perf: load custom module path](https://github.com/msclock/cmake-modules/pull/139) on [msclock/cmake-modules](https://github.com/msclock/cmake-modules) (1 month ago)
 - [build(deps): sync bit7z and 7zip from vcpkg](https://github.com/msclock/pybit7z/pull/29) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (1 month ago)
-- [perf: manage lib7zip though context manager](https://github.com/msclock/pybit7z/pull/27) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (1 month ago)
-- [chore: change automerge schedule on renovate](https://github.com/msclock/pybit7z/pull/26) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (1 month ago)
 
 #### 📫 How to reach me
 
