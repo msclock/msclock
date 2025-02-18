@@ -4,7 +4,7 @@ I’m l.feng, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [msclock/pybit7z](https://github.com/msclock/pybit7z) - A wrapper based on bit7z. (6 days ago)
+- [msclock/pybit7z](https://github.com/msclock/pybit7z) - A wrapper based on bit7z. (1 week ago)
 - [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) - Package cppcheck as a python wheel. (1 month ago)
 - [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) - A template of serious scaffold family based on pybind11. (1 month ago)
 - [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) - The shared serious scaffold template to integrate cmake system. (1 month ago)
@@ -12,13 +12,13 @@ I’m l.feng, a software engineer and opensource enthusiast.
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (1 month ago)
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS (1 month ago)
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (1 month ago)
-- [serious-scaffold/ss-license](https://github.com/serious-scaffold/ss-license) - The shared serious scaffold template to include license generation template. (1 month ago)
-- [serious-scaffold/ss-common](https://github.com/serious-scaffold/ss-common) - [IN EXPERIMENT] a common meta template from serious scaffold (1 month ago)
+- [serious-scaffold/ss-license](https://github.com/serious-scaffold/ss-license) - The shared serious scaffold template to include license generation template. (2 months ago)
+- [serious-scaffold/ss-common](https://github.com/serious-scaffold/ss-common) - [IN EXPERIMENT] a common meta template from serious scaffold (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) ([v0.44.1](https://github.com/Upsonic/Upsonic/releases/tag/v0.44.1), 3 days ago) - Upsonic is a reliability-focused agent framework with dockerized, server-client architecture and MCP
-- [msclock/pybit7z](https://github.com/msclock/pybit7z) ([v0.3.4](https://github.com/msclock/pybit7z/releases/tag/v0.3.4), 6 days ago) - A wrapper based on bit7z.
+- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) ([v0.44.1](https://github.com/Upsonic/Upsonic/releases/tag/v0.44.1), 4 days ago) - Upsonic is a reliability-focused agent framework with dockerized, server-client architecture and MCP
+- [msclock/pybit7z](https://github.com/msclock/pybit7z) ([v0.3.4](https://github.com/msclock/pybit7z/releases/tag/v0.3.4), 1 week ago) - A wrapper based on bit7z.
 - [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.66](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.66), 2 weeks ago) - A Python Project Template for Long-Term Maintainability
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.170](https://github.com/msclock/cmake-registry/releases/tag/v1.0.170), 2 weeks ago) - A cmake modules registry based on vcpkg
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2025.01.13](https://github.com/microsoft/vcpkg/releases/tag/2025.01.13), 1 month ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
@@ -30,8 +30,8 @@ I’m l.feng, a software engineer and opensource enthusiast.
 
 #### 🔨 My recent Pull Requests
 
-- [fix: release build when use qemu on ubuntu-24.04](https://github.com/msclock/pybit7z/pull/61) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (6 days ago)
-- [ci: use GHA for speed arm-like build](https://github.com/msclock/pybit7z/pull/59) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (6 days ago)
+- [fix: release build when use qemu on ubuntu-24.04](https://github.com/msclock/pybit7z/pull/61) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (1 week ago)
+- [ci: use GHA for speed arm-like build](https://github.com/msclock/pybit7z/pull/59) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (1 week ago)
 - [chore: slow down the update of renovate frequency](https://github.com/msclock/pybit7z/pull/58) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (1 week ago)
 - [fix: typo](https://github.com/msclock/pybit7z/pull/55) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (1 week ago)
 - [perf: remove redandunt comments](https://github.com/serious-scaffold/ss-cmake/pull/28) on [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) (1 month ago)
