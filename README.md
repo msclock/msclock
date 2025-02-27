@@ -17,7 +17,7 @@ I’m l.feng, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) ([v0.45.1](https://github.com/Upsonic/Upsonic/releases/tag/v0.45.1), 1 day ago) - Most Reliable AI Agent Framework
+- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) ([v0.45.2](https://github.com/Upsonic/Upsonic/releases/tag/v0.45.2), 1 day ago) - Most Reliable AI Agent Framework
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2025.02.14](https://github.com/microsoft/vcpkg/releases/tag/2025.02.14), 1 week ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
 - [msclock/pybit7z](https://github.com/msclock/pybit7z) ([v0.3.4](https://github.com/msclock/pybit7z/releases/tag/v0.3.4), 2 weeks ago) - A wrapper based on bit7z.
 - [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) ([v0.0.66](https://github.com/serious-scaffold/ss-python/releases/tag/v0.0.66), 3 weeks ago) - A Python Project Template for Long-Term Maintainability
