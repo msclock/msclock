@@ -10,20 +10,20 @@ I’m l.feng, a software engineer and opensource enthusiast.
 #### 👷 Check out what I'm currently working on
 
 - [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) - Package cppcheck as a python wheel. (1 week ago)
-- [msclock/cppfront-practice](https://github.com/msclock/cppfront-practice) - Practice based on cppfront. (1 week ago)
-- [msclock/gitea-webhook-example](https://github.com/msclock/gitea-webhook-example) -  (1 week ago)
+- [msclock/cppfront-practice](https://github.com/msclock/cppfront-practice) - Practice based on cppfront. (2 weeks ago)
+- [msclock/gitea-webhook-example](https://github.com/msclock/gitea-webhook-example) -  (2 weeks ago)
 - [msclock/pysubconverter](https://github.com/msclock/pysubconverter) - A wrapper from subconverter (2 weeks ago)
 - [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) - A template of serious scaffold family based on pybind11. (2 weeks ago)
 - [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) - The shared serious scaffold template to integrate cmake system. (2 weeks ago)
 - [msclock/pybit7z](https://github.com/msclock/pybit7z) - A wrapper based on bit7z. (3 weeks ago)
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (3 weeks ago)
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (3 weeks ago)
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (4 weeks ago)
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) - Some useful cmake module collection (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) ([v0.50.1](https://github.com/Upsonic/Upsonic/releases/tag/v0.50.1), 1 day ago) - The most reliable AI agent framework that supports MCP.
-- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2025.03.19](https://github.com/microsoft/vcpkg/releases/tag/2025.03.19), 6 days ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
+- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) ([v0.50.4](https://github.com/Upsonic/Upsonic/releases/tag/v0.50.4), 1 day ago) - The most reliable AI agent framework that supports MCP.
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2025.03.19](https://github.com/microsoft/vcpkg/releases/tag/2025.03.19), 1 week ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
 - [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) ([v1.5.0](https://github.com/msclock/cppcheck-wheel/releases/tag/v1.5.0), 1 week ago) - Package cppcheck as a python wheel.
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.175](https://github.com/msclock/cmake-registry/releases/tag/v1.0.175), 2 weeks ago) - A cmake modules registry based on vcpkg
 - [msclock/pysubconverter](https://github.com/msclock/pysubconverter) ([v0.2.0](https://github.com/msclock/pysubconverter/releases/tag/v0.2.0), 2 weeks ago) - A wrapper from subconverter
@@ -35,7 +35,7 @@ I’m l.feng, a software engineer and opensource enthusiast.
 
 #### 🔨 My recent Pull Requests
 
-- [chore: update ss-cpp to v1.6.21](https://github.com/msclock/cppfront-practice/pull/53) on [msclock/cppfront-practice](https://github.com/msclock/cppfront-practice) (1 week ago)
+- [chore: update ss-cpp to v1.6.21](https://github.com/msclock/cppfront-practice/pull/53) on [msclock/cppfront-practice](https://github.com/msclock/cppfront-practice) (2 weeks ago)
 - [feat: add and change to mihomo patch](https://github.com/msclock/pysubconverter/pull/5) on [msclock/pysubconverter](https://github.com/msclock/pysubconverter) (2 weeks ago)
 - [perf: patch for vless](https://github.com/msclock/pysubconverter/pull/4) on [msclock/pysubconverter](https://github.com/msclock/pysubconverter) (2 weeks ago)
 - [chore: do not pin digest for actions](https://github.com/serious-scaffold/ss-cmake/pull/41) on [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) (2 weeks ago)
