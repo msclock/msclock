@@ -9,8 +9,8 @@ I’m l.feng, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) - A template of serious scaffold family based on pybind11. (1 day ago)
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (3 days ago)
+- [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) - A template of serious scaffold family based on pybind11. (2 days ago)
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (4 days ago)
 - [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) - The shared serious scaffold template to integrate cmake system. (1 week ago)
 - [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) - Package cppcheck as a python wheel. (2 weeks ago)
 - [msclock/gitea-webhook-example](https://github.com/msclock/gitea-webhook-example) -  (3 weeks ago)
@@ -22,9 +22,9 @@ I’m l.feng, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) ([v0.8.36](https://github.com/serious-scaffold/ss-pybind11/releases/tag/v0.8.36), 1 day ago) - A template of serious scaffold family based on pybind11.
-- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) ([v0.52.1](https://github.com/Upsonic/Upsonic/releases/tag/v0.52.1), 2 days ago) - The most reliable AI agent framework that supports MCP.
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.176](https://github.com/msclock/cmake-registry/releases/tag/v1.0.176), 5 days ago) - A cmake modules registry based on vcpkg
+- [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) ([v0.8.36](https://github.com/serious-scaffold/ss-pybind11/releases/tag/v0.8.36), 2 days ago) - A template of serious scaffold family based on pybind11.
+- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) ([v0.52.1](https://github.com/Upsonic/Upsonic/releases/tag/v0.52.1), 3 days ago) - The most reliable AI agent framework that supports MCP.
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.176](https://github.com/msclock/cmake-registry/releases/tag/v1.0.176), 6 days ago) - A cmake modules registry based on vcpkg
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.6.22](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.6.22), 1 week ago) - A continuously evolving basic template for cpp development practice.
 - [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) ([v0.0.16](https://github.com/serious-scaffold/ss-cmake/releases/tag/v0.0.16), 1 week ago) - The shared serious scaffold template to integrate cmake system.
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2025.03.19](https://github.com/microsoft/vcpkg/releases/tag/2025.03.19), 2 weeks ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
@@ -35,15 +35,15 @@ I’m l.feng, a software engineer and opensource enthusiast.
 
 #### 🔨 My recent Pull Requests
 
-- [perf: pin cmake and ninja in ci](https://github.com/serious-scaffold/ss-pybind11/pull/161) on [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) (1 day ago)
+- [perf: pin cmake and ninja in ci](https://github.com/serious-scaffold/ss-pybind11/pull/161) on [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) (2 days ago)
 - [perf: add a module type](https://github.com/serious-scaffold/ss-cpp/pull/484) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
 - [perf: update ss-cmake to v0.0.16 from v0.0.13](https://github.com/serious-scaffold/ss-cpp/pull/483) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 week ago)
 - [perf: Handle multi-config generators and set build type accordingly](https://github.com/serious-scaffold/ss-cmake/pull/43) on [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) (1 week ago)
 - [chore: update ss-cpp to v1.6.21](https://github.com/msclock/cppfront-practice/pull/53) on [msclock/cppfront-practice](https://github.com/msclock/cppfront-practice) (3 weeks ago)
 - [feat: add and change to mihomo patch](https://github.com/msclock/pysubconverter/pull/5) on [msclock/pysubconverter](https://github.com/msclock/pysubconverter) (3 weeks ago)
-- [perf: patch for vless](https://github.com/msclock/pysubconverter/pull/4) on [msclock/pysubconverter](https://github.com/msclock/pysubconverter) (3 weeks ago)
-- [chore: do not pin digest for actions](https://github.com/serious-scaffold/ss-cmake/pull/41) on [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) (3 weeks ago)
-- [perf(docs): add tricks for vcpkg ports and triples](https://github.com/serious-scaffold/ss-cmake/pull/40) on [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) (3 weeks ago)
-- [perf: stable build and export toolchian vars](https://github.com/serious-scaffold/ss-cmake/pull/39) on [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) (3 weeks ago)
+- [perf: patch for vless](https://github.com/msclock/pysubconverter/pull/4) on [msclock/pysubconverter](https://github.com/msclock/pysubconverter) (4 weeks ago)
+- [chore: do not pin digest for actions](https://github.com/serious-scaffold/ss-cmake/pull/41) on [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) (4 weeks ago)
+- [perf(docs): add tricks for vcpkg ports and triples](https://github.com/serious-scaffold/ss-cmake/pull/40) on [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) (4 weeks ago)
+- [perf: stable build and export toolchian vars](https://github.com/serious-scaffold/ss-cmake/pull/39) on [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) (4 weeks ago)
 
 Generated by https://github.com/muesli/readme-scribe
