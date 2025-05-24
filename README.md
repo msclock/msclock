@@ -9,7 +9,7 @@ I’m l.feng, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [msclock/pybit7z](https://github.com/msclock/pybit7z) - A wrapper based on bit7z. (2 days ago)
+- [msclock/pybit7z](https://github.com/msclock/pybit7z) - A wrapper based on bit7z. (3 days ago)
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (1 week ago)
 - [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) - A template of serious scaffold family based on pybind11. (2 weeks ago)
 - [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) - The shared serious scaffold template to integrate cmake system. (2 weeks ago)
@@ -22,9 +22,9 @@ I’m l.feng, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.179](https://github.com/msclock/cmake-registry/releases/tag/v1.0.179), 1 day ago) - A cmake modules registry based on vcpkg
-- [msclock/pybit7z](https://github.com/msclock/pybit7z) ([v0.4.0](https://github.com/msclock/pybit7z/releases/tag/v0.4.0), 2 days ago) - A wrapper based on bit7z.
-- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) ([v0.55.6](https://github.com/Upsonic/Upsonic/releases/tag/v0.55.6), 5 days ago) - The most reliable AI agent framework that supports MCP.
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.179](https://github.com/msclock/cmake-registry/releases/tag/v1.0.179), 2 days ago) - A cmake modules registry based on vcpkg
+- [msclock/pybit7z](https://github.com/msclock/pybit7z) ([v0.4.0](https://github.com/msclock/pybit7z/releases/tag/v0.4.0), 3 days ago) - A wrapper based on bit7z.
+- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) ([v0.55.6](https://github.com/Upsonic/Upsonic/releases/tag/v0.55.6), 6 days ago) - The most reliable AI agent framework that supports MCP.
 - [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) ([v0.8.41](https://github.com/serious-scaffold/ss-pybind11/releases/tag/v0.8.41), 2 weeks ago) - A template of serious scaffold family based on pybind11.
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.7.3](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.7.3), 2 weeks ago) - A continuously evolving basic template for cpp development practice.
 - [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) ([v0.0.18](https://github.com/serious-scaffold/ss-cmake/releases/tag/v0.0.18), 1 month ago) - The shared serious scaffold template to integrate cmake system.
@@ -35,7 +35,7 @@ I’m l.feng, a software engineer and opensource enthusiast.
 
 #### 🔨 My recent Pull Requests
 
-- [feat(cli): add a simple cli](https://github.com/msclock/pybit7z/pull/97) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (3 days ago)
+- [feat(cli): add a simple cli](https://github.com/msclock/pybit7z/pull/97) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (4 days ago)
 - [perf: update spdlog and fmt](https://github.com/serious-scaffold/ss-cpp/pull/526) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 weeks ago)
 - [perf: update spdlog and fmt](https://github.com/serious-scaffold/ss-cpp/pull/525) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 weeks ago)
 - [chore: revert &#34;update dependency cmake to v4&#34;](https://github.com/serious-scaffold/ss-pybind11/pull/179) on [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) (2 weeks ago)
