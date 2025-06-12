@@ -9,22 +9,21 @@ I’m l.feng, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [msclock/cppfront-practice](https://github.com/msclock/cppfront-practice) - Practice based on cppfront. (1 day ago)
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (6 days ago)
+- [msclock/cppfront-practice](https://github.com/msclock/cppfront-practice) - Practice based on cppfront. (2 days ago)
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (1 week ago)
 - [msclock/pybit7z](https://github.com/msclock/pybit7z) - A wrapper based on bit7z. (3 weeks ago)
 - [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) - A template of serious scaffold family based on pybind11. (1 month ago)
 - [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) - The shared serious scaffold template to integrate cmake system. (1 month ago)
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS (1 month ago)
 - [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) - Package cppcheck as a python wheel. (1 month ago)
 - [msclock/pysubconverter](https://github.com/msclock/pysubconverter) - A wrapper from subconverter (1 month ago)
-- [msclock/gitea-webhook-example](https://github.com/msclock/gitea-webhook-example) -  (2 months ago)
+- [msclock/gitea-webhook-example](https://github.com/msclock/gitea-webhook-example) -  (3 months ago)
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.179](https://github.com/msclock/cmake-registry/releases/tag/v1.0.179), 2 weeks ago) - A cmake modules registry based on vcpkg
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.179](https://github.com/msclock/cmake-registry/releases/tag/v1.0.179), 3 weeks ago) - A cmake modules registry based on vcpkg
 - [msclock/pybit7z](https://github.com/msclock/pybit7z) ([v0.4.0](https://github.com/msclock/pybit7z/releases/tag/v0.4.0), 3 weeks ago) - A wrapper based on bit7z.
-- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) ([v0.55.6](https://github.com/Upsonic/Upsonic/releases/tag/v0.55.6), 3 weeks ago) - The most reliable AI agent framework that supports MCP.
 - [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) ([v0.8.41](https://github.com/serious-scaffold/ss-pybind11/releases/tag/v0.8.41), 1 month ago) - A template of serious scaffold family based on pybind11.
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.7.3](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.7.3), 1 month ago) - A continuously evolving basic template for cpp development practice.
 - [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) ([v0.0.18](https://github.com/serious-scaffold/ss-cmake/releases/tag/v0.0.18), 1 month ago) - The shared serious scaffold template to integrate cmake system.
@@ -32,6 +31,7 @@ I’m l.feng, a software engineer and opensource enthusiast.
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2025.04.09](https://github.com/microsoft/vcpkg/releases/tag/2025.04.09), 2 months ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
 - [msclock/pysubconverter](https://github.com/msclock/pysubconverter) ([v0.2.0](https://github.com/msclock/pysubconverter/releases/tag/v0.2.0), 3 months ago) - A wrapper from subconverter
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.6.14](https://github.com/msclock/cmake-modules/releases/tag/v1.6.14), 5 months ago) - Some useful cmake module collection
+- [serious-scaffold/ss-license](https://github.com/serious-scaffold/ss-license) ([v0.0.2](https://github.com/serious-scaffold/ss-license/releases/tag/v0.0.2), 5 months ago) - The shared serious scaffold template to include license generation template.
 
 #### 🔨 My recent Pull Requests
 
