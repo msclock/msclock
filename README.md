@@ -9,7 +9,7 @@ I’m l.feng, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) - The shared serious scaffold template to integrate cmake system. (3 days ago)
+- [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) - The shared serious scaffold template to integrate cmake system. (4 days ago)
 - [msclock/cppfront-practice](https://github.com/msclock/cppfront-practice) - Practice based on cppfront. (1 week ago)
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (2 weeks ago)
 - [msclock/pybit7z](https://github.com/msclock/pybit7z) - A wrapper based on bit7z. (1 month ago)
@@ -22,8 +22,8 @@ I’m l.feng, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) ([v0.0.19](https://github.com/serious-scaffold/ss-cmake/releases/tag/v0.0.19), 3 days ago) - The shared serious scaffold template to integrate cmake system.
-- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2025.06.13](https://github.com/microsoft/vcpkg/releases/tag/2025.06.13), 6 days ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
+- [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) ([v0.0.19](https://github.com/serious-scaffold/ss-cmake/releases/tag/v0.0.19), 4 days ago) - The shared serious scaffold template to integrate cmake system.
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2025.06.13](https://github.com/microsoft/vcpkg/releases/tag/2025.06.13), 1 week ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.179](https://github.com/msclock/cmake-registry/releases/tag/v1.0.179), 1 month ago) - A cmake modules registry based on vcpkg
 - [msclock/pybit7z](https://github.com/msclock/pybit7z) ([v0.4.0](https://github.com/msclock/pybit7z/releases/tag/v0.4.0), 1 month ago) - A wrapper based on bit7z.
 - [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) ([v0.8.41](https://github.com/serious-scaffold/ss-pybind11/releases/tag/v0.8.41), 1 month ago) - A template of serious scaffold family based on pybind11.
@@ -35,7 +35,7 @@ I’m l.feng, a software engineer and opensource enthusiast.
 
 #### 🔨 My recent Pull Requests
 
-- [fix: bootstrap vcpkg from sources in linux](https://github.com/serious-scaffold/ss-cmake/pull/55) on [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) (3 days ago)
+- [fix: bootstrap vcpkg from sources in linux](https://github.com/serious-scaffold/ss-cmake/pull/55) on [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) (4 days ago)
 - [feat(cli): add a simple cli](https://github.com/msclock/pybit7z/pull/97) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (1 month ago)
 - [perf: update spdlog and fmt](https://github.com/serious-scaffold/ss-cpp/pull/526) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 month ago)
 - [perf: update spdlog and fmt](https://github.com/serious-scaffold/ss-cpp/pull/525) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (1 month ago)
