@@ -9,7 +9,7 @@ I’m l.feng, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (2 days ago)
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (3 days ago)
 - [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) - A template of serious scaffold family based on pybind11. (1 month ago)
 - [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) - The shared serious scaffold template to integrate cmake system. (2 months ago)
 - [msclock/cppfront-practice](https://github.com/msclock/cppfront-practice) - Practice based on cppfront. (2 months ago)
@@ -23,7 +23,7 @@ I’m l.feng, a software engineer and opensource enthusiast.
 #### 🔭 Latest releases I've contributed to
 
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.190](https://github.com/msclock/cmake-registry/releases/tag/v1.0.190), 1 week ago) - A cmake modules registry based on vcpkg
-- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2025.07.25](https://github.com/microsoft/vcpkg/releases/tag/2025.07.25), 3 weeks ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2025.07.25](https://github.com/microsoft/vcpkg/releases/tag/2025.07.25), 4 weeks ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
 - [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) ([v0.8.42](https://github.com/serious-scaffold/ss-pybind11/releases/tag/v0.8.42), 1 month ago) - A template of serious scaffold family based on pybind11.
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.7.4](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.7.4), 1 month ago) - A continuously evolving basic template for cpp development practice.
 - [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) ([v0.0.19](https://github.com/serious-scaffold/ss-cmake/releases/tag/v0.0.19), 2 months ago) - The shared serious scaffold template to integrate cmake system.
