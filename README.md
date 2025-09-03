@@ -11,6 +11,7 @@ I’m l.feng, a software engineer and opensource enthusiast.
 
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (1 week ago)
 - [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) - A template of serious scaffold family based on pybind11. (1 month ago)
+- [jwms-gg/AutoDetectLinks](https://github.com/jwms-gg/AutoDetectLinks) -  (1 month ago)
 - [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) - The shared serious scaffold template to integrate cmake system. (2 months ago)
 - [msclock/cppfront-practice](https://github.com/msclock/cppfront-practice) - Practice based on cppfront. (2 months ago)
 - [msclock/pybit7z](https://github.com/msclock/pybit7z) - A wrapper based on bit7z. (3 months ago)
@@ -18,11 +19,10 @@ I’m l.feng, a software engineer and opensource enthusiast.
 - [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) - Package cppcheck as a python wheel. (4 months ago)
 - [msclock/pysubconverter](https://github.com/msclock/pysubconverter) - A wrapper from subconverter (4 months ago)
 - [msclock/gitea-webhook-example](https://github.com/msclock/gitea-webhook-example) -  (5 months ago)
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (6 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2025.08.27](https://github.com/microsoft/vcpkg/releases/tag/2025.08.27), 5 days ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2025.08.27](https://github.com/microsoft/vcpkg/releases/tag/2025.08.27), 6 days ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.190](https://github.com/msclock/cmake-registry/releases/tag/v1.0.190), 2 weeks ago) - A cmake modules registry based on vcpkg
 - [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) ([v0.8.42](https://github.com/serious-scaffold/ss-pybind11/releases/tag/v0.8.42), 1 month ago) - A template of serious scaffold family based on pybind11.
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.7.4](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.7.4), 1 month ago) - A continuously evolving basic template for cpp development practice.
