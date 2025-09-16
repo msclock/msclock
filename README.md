@@ -31,7 +31,7 @@ I’m l.feng, a software engineer and opensource enthusiast.
 - [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) ([v1.5.1](https://github.com/msclock/cppcheck-wheel/releases/tag/v1.5.1), 5 months ago) - Package cppcheck as a python wheel.
 - [msclock/pysubconverter](https://github.com/msclock/pysubconverter) ([v0.2.0](https://github.com/msclock/pysubconverter/releases/tag/v0.2.0), 6 months ago) - A wrapper from subconverter
 - [msclock/cmake-modules](https://github.com/msclock/cmake-modules) ([v1.6.14](https://github.com/msclock/cmake-modules/releases/tag/v1.6.14), 8 months ago) - Some useful cmake module collection
-- [serious-scaffold/ss-license](https://github.com/serious-scaffold/ss-license) ([v0.0.2](https://github.com/serious-scaffold/ss-license/releases/tag/v0.0.2), 8 months ago) - The shared serious scaffold template to include license generation template.
+- [serious-scaffold/ss-license](https://github.com/serious-scaffold/ss-license) ([v0.0.2](https://github.com/serious-scaffold/ss-license/releases/tag/v0.0.2), 9 months ago) - The shared serious scaffold template to include license generation template.
 
 #### 🔨 My recent Pull Requests
 
