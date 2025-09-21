@@ -9,7 +9,7 @@ I’m l.feng, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (4 weeks ago)
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (1 month ago)
 - [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) - A template of serious scaffold family based on pybind11. (2 months ago)
 - [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) - The shared serious scaffold template to integrate cmake system. (3 months ago)
 - [msclock/cppfront-practice](https://github.com/msclock/cppfront-practice) - Practice based on cppfront. (3 months ago)
@@ -35,7 +35,7 @@ I’m l.feng, a software engineer and opensource enthusiast.
 
 #### 🔨 My recent Pull Requests
 
-- [chore: align torchvision with torch](https://github.com/huggingface/lerobot/pull/1979) on [huggingface/lerobot](https://github.com/huggingface/lerobot) (1 day ago)
+- [chore: align torchvision with torch](https://github.com/huggingface/lerobot/pull/1979) on [huggingface/lerobot](https://github.com/huggingface/lerobot) (2 days ago)
 - [fix: update to llvm-19](https://github.com/serious-scaffold/ss-cpp/pull/551) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 months ago)
 - [fix: switch to windows-2025](https://github.com/serious-scaffold/ss-pybind11/pull/199) on [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) (2 months ago)
 - [fix: switch to windows-2022](https://github.com/serious-scaffold/ss-pybind11/pull/198) on [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) (2 months ago)
