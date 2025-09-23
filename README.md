@@ -22,7 +22,7 @@ I’m l.feng, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2025.08.27](https://github.com/microsoft/vcpkg/releases/tag/2025.08.27), 3 weeks ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2025.09.17](https://github.com/microsoft/vcpkg/releases/tag/2025.09.17), 1 day ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.190](https://github.com/msclock/cmake-registry/releases/tag/v1.0.190), 1 month ago) - A cmake modules registry based on vcpkg
 - [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) ([v0.8.42](https://github.com/serious-scaffold/ss-pybind11/releases/tag/v0.8.42), 2 months ago) - A template of serious scaffold family based on pybind11.
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.7.4](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.7.4), 2 months ago) - A continuously evolving basic template for cpp development practice.
@@ -35,7 +35,7 @@ I’m l.feng, a software engineer and opensource enthusiast.
 
 #### 🔨 My recent Pull Requests
 
-- [chore: align torchvision with torch](https://github.com/huggingface/lerobot/pull/1979) on [huggingface/lerobot](https://github.com/huggingface/lerobot) (3 days ago)
+- [chore: align torchvision with torch](https://github.com/huggingface/lerobot/pull/1979) on [huggingface/lerobot](https://github.com/huggingface/lerobot) (4 days ago)
 - [fix: update to llvm-19](https://github.com/serious-scaffold/ss-cpp/pull/551) on [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) (2 months ago)
 - [fix: switch to windows-2025](https://github.com/serious-scaffold/ss-pybind11/pull/199) on [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) (2 months ago)
 - [fix: switch to windows-2022](https://github.com/serious-scaffold/ss-pybind11/pull/198) on [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) (2 months ago)
