@@ -15,14 +15,14 @@ I’m l.feng, a software engineer and opensource enthusiast.
 - [msclock/cppfront-practice](https://github.com/msclock/cppfront-practice) - Practice based on cppfront. (5 months ago)
 - [msclock/pybit7z](https://github.com/msclock/pybit7z) - A wrapper based on bit7z. (5 months ago)
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS (6 months ago)
-- [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) - Package cppcheck as a python wheel. (6 months ago)
+- [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) - Package cppcheck as a python wheel. (7 months ago)
 - [msclock/pysubconverter](https://github.com/msclock/pysubconverter) - A wrapper from subconverter (7 months ago)
 - [msclock/gitea-webhook-example](https://github.com/msclock/gitea-webhook-example) -  (8 months ago)
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (8 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.192](https://github.com/msclock/cmake-registry/releases/tag/v1.0.192), 5 days ago) - A cmake modules registry based on vcpkg
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.192](https://github.com/msclock/cmake-registry/releases/tag/v1.0.192), 6 days ago) - A cmake modules registry based on vcpkg
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2025.10.17](https://github.com/microsoft/vcpkg/releases/tag/2025.10.17), 3 weeks ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
 - [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) ([v0.8.42](https://github.com/serious-scaffold/ss-pybind11/releases/tag/v0.8.42), 3 months ago) - A template of serious scaffold family based on pybind11.
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.7.4](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.7.4), 3 months ago) - A continuously evolving basic template for cpp development practice.
