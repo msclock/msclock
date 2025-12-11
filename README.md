@@ -17,12 +17,12 @@ I’m l.feng, a software engineer and opensource enthusiast.
 - [msclock/pybit7z](https://github.com/msclock/pybit7z) - A wrapper based on bit7z. (6 months ago)
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS (7 months ago)
 - [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) - Package cppcheck as a python wheel. (7 months ago)
-- [msclock/pysubconverter](https://github.com/msclock/pysubconverter) - A wrapper from subconverter (7 months ago)
+- [msclock/pysubconverter](https://github.com/msclock/pysubconverter) - A wrapper from subconverter (8 months ago)
 - [msclock/gitea-webhook-example](https://github.com/msclock/gitea-webhook-example) -  (9 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.193](https://github.com/msclock/cmake-registry/releases/tag/v1.0.193), 2 days ago) - A cmake modules registry based on vcpkg
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.193](https://github.com/msclock/cmake-registry/releases/tag/v1.0.193), 3 days ago) - A cmake modules registry based on vcpkg
 - [AgiBot-World/VideoDataset](https://github.com/AgiBot-World/VideoDataset) ([v0.1.1](https://github.com/AgiBot-World/VideoDataset/releases/tag/v0.1.1), 1 week ago) - A GPU-accelerated library that enables random frame access and efficient video decoding for data loading.
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2025.10.17](https://github.com/microsoft/vcpkg/releases/tag/2025.10.17), 1 month ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
 - [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) ([v0.8.42](https://github.com/serious-scaffold/ss-pybind11/releases/tag/v0.8.42), 4 months ago) - A template of serious scaffold family based on pybind11.
