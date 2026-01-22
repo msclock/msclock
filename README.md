@@ -9,7 +9,7 @@ I’m l.feng, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [AgiBot-World/VideoDataset](https://github.com/AgiBot-World/VideoDataset) - A GPU-accelerated library that enables random frame access and efficient video decoding for data loading. (1 week ago)
+- [AgiBot-World/VideoDataset](https://github.com/AgiBot-World/VideoDataset) - A GPU-accelerated library that enables random frame access and efficient video decoding for data loading. (2 weeks ago)
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (3 months ago)
 - [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) - A template of serious scaffold family based on pybind11. (6 months ago)
 - [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) - The shared serious scaffold template to integrate cmake system. (7 months ago)
@@ -22,9 +22,9 @@ I’m l.feng, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.196](https://github.com/msclock/cmake-registry/releases/tag/v1.0.196), 3 days ago) - A cmake modules registry based on vcpkg
-- [AgiBot-World/VideoDataset](https://github.com/AgiBot-World/VideoDataset) ([v0.1.5](https://github.com/AgiBot-World/VideoDataset/releases/tag/v0.1.5), 1 week ago) - A GPU-accelerated library that enables random frame access and efficient video decoding for data loading.
-- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2025.12.12](https://github.com/microsoft/vcpkg/releases/tag/2025.12.12), 1 month ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2026.01.16](https://github.com/microsoft/vcpkg/releases/tag/2026.01.16), 1 day ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.196](https://github.com/msclock/cmake-registry/releases/tag/v1.0.196), 4 days ago) - A cmake modules registry based on vcpkg
+- [AgiBot-World/VideoDataset](https://github.com/AgiBot-World/VideoDataset) ([v0.1.5](https://github.com/AgiBot-World/VideoDataset/releases/tag/v0.1.5), 2 weeks ago) - A GPU-accelerated library that enables random frame access and efficient video decoding for data loading.
 - [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) ([v0.8.42](https://github.com/serious-scaffold/ss-pybind11/releases/tag/v0.8.42), 6 months ago) - A template of serious scaffold family based on pybind11.
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.7.4](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.7.4), 6 months ago) - A continuously evolving basic template for cpp development practice.
 - [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) ([v0.0.19](https://github.com/serious-scaffold/ss-cmake/releases/tag/v0.0.19), 7 months ago) - The shared serious scaffold template to integrate cmake system.
