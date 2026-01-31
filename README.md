@@ -39,9 +39,9 @@ I’m l.feng, a software engineer and opensource enthusiast.
 - [ci: build whls based on python version seperately](https://github.com/AgiBot-World/VideoDataset/pull/41) on [AgiBot-World/VideoDataset](https://github.com/AgiBot-World/VideoDataset) (1 month ago)
 - [perf: link built ffmpeg](https://github.com/AgiBot-World/VideoDataset/pull/34) on [AgiBot-World/VideoDataset](https://github.com/AgiBot-World/VideoDataset) (1 month ago)
 - [fix: exclude all external libs](https://github.com/AgiBot-World/VideoDataset/pull/33) on [AgiBot-World/VideoDataset](https://github.com/AgiBot-World/VideoDataset) (1 month ago)
-- [ci(patch-release): add missing pages artifact actions](https://github.com/AgiBot-World/VideoDataset/pull/24) on [AgiBot-World/VideoDataset](https://github.com/AgiBot-World/VideoDataset) (1 month ago)
-- [chore: close cmake configure on open](https://github.com/AgiBot-World/VideoDataset/pull/23) on [AgiBot-World/VideoDataset](https://github.com/AgiBot-World/VideoDataset) (1 month ago)
-- [ci: build docs in ci](https://github.com/AgiBot-World/VideoDataset/pull/22) on [AgiBot-World/VideoDataset](https://github.com/AgiBot-World/VideoDataset) (1 month ago)
+- [ci(patch-release): add missing pages artifact actions](https://github.com/AgiBot-World/VideoDataset/pull/24) on [AgiBot-World/VideoDataset](https://github.com/AgiBot-World/VideoDataset) (2 months ago)
+- [chore: close cmake configure on open](https://github.com/AgiBot-World/VideoDataset/pull/23) on [AgiBot-World/VideoDataset](https://github.com/AgiBot-World/VideoDataset) (2 months ago)
+- [ci: build docs in ci](https://github.com/AgiBot-World/VideoDataset/pull/22) on [AgiBot-World/VideoDataset](https://github.com/AgiBot-World/VideoDataset) (2 months ago)
 - [ci: enable codecov](https://github.com/AgiBot-World/VideoDataset/pull/14) on [AgiBot-World/VideoDataset](https://github.com/AgiBot-World/VideoDataset) (2 months ago)
 - [chore: remove unused badges](https://github.com/AgiBot-World/VideoDataset/pull/13) on [AgiBot-World/VideoDataset](https://github.com/AgiBot-World/VideoDataset) (2 months ago)
 
