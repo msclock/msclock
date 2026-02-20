@@ -10,7 +10,7 @@ I’m l.feng, a software engineer and opensource enthusiast.
 #### 👷 Check out what I'm currently working on
 
 - [AgiBot-World/VideoDataset](https://github.com/AgiBot-World/VideoDataset) - A GPU-accelerated library that enables random frame access and efficient video decoding for data loading. (1 month ago)
-- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (3 months ago)
+- [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (4 months ago)
 - [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) - A template of serious scaffold family based on pybind11. (7 months ago)
 - [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) - The shared serious scaffold template to integrate cmake system. (8 months ago)
 - [msclock/cppfront-practice](https://github.com/msclock/cppfront-practice) - Practice based on cppfront. (8 months ago)
@@ -22,7 +22,7 @@ I’m l.feng, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
-- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2026.01.16](https://github.com/microsoft/vcpkg/releases/tag/2026.01.16), 4 weeks ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2026.01.16](https://github.com/microsoft/vcpkg/releases/tag/2026.01.16), 1 month ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.196](https://github.com/msclock/cmake-registry/releases/tag/v1.0.196), 1 month ago) - A cmake modules registry based on vcpkg
 - [AgiBot-World/VideoDataset](https://github.com/AgiBot-World/VideoDataset) ([v0.1.5](https://github.com/AgiBot-World/VideoDataset/releases/tag/v0.1.5), 1 month ago) - A GPU-accelerated library that enables random frame access and efficient video decoding for data loading.
 - [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) ([v0.8.42](https://github.com/serious-scaffold/ss-pybind11/releases/tag/v0.8.42), 7 months ago) - A template of serious scaffold family based on pybind11.
