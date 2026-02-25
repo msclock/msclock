@@ -22,8 +22,8 @@ I’m l.feng, a software engineer and opensource enthusiast.
 
 #### 🔭 Latest releases I've contributed to
 
+- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.197](https://github.com/msclock/cmake-registry/releases/tag/v1.0.197), 1 day ago) - A cmake modules registry based on vcpkg
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) ([2026.01.16](https://github.com/microsoft/vcpkg/releases/tag/2026.01.16), 1 month ago) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
-- [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.196](https://github.com/msclock/cmake-registry/releases/tag/v1.0.196), 1 month ago) - A cmake modules registry based on vcpkg
 - [AgiBot-World/VideoDataset](https://github.com/AgiBot-World/VideoDataset) ([v0.1.5](https://github.com/AgiBot-World/VideoDataset/releases/tag/v0.1.5), 1 month ago) - A GPU-accelerated library that enables random frame access and efficient video decoding for data loading.
 - [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) ([v0.8.42](https://github.com/serious-scaffold/ss-pybind11/releases/tag/v0.8.42), 7 months ago) - A template of serious scaffold family based on pybind11.
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.7.4](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.7.4), 7 months ago) - A continuously evolving basic template for cpp development practice.
