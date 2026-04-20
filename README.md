@@ -16,8 +16,6 @@ I’m l.feng, a software engineer and opensource enthusiast.
 - [msclock/cppfront-practice](https://github.com/msclock/cppfront-practice) - Practice based on cppfront. (10 months ago)
 - [msclock/pybit7z](https://github.com/msclock/pybit7z) - A wrapper based on bit7z. (11 months ago)
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS (11 months ago)
-- [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) - Package cppcheck as a python wheel. (1 year ago)
-- [msclock/pysubconverter](https://github.com/msclock/pysubconverter) - A wrapper from subconverter (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
