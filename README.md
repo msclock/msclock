@@ -13,7 +13,6 @@ I’m l.feng, a software engineer and opensource enthusiast.
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (7 months ago)
 - [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) - A template of serious scaffold family based on pybind11. (11 months ago)
 - [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) - The shared serious scaffold template to integrate cmake system. (1 year ago)
-- [msclock/cppfront-practice](https://github.com/msclock/cppfront-practice) - Practice based on cppfront. (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
