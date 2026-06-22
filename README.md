@@ -12,7 +12,6 @@ I’m l.feng, a software engineer and opensource enthusiast.
 - [AgiBot-World/VideoDataset](https://github.com/AgiBot-World/VideoDataset) - A GPU-accelerated library that enables random frame access and efficient video decoding for data loading. (5 months ago)
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (8 months ago)
 - [serious-scaffold/ss-pybind11](https://github.com/serious-scaffold/ss-pybind11) - A template of serious scaffold family based on pybind11. (11 months ago)
-- [serious-scaffold/ss-cmake](https://github.com/serious-scaffold/ss-cmake) - The shared serious scaffold template to integrate cmake system. (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
