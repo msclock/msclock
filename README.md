@@ -9,31 +9,31 @@ I’m l.feng, a software engineer and opensource enthusiast.
 
 #### 👷 Check out what I'm currently working on
 
-- [msclock/pybit7z](https://github.com/msclock/pybit7z) - A wrapper based on bit7z. (2 days ago)
-- [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) - Package cppcheck as a python wheel. (6 days ago)
+- [msclock/pybit7z](https://github.com/msclock/pybit7z) - A wrapper based on bit7z. (today)
+- [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) - Package cppcheck as a python wheel. (1 week ago)
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) - A continuously evolving basic template for cpp development practice. (1 week ago)
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) - A cmake modules registry based on vcpkg (1 week ago)
 - [AgiBot-World/VideoDataset](https://github.com/AgiBot-World/VideoDataset) - A GPU-accelerated library that enables random frame access and efficient video decoding for data loading. (9 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [msclock/pybit7z](https://github.com/msclock/pybit7z) ([v1.0.2](https://github.com/msclock/pybit7z/releases/tag/v1.0.2), 2 days ago) - A wrapper based on bit7z.
-- [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) ([v1.5.3](https://github.com/msclock/cppcheck-wheel/releases/tag/v1.5.3), 6 days ago) - Package cppcheck as a python wheel.
+- [msclock/pybit7z](https://github.com/msclock/pybit7z) ([v1.0.2](https://github.com/msclock/pybit7z/releases/tag/v1.0.2), 3 days ago) - A wrapper based on bit7z.
+- [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) ([v1.5.3](https://github.com/msclock/cppcheck-wheel/releases/tag/v1.5.3), 1 week ago) - Package cppcheck as a python wheel.
 - [msclock/cmake-registry](https://github.com/msclock/cmake-registry) ([v1.0.206](https://github.com/msclock/cmake-registry/releases/tag/v1.0.206), 1 week ago) - A cmake modules registry based on vcpkg
 - [AgiBot-World/VideoDataset](https://github.com/AgiBot-World/VideoDataset) ([v0.1.5](https://github.com/AgiBot-World/VideoDataset/releases/tag/v0.1.5), 9 months ago) - A GPU-accelerated library that enables random frame access and efficient video decoding for data loading.
 - [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) ([v1.7.4](https://github.com/serious-scaffold/ss-cpp/releases/tag/v1.7.4), 1 year ago) - A continuously evolving basic template for cpp development practice.
 
 #### 🔨 My recent Pull Requests
 
-- [fix: accept bytes input for memory buffers](https://github.com/msclock/pybit7z/pull/124) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (2 days ago)
-- [fix: build wheels for cd](https://github.com/msclock/pybit7z/pull/123) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (4 days ago)
-- [feat: update 7zip and bit7z](https://github.com/msclock/pybit7z/pull/122) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (4 days ago)
-- [chore(ci): update test-skip for macOS architecture](https://github.com/msclock/pybit7z/pull/121) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (6 days ago)
-- [chore(ci): improve build matrix](https://github.com/msclock/pybit7z/pull/120) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (6 days ago)
-- [chore(ci): expand macOS universal tags](https://github.com/msclock/pybit7z/pull/119) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (6 days ago)
-- [chore: fix bootstrap vcpkg script](https://github.com/msclock/cppcheck-wheel/pull/196) on [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) (6 days ago)
+- [fix: optimize zero-copy and correct bugs](https://github.com/msclock/pybit7z/pull/125) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (today)
+- [fix: accept bytes input for memory buffers](https://github.com/msclock/pybit7z/pull/124) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (3 days ago)
+- [fix: build wheels for cd](https://github.com/msclock/pybit7z/pull/123) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (5 days ago)
+- [feat: update 7zip and bit7z](https://github.com/msclock/pybit7z/pull/122) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (5 days ago)
+- [chore(ci): update test-skip for macOS architecture](https://github.com/msclock/pybit7z/pull/121) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (1 week ago)
+- [chore(ci): improve build matrix](https://github.com/msclock/pybit7z/pull/120) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (1 week ago)
+- [chore(ci): expand macOS universal tags](https://github.com/msclock/pybit7z/pull/119) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (1 week ago)
+- [chore: fix bootstrap vcpkg script](https://github.com/msclock/cppcheck-wheel/pull/196) on [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) (1 week ago)
 - [chore(deps): upgrade mypy to v2.4.0 and run CI](https://github.com/msclock/pybit7z/pull/116) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (1 week ago)
 - [chore(deps): update mypy version to v2.4.0 in pre-commit config](https://github.com/msclock/cppcheck-wheel/pull/193) on [msclock/cppcheck-wheel](https://github.com/msclock/cppcheck-wheel) (1 week ago)
-- [perf: skip handle picture display](https://github.com/AgiBot-World/VideoDataset/pull/60) on [AgiBot-World/VideoDataset](https://github.com/AgiBot-World/VideoDataset) (9 months ago)
 
 Generated by https://github.com/muesli/readme-scribe
