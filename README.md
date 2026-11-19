@@ -26,7 +26,7 @@ I’m l.feng, a software engineer and opensource enthusiast.
 #### 🔨 My recent Pull Requests
 
 - [feat: support new api](https://github.com/msclock/pybit7z/pull/134) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (2 weeks ago)
-- [fix: run cli with external plugins](https://github.com/msclock/pybit7z/pull/132) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (4 weeks ago)
+- [fix: run cli with external plugins](https://github.com/msclock/pybit7z/pull/132) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (1 month ago)
 - [docs: enhance README for clarity](https://github.com/msclock/pybit7z/pull/129) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (1 month ago)
 - [chore: enhance CLI tests coverage](https://github.com/msclock/pybit7z/pull/128) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (1 month ago)
 - [feat: add additional 7zip codecs](https://github.com/msclock/pybit7z/pull/127) on [msclock/pybit7z](https://github.com/msclock/pybit7z) (1 month ago)
